@@ -9,6 +9,43 @@ export default function Home() {
     <>
       {/* Hero Section */}
       <section className={styles.hero}>
+        {/* Brand Logos Banner - positioned below fixed header */}
+        <div className="absolute top-[80px] left-0 right-0 z-10 bg-white/95 backdrop-blur-sm border-b border-gray-200/20">
+          <div className="max-w-7xl mx-auto px-4 py-3">
+            <div className="flex items-center justify-center gap-3 sm:gap-4 lg:gap-6">
+              <span className="hidden sm:inline text-sm font-medium text-gray-700 mr-2">Trusted Brands:</span>
+              <a href="/brands" className="hover:opacity-80 transition-opacity flex-shrink-0">
+                <img
+                  src="/andersen-windows-and-doors-logo.png"
+                  alt="Andersen Windows & Doors"
+                  className="h-6 sm:h-7 lg:h-8 w-auto"
+                />
+              </a>
+              <a href="/brands" className="hover:opacity-80 transition-opacity flex-shrink-0">
+                <img
+                  src="/Pella-Corp-Windows-Doors-Logo-2x1-1.png"
+                  alt="Pella Windows & Doors"
+                  className="h-6 sm:h-7 lg:h-8 w-auto"
+                />
+              </a>
+              <a href="/brands" className="hover:opacity-80 transition-opacity flex-shrink-0">
+                <img
+                  src="/jeld-wen-windows-and-doors-logo.png"
+                  alt="Jeld-Wen Windows & Doors"
+                  className="h-6 sm:h-7 lg:h-8 w-auto"
+                />
+              </a>
+              <a href="/brands" className="hover:opacity-80 transition-opacity flex-shrink-0">
+                <img
+                  src="/Marvin-LOCKUP-CMYK-898x301.png"
+                  alt="Marvin Windows & Doors"
+                  className="h-6 sm:h-7 lg:h-8 w-auto"
+                />
+              </a>
+            </div>
+          </div>
+        </div>
+
         <div className={styles.container}>
           <div className={styles.heroGrid}>
             <div className={styles.heroLeft}>
@@ -49,13 +86,35 @@ export default function Home() {
       <section className={styles.brandsBar}>
         <div className={styles.container}>
           <p className={styles.brandsIntro}>Premium Window Manufacturers</p>
-          <div className={styles.brandsGrid}>
-            {brandsData.map((brand) => (
-              <Link href={brand.route} key={brand.slug} className={styles.brandItem}>
-                <span className={styles.brandName}>{brand.name.split(' ')[0].toUpperCase()}</span>
-                <span className={styles.brandTagline}>Windows &amp; Doors</span>
-              </Link>
-            ))}
+          <div className="flex flex-wrap justify-center items-center gap-8 lg:gap-12 max-w-6xl mx-auto">
+            <Link href="/brands/andersen-windows-doors" className="hover:opacity-80 transition-opacity">
+              <img
+                src="/andersen-windows-and-doors-logo.png"
+                alt="Andersen Windows & Doors"
+                className="h-16 lg:h-20 w-auto"
+              />
+            </Link>
+            <Link href="/brands/pella-windows-doors" className="hover:opacity-80 transition-opacity">
+              <img
+                src="/Pella-Corp-Windows-Doors-Logo-2x1-1.png"
+                alt="Pella Windows & Doors"
+                className="h-16 lg:h-20 w-auto"
+              />
+            </Link>
+            <Link href="/brands/jeld-wen-windows-doors" className="hover:opacity-80 transition-opacity">
+              <img
+                src="/jeld-wen-windows-and-doors-logo.png"
+                alt="Jeld-Wen Windows & Doors"
+                className="h-16 lg:h-20 w-auto"
+              />
+            </Link>
+            <Link href="/brands/marvin-windows-doors" className="hover:opacity-80 transition-opacity">
+              <img
+                src="/Marvin-LOCKUP-CMYK-898x301.png"
+                alt="Marvin Windows & Doors"
+                className="h-16 lg:h-20 w-auto"
+              />
+            </Link>
           </div>
         </div>
       </section>
