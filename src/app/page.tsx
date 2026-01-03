@@ -52,7 +52,7 @@ export default function Home() {
               <span className={styles.heroLabel}>McKinney&apos;s Premier Window Specialists</span>
               <h1>Premium Window Replacement<br /><em>for McKinney Homes</em></h1>
               <p className={styles.heroSubtitle}>
-                Authorized dealer for America&apos;s most trusted window brands. Transform your home with 
+                America&apos;s most trusted window brands. Transform your home with
                 energy-efficient windows backed by lifetime warranties and expert installation.
               </p>
               <div className={styles.heroTrust}>

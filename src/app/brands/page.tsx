@@ -6,7 +6,7 @@ import styles from '../windows/windows.module.css'
 
 export const metadata: Metadata = {
   title: 'Window & Door Brands McKinney TX | Andersen, Pella, JELD-WEN & Marvin | Window Replacements of McKinney',
-  description: 'Authorized dealer for Andersen, Pella, JELD-WEN, and Marvin windows and doors in McKinney, TX. Premium brands, expert installation. Free estimates. Call 945-206-3998.',
+  description: 'Andersen, Pella, JELD-WEN, and Marvin windows and doors in McKinney, TX. Premium brands, expert installation. Free estimates. Call 945-206-3998.',
   keywords: 'Andersen windows McKinney, Pella windows McKinney, JELD-WEN windows, Marvin windows, window brands McKinney TX',
 }
 

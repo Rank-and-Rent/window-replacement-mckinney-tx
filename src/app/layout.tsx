@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     default: 'Window Replacement McKinney TX | Andersen, Pella & JELD-WEN Experts',
     template: '%s | Window Replacements of McKinney',
   },
-  description: 'Premium window replacement in McKinney, Texas. Authorized dealer for Andersen, Pella & JELD-WEN windows. Expert installation of double-hung, casement, bay & bow windows. Free estimates. Call 945-206-3998.',
+  description: 'Premium window replacement in McKinney, Texas. Andersen, Pella & JELD-WEN windows. Expert installation of double-hung, casement, bay & bow windows. Free estimates. Call 945-206-3998.',
   keywords: [
     'window replacement McKinney TX',
     'Andersen windows McKinney',
@@ -66,7 +66,7 @@ export const metadata: Metadata = {
     url: 'https://windowreplacementmckinney.com',
     siteName: 'Window Replacements of McKinney',
     title: 'Best Window Replacement in McKinney, TX',
-    description: 'Premium window replacement in McKinney, Texas. Authorized dealer for Andersen, Pella & JELD-WEN windows.',
+    description: 'Premium window replacement in McKinney, Texas. Andersen, Pella & JELD-WEN windows.',
     images: [
       {
         url: '/og-image.jpg',
@@ -104,7 +104,7 @@ export default function RootLayout({
               '@id': 'https://windowreplacementmckinney.com/#organization',
               name: 'Window Replacements of McKinney',
               alternateName: 'McKinney Window Replacement',
-              description: 'Premium window replacement in McKinney, Texas. Authorized dealer for Andersen, Pella & JELD-WEN windows.',
+              description: 'Premium window replacement in McKinney, Texas. Andersen, Pella & JELD-WEN windows.',
               url: 'https://windowreplacementmckinney.com',
               telephone: '+1-945-206-3998',
               email: 'info@windowreplacementmckinney.com',
