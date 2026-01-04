@@ -19,6 +19,57 @@
     linear-gradient(135deg, #f5f1eb 0%, #f0eae0 25%, #ebe5db 50%, #e5ddd4 75%, #e0d9cc 100%);
 }
 
+/* Hero Brand Banner */
+.heroBrandsBanner {
+  position: absolute;
+  top: 140px;
+  left: 0;
+  right: 0;
+  z-index: 10;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.heroBrandsContainer {
+  max-width: 1320px;
+  margin: 0 auto;
+  padding: 0.75rem 1.5rem;
+}
+
+.heroBrandsRow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.heroBrandsLabel {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--color-text-light);
+  margin-right: 0.5rem;
+}
+
+.heroBrandLink {
+  display: flex;
+  align-items: center;
+  transition: opacity 0.3s ease;
+  flex-shrink: 0;
+}
+
+.heroBrandLink:hover {
+  opacity: 0.7;
+}
+
+.heroBrandLogo {
+  height: 28px;
+  width: auto;
+  max-width: 100px;
+  object-fit: contain;
+}
+
 .heroGrid {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -112,6 +163,44 @@
   text-transform: uppercase;
   letter-spacing: 2px;
   margin-bottom: 2rem;
+}
+
+.brandsLogoGrid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.5rem;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.brandLogoCard {
+  background: var(--color-white);
+  padding: 1.5rem;
+  border-radius: var(--radius-md);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: var(--shadow-sm);
+  transition: var(--transition);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100px;
+}
+
+.brandLogoCard:hover {
+  background: var(--color-bg);
+  border-color: var(--color-accent);
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-md);
+}
+
+.brandLogo {
+  width: 100%;
+  max-width: 140px;
+  height: auto;
+  max-height: 60px;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto;
 }
 
 .brandsGrid {
@@ -658,12 +747,37 @@
     max-width: 450px;
     margin: 0 auto;
   }
+  
+  .brandsLogoGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
 @media (max-width: 768px) {
   .hero {
     min-height: auto;
     padding: 6rem 0 4rem;
+  }
+  
+  .heroBrandsBanner {
+    top: 90px;
+  }
+  
+  .heroBrandsContainer {
+    padding: 0.5rem 1rem;
+  }
+  
+  .heroBrandsRow {
+    gap: 0.75rem;
+  }
+  
+  .heroBrandsLabel {
+    display: none;
+  }
+  
+  .heroBrandLogo {
+    height: 22px;
+    max-width: 80px;
   }
   
   .heroLeft {
@@ -683,6 +797,21 @@
   
   .trustDivider {
     display: none;
+  }
+  
+  .brandsLogoGrid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+  
+  .brandLogoCard {
+    padding: 1rem;
+    min-height: 80px;
+  }
+  
+  .brandLogo {
+    max-width: 100px;
+    max-height: 50px;
   }
   
   .brandsGrid {

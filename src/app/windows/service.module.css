@@ -127,6 +127,30 @@
   background: linear-gradient(135deg, var(--color-bg-alt), var(--color-bg-dark));
 }
 
+/* Brand Logo Section */
+.brandLogoSection {
+  padding: 4rem 0 5rem;
+  background: var(--color-bg-alt);
+}
+
+.brandLogoWrapper {
+  text-align: center;
+}
+
+.brandLogo {
+  height: 70px;
+  width: auto;
+  max-width: 200px;
+  object-fit: contain;
+  margin: 0 auto 1rem;
+}
+
+.brandLogoSection h2 {
+  font-size: 1.5rem;
+  color: var(--color-text);
+  margin-top: 0;
+}
+
 /* Main Content */
 .mainContent {
   padding: 6rem 0;

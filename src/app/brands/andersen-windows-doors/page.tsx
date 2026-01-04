@@ -75,17 +75,14 @@ export default function AndersenPage() {
       </section>
 
       {/* Prominent Brand Logo */}
-      <section className="py-16 lg:py-20 bg-gray-50">
-        <div className="max-w-6xl mx-auto px-6">
-          <div className="flex items-center justify-center">
-            <div className="text-center">
-              <img
-                src="/andersen-windows-and-doors-mckinney-tx-logo.png"
-                alt="Andersen Windows & Doors"
-                className="h-20 lg:h-24 w-auto mx-auto mb-4"
-              />
-              <h2 className="text-xl lg:text-2xl font-serif text-gray-800">Authorized Andersen Dealer</h2>
-            </div>
+      <section className={styles.brandLogoSection}>
+        <div className={styles.container}>
+          <div className={styles.brandLogoWrapper}>
+            <img
+              src="/andersen-windows-and-doors-mckinney-tx-logo.png"
+              alt="Andersen Windows & Doors"
+              className={styles.brandLogo}
+            />
           </div>
         </div>
       </section>
