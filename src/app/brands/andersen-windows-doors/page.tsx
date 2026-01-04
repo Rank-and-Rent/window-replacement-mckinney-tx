@@ -80,7 +80,7 @@ export default function AndersenPage() {
           <div className="flex items-center justify-center">
             <div className="text-center">
               <img
-                src="/andersen-windows-and-doors-logo.png"
+                src="/andersen-windows-and-doors-mckinney-tx-logo.png"
                 alt="Andersen Windows & Doors"
                 className="h-20 lg:h-24 w-auto mx-auto mb-4"
               />

@@ -81,7 +81,7 @@ export default function JeldWenPage() {
           <div className="flex items-center justify-center">
             <div className="text-center">
               <img
-                src="/jeld-wen-windows-and-doors-logo.png"
+                src="/jeld-wen-windows-and-doors-mckinney-tx-logo.png"
                 alt="Jeld-Wen Windows & Doors"
                 className="h-20 lg:h-24 w-auto mx-auto mb-4"
               />

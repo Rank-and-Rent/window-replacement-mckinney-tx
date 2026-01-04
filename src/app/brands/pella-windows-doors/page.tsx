@@ -81,7 +81,7 @@ export default function PellaPage() {
           <div className="flex items-center justify-center">
             <div className="text-center">
               <img
-                src="/Pella-Corp-Windows-Doors-Logo-2x1-1.png"
+                src="/pella-windows-and-doors-mckinney-tx-logo.png"
                 alt="Pella Windows & Doors"
                 className="h-20 lg:h-24 w-auto mx-auto mb-4"
               />

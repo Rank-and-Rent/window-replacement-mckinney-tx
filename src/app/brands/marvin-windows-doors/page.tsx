@@ -81,7 +81,7 @@ export default function MarvinPage() {
           <div className="flex items-center justify-center">
             <div className="text-center">
               <img
-                src="/Marvin-LOCKUP-CMYK-898x301.png"
+                src="/marvin-windows-and-doors-mckinney-tx-logo.png"
                 alt="Marvin Windows & Doors"
                 className="h-20 lg:h-24 w-auto mx-auto mb-4"
               />
