@@ -1,0 +1,38 @@
+import { COMPANY_NAME, PHONE, PHONE_DIGITS, EMAIL, ADDRESS, CANONICAL_URL } from '@/lib/config';
+
+export function getBrand() {
+  return {
+    subject: "We received your window replacement inquiry",
+    preheader: "Thanks for your inquiry, we have received your window replacement request and will contact you within one business day.",
+    company_name: COMPANY_NAME,
+    logo_url: `${CANONICAL_URL}logo.png`,
+    city_state: "McKinney, TX",
+    brand_accent: "#ea580c",
+    cta_dark_bg: "#111827",
+    bg_color: "#111827",
+    text_dark: "#111827",
+    text_muted: "#6b7280",
+    text_body: "#374151",
+    text_faint: "#9ca3af",
+    border_color: "#e5e7eb",
+    card_header_bg: "#f3f4f6",
+    card_header_text: "#111827",
+    header_text_color: "#FFFFFF",
+    footer_text_color: "#FFFFFF",
+    hero_title: "Thanks for your inquiry. We received your window replacement request.",
+    hero_subtitle: "Our team will review your details and reach out within one business day to discuss your project.",
+    details_title: "Your project details",
+    call_cta_label: "Call Now",
+    call_phone: PHONE,
+    call_phone_plain: PHONE_DIGITS,
+    site_cta_label: "Go To Site",
+    site_url: CANONICAL_URL,
+    address_line: ADDRESS,
+    footer_note: "This confirmation is a transactional email related to your request.",
+    brand_title: COMPANY_NAME,
+    brand_tagline: 'Premium Window & Door Installation in McKinney, TX',
+    supportPhone: PHONE,
+    supportEmail: EMAIL,
+    service_area: 'Serving McKinney and the Greater DFW Metroplex',
+  };
+}

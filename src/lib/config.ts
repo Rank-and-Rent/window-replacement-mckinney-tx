@@ -1,0 +1,10 @@
+export const PRIMARY_CITY = "McKinney";
+export const PRIMARY_STATE_ABBR = "TX";
+export const PRIMARY_STATE_FULL = "Texas";
+export const COMPANY_NAME = "Window Replacement McKinney";
+export const PHONE = "945-206-3998";
+export const PHONE_DIGITS = "19452063998";
+export const EMAIL = "info@windowreplacementmckinney.com";
+export const ADDRESS = "McKinney, TX";
+export const CANONICAL_URL = "https://www.windowreplacementmckinney.com/";
+export const BUSINESS_HOURS = "Open 24/7";
