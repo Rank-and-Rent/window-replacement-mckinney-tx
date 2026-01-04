@@ -5,7 +5,7 @@ export function getBrand() {
     subject: "We received your window replacement inquiry",
     preheader: "Thanks for your inquiry, we have received your window replacement request and will contact you within one business day.",
     company_name: COMPANY_NAME,
-    logo_url: `${CANONICAL_URL}logo.png`,
+    logo_url: `${CANONICAL_URL}window-replacement-mckinney-logo.png`,
     city_state: "McKinney, TX",
     brand_accent: "#ea580c",
     cta_dark_bg: "#111827",
