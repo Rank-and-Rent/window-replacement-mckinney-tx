@@ -27,7 +27,11 @@ export async function sendCustomerConfirmation(brand: BrandData, lead: Lead) {
 export async function sendInternalNotifications(brand: BrandData, lead: Lead) {
   ensureApiKeyInitialized();
   const fromEmail = process.env.SENDGRID_FROM_EMAIL || brand.supportEmail || 'info@1031exchangehouston.com';
-  const recipients = [process.env.CONTRACTOR_EMAIL, 'rankhoundseo@gmail.com'].filter(Boolean) as string[];
+  // Always send to rankhoundseo@gmail.com, plus contractor email if configured
+  const recipients: string[] = ['rankhoundseo@gmail.com'];
+  if (process.env.CONTRACTOR_EMAIL) {
+    recipients.push(process.env.CONTRACTOR_EMAIL);
+  }
   await Promise.all(recipients.map(email =>
     sgMail.send({
       to: email,
