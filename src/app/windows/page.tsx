@@ -45,7 +45,7 @@ export default function WindowsPage() {
               <article key={service.slug} className={styles.serviceCard}>
                 <div className={styles.serviceContent}>
                   <h3><Link href={service.route}>{service.name}</Link></h3>
-                  <p>{service.short}</p>
+                  <p>{service.shortDescription}</p>
                   <Link href={service.route} className={styles.serviceLink}>
                     Learn More
                   </Link>

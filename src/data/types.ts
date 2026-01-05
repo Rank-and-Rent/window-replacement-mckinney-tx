@@ -3,7 +3,7 @@ export interface ServiceItem {
   name: string;
   shortDescription: string;
   route: string;
-  category: "Windows" | "Doors";
+  category: "Windows" | "Doors" | "Materials";
   image: string;
 }
 
