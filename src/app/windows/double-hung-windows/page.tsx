@@ -207,7 +207,7 @@ export default function DoubleHungWindowsPage() {
           <div className={styles.faqGrid}>
             <details className={styles.faqItem}>
               <summary>How much do double-hung replacement windows cost in McKinney?</summary>
-              <p>Double-hung replacement window costs typically range from $400-$800 per window installed, depending on the size, brand, and features selected. We provide detailed written estimates with no hidden fees.</p>
+              <p>Double-hung replacement window costs with installation typically range from $400-$800 per window, depending on the size, brand, and features selected. Everything is priced including installation. Pricing starts at around $850 for small vinyl windows and goes up to $3500 per window depending on frame material, like wood clad windows. We do not sell windows without installation.</p>
             </details>
             
             <details className={styles.faqItem}>

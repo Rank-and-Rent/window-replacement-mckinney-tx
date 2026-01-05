@@ -364,7 +364,7 @@ export default function Home() {
           <div className={styles.faqGrid}>
             <details className={styles.faqItem}>
               <summary>How much do replacement windows cost in McKinney, TX?</summary>
-              <p>Replacement window costs in McKinney typically range from $300-$1,200 per window, depending on the style, brand, and features selected. Andersen and Pella premium options may cost more, while JELD-WEN offers excellent value. We provide free, detailed estimates so you know exactly what to expect with no hidden fees.</p>
+              <p>Replacement window costs with installation in McKinney typically range from $300-$1,200 per window, depending on the style, brand, and features selected. Everything is priced including installation. Pricing starts at around $850 for small vinyl windows and goes up to $3500 per window depending on frame material, like wood clad windows. We do not sell windows without installation.</p>
             </details>
             
             <details className={styles.faqItem}>
@@ -408,7 +408,7 @@ export default function Home() {
                 name: 'How much do replacement windows cost in McKinney, TX?',
                 acceptedAnswer: {
                   '@type': 'Answer',
-                  text: 'Replacement window costs in McKinney typically range from $300-$1,200 per window, depending on the style, brand, and features selected. Andersen and Pella premium options may cost more, while JELD-WEN offers excellent value. We provide free, detailed estimates so you know exactly what to expect with no hidden fees.',
+                  text: 'Replacement window costs with installation in McKinney typically range from $300-$1,200 per window, depending on the style, brand, and features selected. Everything is priced including installation. Pricing starts at around $850 for small vinyl windows and goes up to $3500 per window depending on frame material, like wood clad windows. We do not sell windows without installation.',
                 },
               },
               {

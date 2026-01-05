@@ -179,7 +179,7 @@ export default function SingleHungWindowsPage() {
           <div className={styles.faqGrid}>
             <details className={styles.faqItem}>
               <summary>How much do single-hung windows cost?</summary>
-              <p>Single-hung windows typically cost $300-$600 per window installed, making them one of the most affordable replacement window options available.</p>
+              <p>Single-hung windows with installation typically cost $300-$600 per window, making them one of the most affordable replacement window options available. Everything is priced including installation. Pricing starts at around $850 for small vinyl windows and goes up to $3500 per window depending on frame material, like wood clad windows. We do not sell windows without installation.</p>
             </details>
             
             <details className={styles.faqItem}>
