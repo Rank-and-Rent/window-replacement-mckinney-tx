@@ -84,8 +84,8 @@ export default function Header() {
         <div className={styles.container}>
           <Link href="/" className={styles.logo} onClick={closeMobileMenu}>
             <Image
-              src="/logo.png"
-              alt="Home Window Replacement Service of Arlington TX"
+              src="/window-replacement-mckinney-logo.png"
+              alt="Home Window Replacement Service of McKinney TX"
               width={200}
               height={60}
               className={styles.logoImage}
@@ -358,8 +358,8 @@ export default function Header() {
         <div className={styles.mobileMenuHeader}>
           <Link href="/" className={styles.mobileLogo} onClick={closeMobileMenu}>
             <Image
-              src="/logo.png"
-              alt="Home Window Replacement Service of Arlington TX"
+              src="/window-replacement-mckinney-logo.png"
+              alt="Home Window Replacement Service of McKinney TX"
               width={150}
               height={40}
               className={styles.mobileLogoImage}
