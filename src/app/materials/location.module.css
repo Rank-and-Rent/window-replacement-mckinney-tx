@@ -262,6 +262,16 @@
 
 /* Responsive */
 @media (max-width: 992px) {
+  .heroContent {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+  
+  .heroImage {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
   .contentGrid {
     grid-template-columns: 1fr;
   }
@@ -282,6 +292,22 @@
 }
 
 @media (max-width: 768px) {
+  .hero {
+    padding: 2rem 0;
+  }
+  
+  .heroContent {
+    gap: 1.5rem;
+  }
+  
+  .heroImage {
+    max-width: 100%;
+  }
+  
+  .contentSection {
+    padding: 4rem 0;
+  }
+  
   .servicesGrid {
     grid-template-columns: 1fr;
   }

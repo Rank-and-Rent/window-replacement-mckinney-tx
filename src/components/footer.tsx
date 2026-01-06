@@ -5,8 +5,45 @@ import styles from './footer.module.css'
 export default function Footer() {
   const currentYear = new Date().getFullYear()
   
-  const windowServices = servicesData.filter(s => s.category === 'Windows')
-  const doorServices = servicesData.filter(s => s.category === 'Doors')
+  // Only show items that have actual pages (matching Fort Worth structure)
+  const validWindowSlugs = [
+    'double-hung-windows',
+    'single-hung-windows',
+    'casement-windows',
+    'awning-windows',
+    'sliding-windows',
+    'picture-windows',
+    'bay-bow-windows',
+    'special-shape-windows',
+  ]
+  
+  const validDoorSlugs = [
+    'entry-door-installation',
+    'patio-door-installation',
+    'french-door-installation',
+    'sliding-glass-door-installation',
+    'storm-door-installation',
+    'custom-door-installation',
+  ]
+  
+  const validMaterialSlugs = [
+    'vinyl-windows',
+    'aluminum-windows',
+    'fibrex-windows',
+    'fiberglass-windows',
+    'wood-clad-windows',
+    'wood-windows',
+  ]
+  
+  const windowServices = servicesData.filter(s => 
+    s.category === 'Windows' && validWindowSlugs.includes(s.slug)
+  )
+  const doorServices = servicesData.filter(s => 
+    s.category === 'Doors' && validDoorSlugs.includes(s.slug)
+  )
+  const materialServices = servicesData.filter(s => 
+    s.category === 'Materials' && validMaterialSlugs.includes(s.slug)
+  )
   const topLocations = locationsData.slice(0, 8)
 
   return (
@@ -52,6 +89,18 @@ export default function Footer() {
             <h4 className={styles.columnTitle}>Doors</h4>
             <ul className={styles.linkList}>
               {doorServices.map((service) => (
+                <li key={service.slug}>
+                  <Link href={service.route}>{service.name}</Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          {/* Materials Column */}
+          <div className={styles.linksColumn}>
+            <h4 className={styles.columnTitle}>Materials</h4>
+            <ul className={styles.linkList}>
+              {materialServices.map((service) => (
                 <li key={service.slug}>
                   <Link href={service.route}>{service.name}</Link>
                 </li>
@@ -114,6 +163,7 @@ export default function Footer() {
           <Link href="/contact">Contact</Link>
           <Link href="/privacy">Privacy Policy</Link>
           <Link href="/terms">Terms of Service</Link>
+          <Link href="/sitemap.xml">Sitemap</Link>
         </div>
 
         {/* Google Maps */}

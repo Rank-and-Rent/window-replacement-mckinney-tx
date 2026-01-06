@@ -54,6 +54,18 @@ export default function ContactPage() {
     return () => { cancelled = true; clearTimeout(t); };
   }, [siteKey]);
 
+  // Handle hash scroll to contact form
+  useEffect(() => {
+    if (window.location.hash === '#contact-form') {
+      const form = document.getElementById('contact-form');
+      if (form) {
+        setTimeout(() => {
+          form.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }, 100);
+      }
+    }
+  }, []);
+
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {
     setFormData(prev => ({ ...prev, [e.target.name]: e.target.value }));
     setErrors(prev => ({ ...prev, [e.target.name]: undefined }));
@@ -109,7 +121,7 @@ export default function ContactPage() {
               <h2>Request Your Free Estimate</h2>
               {status === 'success' && <div style={{ background: '#22c55e', color: 'white', padding: '1rem', borderRadius: '4px', marginBottom: '1rem' }}>{feedback}</div>}
               {status === 'error' && <div style={{ background: '#ef4444', color: 'white', padding: '1rem', borderRadius: '4px', marginBottom: '1rem' }}>{feedback}</div>}
-              <form className={styles.form} onSubmit={handleSubmit}>
+              <form id="contact-form" className={styles.form} onSubmit={handleSubmit}>
                 <fieldset disabled={status === 'submitting'} style={{ border: 'none', padding: 0, margin: 0 }}>
                   <div className={styles.formGroup}><label htmlFor="fullName">Full Name *</label><input type="text" id="fullName" name="fullName" required placeholder="John Smith" value={formData.fullName} onChange={handleChange} />{errors.fullName && <p style={{ color: '#ef4444', fontSize: '0.875rem' }}>{errors.fullName}</p>}</div>
                   <div className={styles.formGroup}><label htmlFor="phone">Phone Number *</label><input type="tel" id="phone" name="phone" required placeholder="(972) 555-0123" value={formData.phone} onChange={handleChange} />{errors.phone && <p style={{ color: '#ef4444', fontSize: '0.875rem' }}>{errors.phone}</p>}</div>

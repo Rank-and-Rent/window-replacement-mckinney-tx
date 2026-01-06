@@ -11,7 +11,29 @@ export const metadata: Metadata = {
 }
 
 export default function WindowsPage() {
-  const windowServices = servicesData.filter(s => s.category === 'Windows')
+  // Only show these 6 window types
+  const allowedWindowSlugs = [
+    'double-hung-windows',
+    'casement-windows',
+    'awning-windows',
+    'sliding-windows',
+    'picture-windows',
+    'single-hung-windows',
+  ]
+  
+  const windowServices = servicesData.filter(s => 
+    s.category === 'Windows' && allowedWindowSlugs.includes(s.slug)
+  )
+  
+  // Map window services to available images
+  const windowImageMap: Record<string, string> = {
+    'double-hung-windows': '/windows/double-hung-windows-mckinney-tx.jpg',
+    'casement-windows': '/windows/casement-windows-mckinney-tx.jpg',
+    'awning-windows': '/windows/awning-windows-mckinney-tx.jpg',
+    'sliding-windows': '/windows/sliding-windows-mckinney-tx.webp',
+    'picture-windows': '/windows/picture-windows-mckinney-tx.jpg',
+    'single-hung-windows': '/windows/single-hung-windows-mckinney-tx.jpg',
+  }
 
   return (
     <>
@@ -43,6 +65,13 @@ export default function WindowsPage() {
           <div className={styles.servicesGrid}>
             {windowServices.map((service) => (
               <article key={service.slug} className={styles.serviceCard}>
+                <div className={styles.serviceImage}>
+                  <img
+                    src={windowImageMap[service.slug] || service.image || '/window-types/vinyl-mckinney-tx.jpg'}
+                    alt={service.name}
+                    className={styles.serviceImage}
+                  />
+                </div>
                 <div className={styles.serviceContent}>
                   <h3><Link href={service.route}>{service.name}</Link></h3>
                   <p>{service.shortDescription}</p>

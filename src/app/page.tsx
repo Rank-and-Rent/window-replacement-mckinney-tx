@@ -1,9 +1,39 @@
 import Link from 'next/link'
-import { servicesData, brandsData, siteConfig } from '@/data'
+import { servicesData, brandsData, siteConfig, locationsData } from '@/data'
+import MaterialsSection from '@/components/materials-section'
 import styles from './page.module.css'
 
 export default function Home() {
-  const windowServices = servicesData.filter(s => s.category === 'Windows')
+  // Only show the 8 window types that match images in public/windows
+  const windowTypeSlugs = [
+    'double-hung-windows',
+    'casement-windows',
+    'awning-windows',
+    'sliding-windows',
+    'picture-windows',
+    'bay-windows', // bay-bow-windows image covers both bay and bow
+    'single-hung-windows',
+    'specialty-shape-windows', // special-shape-windows
+  ]
+  
+  // Map slugs to image paths
+  const windowImageMap: Record<string, string> = {
+    'double-hung-windows': '/windows/double-hung-windows-mckinney-tx.jpg',
+    'casement-windows': '/windows/casement-windows-mckinney-tx.jpg',
+    'awning-windows': '/windows/awning-windows-mckinney-tx.jpg',
+    'sliding-windows': '/windows/sliding-windows-mckinney-tx.webp',
+    'picture-windows': '/windows/picture-windows-mckinney-tx.jpg',
+    'bay-windows': '/windows/bay-bow-windows-mckinney-tx.jpg',
+    'single-hung-windows': '/windows/single-hung-windows-mckinney-tx.jpg',
+    'specialty-shape-windows': '/windows/special-shape-windows-mckinney-tx.webp',
+  }
+  
+  const windowServices = servicesData
+    .filter(s => s.category === 'Windows' && windowTypeSlugs.includes(s.slug))
+    .map(service => ({
+      ...service,
+      image: windowImageMap[service.slug] || service.image
+    }))
 
   return (
     <>
@@ -148,6 +178,9 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      {/* Materials Section */}
+      <MaterialsSection />
 
       {/* About Section */}
       <section className={styles.about}>
@@ -321,16 +354,11 @@ export default function Home() {
             <h3>Proudly Serving McKinney &amp; Surrounding Communities</h3>
             <p>Our expert window replacement services extend throughout Collin County and beyond:</p>
             <div className={styles.areasList}>
-              <span>McKinney</span>
-              <span>Frisco</span>
-              <span>Allen</span>
-              <span>Plano</span>
-              <span>Prosper</span>
-              <span>Celina</span>
-              <span>Anna</span>
-              <span>Princeton</span>
-              <span>Fairview</span>
-              <span>Lucas</span>
+              {locationsData.map((location) => (
+                <Link key={location.slug} href={location.route} className={styles.areaLink}>
+                  {location.name}
+                </Link>
+              ))}
             </div>
           </div>
         </div>

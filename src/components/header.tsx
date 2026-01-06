@@ -70,10 +70,45 @@ export default function Header() {
     setMobileActiveDropdown(null)
   }
 
-  // Split services into windows, doors, and materials
-  const windowServices = servicesData.filter(s => s.category === 'Windows')
-  const doorServices = servicesData.filter(s => s.category === 'Doors')
-  const materialServices = servicesData.filter(s => s.category === 'Materials')
+  // Only show items that have actual pages (matching Fort Worth structure)
+  const validWindowSlugs = [
+    'double-hung-windows',
+    'single-hung-windows',
+    'casement-windows',
+    'awning-windows',
+    'sliding-windows',
+    'picture-windows',
+    'bay-bow-windows',
+    'special-shape-windows',
+  ]
+  
+  const validDoorSlugs = [
+    'entry-door-installation',
+    'patio-door-installation',
+    'french-door-installation',
+    'sliding-glass-door-installation',
+    'storm-door-installation',
+    'custom-door-installation',
+  ]
+  
+  const validMaterialSlugs = [
+    'vinyl-windows',
+    'aluminum-windows',
+    'fibrex-windows',
+    'fiberglass-windows',
+    'wood-clad-windows',
+    'wood-windows',
+  ]
+  
+  const windowServices = servicesData.filter(s => 
+    s.category === 'Windows' && validWindowSlugs.includes(s.slug)
+  )
+  const doorServices = servicesData.filter(s => 
+    s.category === 'Doors' && validDoorSlugs.includes(s.slug)
+  )
+  const materialServices = servicesData.filter(s => 
+    s.category === 'Materials' && validMaterialSlugs.includes(s.slug)
+  )
   
   // Top 8 locations for dropdown (main city first, then most populous)
   const topLocations = locationsData.slice(0, 8)
@@ -172,7 +207,7 @@ export default function Header() {
                     </Link>
                   ))}
                   <Link
-                    href="/windows"
+                    href="/materials"
                     className={`${styles.dropdownItem} ${styles.viewAll}`}
                     onClick={() => setActiveDropdown(null)}
                   >
@@ -434,7 +469,7 @@ export default function Header() {
                 </Link>
               ))}
               <Link
-                href="/windows"
+                href="/materials"
                 className={`${styles.mobileDropdownItem} ${styles.mobileViewAll}`}
                 onClick={closeMobileMenu}
               >
@@ -565,7 +600,27 @@ export default function Header() {
         </div>
       </nav>
 
-      {/* Floating Mobile Call Button */}
+      {/* Floating Mobile Buttons */}
+      <Link 
+        href="/contact#contact-form"
+        className={styles.floatingQuoteButton}
+        aria-label="Get Free Quote"
+        onClick={(e) => {
+          // If we're already on the contact page, scroll to form
+          if (window.location.pathname === '/contact') {
+            e.preventDefault()
+            const form = document.getElementById('contact-form')
+            if (form) {
+              form.scrollIntoView({ behavior: 'smooth', block: 'start' })
+            }
+          }
+        }}
+      >
+        <svg viewBox="0 0 24 24" width="24" height="24" fill="currentColor">
+          <path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H6l-2 2V4h16v12z"/>
+        </svg>
+        <span className={styles.floatingButtonLabel}>Get Free Quote</span>
+      </Link>
       <a 
         href="tel:817-592-8870" 
         className={styles.floatingCallButton}

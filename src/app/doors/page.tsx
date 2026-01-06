@@ -1,6 +1,5 @@
 import { Metadata } from 'next'
 import Link from 'next/link'
-import Image from 'next/image'
 import { servicesData, siteConfig } from '@/data'
 import styles from '../windows/windows.module.css'
 
@@ -11,7 +10,29 @@ export const metadata: Metadata = {
 }
 
 export default function DoorsPage() {
-  const doorServices = servicesData.filter(s => s.category === 'Doors')
+  // Only show these 6 door types
+  const allowedDoorSlugs = [
+    'entry-door-installation',
+    'patio-door-installation',
+    'french-door-installation',
+    'sliding-glass-door-installation',
+    'storm-door-installation',
+    'custom-door-installation',
+  ]
+  
+  const doorServices = servicesData.filter(s => 
+    s.category === 'Doors' && allowedDoorSlugs.includes(s.slug)
+  )
+  
+  // Map door services to available images
+  const doorImageMap: Record<string, string> = {
+    'entry-door-installation': '/doors/entry-doors-mckinney-tx.jpg',
+    'patio-door-installation': '/doors/patio-doors-mckinney-tx.avif',
+    'french-door-installation': '/doors/french-doors-mckinney-tx.avif',
+    'sliding-glass-door-installation': '/doors/sliding-glass-doors-mckinney-tx.avif',
+    'storm-door-installation': '/doors/storm-doors-mckinney-tx.jpg',
+    'custom-door-installation': '/doors/custom-doors-mckinney-tx.jpg',
+  }
 
   return (
     <>
@@ -40,12 +61,10 @@ export default function DoorsPage() {
             {doorServices.map((service) => (
               <article key={service.slug} className={styles.serviceCard}>
                 <div className={styles.serviceImage}>
-                  <Image
-                    src={service.image}
+                  <img
+                    src={doorImageMap[service.slug] || service.image || '/doors/entry-doors-mckinney-tx.jpg'}
                     alt={`${service.name} in McKinney, TX`}
-                    width={400}
-                    height={300}
-                    style={{ width: '100%', height: 'auto' }}
+                    className={styles.serviceImage}
                   />
                 </div>
                 <div className={styles.serviceContent}>

@@ -8,6 +8,9 @@ export const metadata: Metadata = {
   title: 'JELD-WEN Windows & Doors McKinney TX | Window Replacements of McKinney',
   description: 'Quality windows and doors in McKinney, TX. Exceptional value, expert installation, factory warranties. Free estimates. Call 945-206-3998.',
   keywords: 'JELD-WEN windows McKinney TX, JELD-WEN doors, AuraLast wood, JELD-WEN McKinney',
+  alternates: {
+    canonical: 'https://windowreplacementmckinney.com/brands/jeld-wen-windows-doors',
+  },
 }
 
 export default function JeldWenPage() {

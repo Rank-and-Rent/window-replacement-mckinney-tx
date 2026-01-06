@@ -8,6 +8,9 @@ export const metadata: Metadata = {
   title: 'Marvin Windows & Doors McKinney TX | Window Replacements of McKinney',
   description: 'Luxury custom windows and doors in McKinney, TX. Expert installation, factory warranties. Free estimates. Call 945-206-3998.',
   keywords: 'Marvin windows McKinney TX, Marvin doors, custom windows, luxury windows McKinney',
+  alternates: {
+    canonical: 'https://windowreplacementmckinney.com/brands/marvin-windows-doors',
+  },
 }
 
 export default function MarvinPage() {

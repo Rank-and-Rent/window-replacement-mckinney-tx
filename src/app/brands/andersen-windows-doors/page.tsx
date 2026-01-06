@@ -8,6 +8,9 @@ export const metadata: Metadata = {
   title: 'Andersen Windows & Doors McKinney TX | Window Replacements of McKinney',
   description: 'Premium Andersen windows and doors in McKinney, TX. Fibrex technology, expert installation, factory warranties. Free estimates. Call 945-206-3998.',
   keywords: 'Andersen windows McKinney TX, Andersen doors, Fibrex windows, Andersen McKinney',
+  alternates: {
+    canonical: 'https://windowreplacementmckinney.com/brands/andersen-windows-doors',
+  },
 }
 
 export default function AndersenPage() {

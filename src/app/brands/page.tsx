@@ -1,13 +1,15 @@
 import { Metadata } from 'next'
 import Link from 'next/link'
-import Image from 'next/image'
 import { brandsData, siteConfig } from '@/data'
-import styles from '../windows/windows.module.css'
+import styles from './brands.module.css'
 
 export const metadata: Metadata = {
   title: 'Window & Door Brands McKinney TX | Andersen, Pella, JELD-WEN & Marvin | Window Replacements of McKinney',
   description: 'Andersen, Pella, JELD-WEN, and Marvin windows and doors in McKinney, TX. Premium brands, expert installation. Free estimates. Call 945-206-3998.',
   keywords: 'Andersen windows McKinney, Pella windows McKinney, JELD-WEN windows, Marvin windows, window brands McKinney TX',
+  alternates: {
+    canonical: 'https://windowreplacementmckinney.com/brands',
+  },
 }
 
 export default function BrandsPage() {
@@ -32,35 +34,35 @@ export default function BrandsPage() {
       </section>
 
       {/* Prominent Brand Logos */}
-      <section className="py-16 lg:py-20 bg-gray-50">
-        <div className="max-w-6xl mx-auto px-6">
-          <div className="flex flex-wrap items-center justify-center gap-8 lg:gap-12">
-            <Link href="/brands/andersen-windows-doors" className="hover:opacity-80 transition-opacity">
+      <section className={styles.logoBanner}>
+        <div className={styles.logoBannerContainer}>
+          <div className={styles.logoGrid}>
+            <Link href="/brands/andersen-windows-doors" className={styles.logoLink}>
               <img
                 src="/andersen-windows-and-doors-mckinney-tx-logo.png"
                 alt="Andersen Windows & Doors"
-                className="h-16 lg:h-20 w-auto"
+                className={styles.logoImage}
               />
             </Link>
-            <Link href="/brands/pella-windows-doors" className="hover:opacity-80 transition-opacity">
+            <Link href="/brands/pella-windows-doors" className={styles.logoLink}>
               <img
                 src="/pella-windows-and-doors-mckinney-tx-logo.png"
                 alt="Pella Windows & Doors"
-                className="h-16 lg:h-20 w-auto"
+                className={styles.logoImage}
               />
             </Link>
-            <Link href="/brands/jeld-wen-windows-doors" className="hover:opacity-80 transition-opacity">
+            <Link href="/brands/jeld-wen-windows-doors" className={styles.logoLink}>
               <img
                 src="/jeld-wen-windows-and-doors-mckinney-tx-logo.png"
                 alt="Jeld-Wen Windows & Doors"
-                className="h-16 lg:h-20 w-auto"
+                className={styles.logoImage}
               />
             </Link>
-            <Link href="/brands/marvin-windows-doors" className="hover:opacity-80 transition-opacity">
+            <Link href="/brands/marvin-windows-doors" className={styles.logoLink}>
               <img
                 src="/marvin-windows-and-doors-mckinney-tx-logo.png"
                 alt="Marvin Windows & Doors"
-                className="h-16 lg:h-20 w-auto"
+                className={styles.logoImage}
               />
             </Link>
           </div>
@@ -68,24 +70,22 @@ export default function BrandsPage() {
       </section>
 
       {/* Brands Grid */}
-      <section className={styles.servicesSection}>
+      <section className={styles.brandsSection}>
         <div className={styles.container}>
-          <div className={styles.servicesGrid}>
+          <div className={styles.brandsGrid}>
             {brandsData.map((brand) => (
-              <article key={brand.slug} className={styles.serviceCard}>
-                <div className={styles.serviceImage}>
-                  <Image
+              <article key={brand.slug} className={styles.brandCard}>
+                <div className={styles.brandImageWrapper}>
+                  <img
                     src={brand.image}
                     alt={`${brand.name} in McKinney, TX`}
-                    width={400}
-                    height={300}
-                    style={{ width: '100%', height: 'auto' }}
+                    className={styles.brandImage}
                   />
                 </div>
-                <div className={styles.serviceContent}>
+                <div className={styles.brandContent}>
                   <h2><Link href={brand.route}>{brand.name}</Link></h2>
                   <p>{brand.description.substring(0, 150)}...</p>
-                  <Link href={brand.route} className={styles.serviceLink}>
+                  <Link href={brand.route} className={styles.brandLink}>
                     Learn More
                   </Link>
                 </div>

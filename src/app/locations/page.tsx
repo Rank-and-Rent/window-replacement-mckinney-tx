@@ -1,6 +1,5 @@
 import { Metadata } from 'next'
 import Link from 'next/link'
-import Image from 'next/image'
 import { locationsData, siteConfig } from '@/data'
 import styles from '../windows/windows.module.css'
 
@@ -38,12 +37,10 @@ export default function LocationsPage() {
             {locationsData.map((location) => (
               <article key={location.slug} className={styles.serviceCard}>
                 <div className={styles.serviceImage}>
-                  <Image
+                  <img
                     src={location.image}
                     alt={`Window replacement in ${location.name}, TX`}
-                    width={400}
-                    height={300}
-                    style={{ width: '100%', height: 'auto' }}
+                    className={styles.serviceImage}
                   />
                 </div>
                 <div className={styles.serviceContent}>

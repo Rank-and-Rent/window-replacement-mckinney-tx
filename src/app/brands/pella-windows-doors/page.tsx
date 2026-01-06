@@ -8,6 +8,9 @@ export const metadata: Metadata = {
   title: 'Pella Windows & Doors McKinney TX | Window Replacements of McKinney',
   description: 'Premium Pella windows and doors in McKinney, TX. Between-glass blinds, expert installation, factory warranties. Free estimates. Call 945-206-3998.',
   keywords: 'Pella windows McKinney TX, Pella doors, between-glass blinds, Pella McKinney',
+  alternates: {
+    canonical: 'https://windowreplacementmckinney.com/brands/pella-windows-doors',
+  },
 }
 
 export default function PellaPage() {
