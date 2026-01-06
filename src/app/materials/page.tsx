@@ -7,6 +7,9 @@ export const metadata: Metadata = {
   title: 'Window Materials McKinney TX | Vinyl, Aluminum, Fiberglass & More',
   description: 'Premium window materials in McKinney, TX. Choose from vinyl, aluminum, fiberglass, wood, and more. Expert guidance on the best material for your home. Free estimates.',
   keywords: 'window materials McKinney TX, vinyl windows, aluminum windows, fiberglass windows, wood windows',
+  alternates: {
+    canonical: 'https://windowreplacementmckinney.com/materials',
+  },
 }
 
 export default function MaterialsPage() {

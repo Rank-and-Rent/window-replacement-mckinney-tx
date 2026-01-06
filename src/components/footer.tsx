@@ -100,6 +100,9 @@ export default function Footer() {
           <div className={styles.linksColumn}>
             <h4 className={styles.columnTitle}>Materials</h4>
             <ul className={styles.linkList}>
+              <li>
+                <Link href="/materials">View All Materials</Link>
+              </li>
               {materialServices.map((service) => (
                 <li key={service.slug}>
                   <Link href={service.route}>{service.name}</Link>

@@ -605,7 +605,7 @@ export default function Header() {
         href="/contact#contact-form"
         className={styles.floatingQuoteButton}
         aria-label="Get Free Quote"
-        onClick={(e) => {
+        onClick={(e: React.MouseEvent<HTMLAnchorElement>) => {
           // If we're already on the contact page, scroll to form
           if (window.location.pathname === '/contact') {
             e.preventDefault()
