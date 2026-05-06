@@ -5,7 +5,7 @@ import styles from '../service.module.css'
 
 export const metadata: Metadata = {
   title: 'Casement Window Replacement McKinney TX | Andersen, Pella & JELD-WEN | Window Replacements of McKinney',
-  description: 'Premium casement window replacement in McKinney, TX. Crank-operated windows that open outward for maximum ventilation. Expert installation. Free estimates. Call 945-206-3998.',
+  description: 'Casement windows engineered for Stonebridge Ranch HOA standards and post-Uri freeze resilience. Compression seal, multi-point lock, Low-E argon. Free in-home estimate.',
   keywords: 'casement windows McKinney TX, crank windows, replacement casement windows, Andersen casement windows, Pella casement',
 }
 
@@ -31,9 +31,11 @@ export default function CasementWindowsPage() {
               <span className={styles.sectionLabel}>Premium Window Replacement</span>
               <h1>Casement Window Replacement in <em>McKinney, TX</em></h1>
               <p className={styles.lead}>
-                Crank-operated casement windows swing outward to capture Texas breezes from any direction. 
-                Their compression seal creates an exceptionally tight fit--ideal for McKinney&apos;s hot summers 
-                and occasional cold snaps.
+                Casement windows test among the tightest-sealing styles you can buy, which is why we specify
+                them on the most exposed elevations of McKinney homes: west-facing rooms in Stonebridge Ranch,
+                second-story bedrooms in Trinity Falls, and Craig Ranch elevations that take wind-driven storm
+                rain. The compression seal also held up best in the homes we revisited after Winter Storm Uri.
+                Multi-point lock, Low-E argon glass, factory-finished hardware.
               </p>
               <div className={styles.heroFeatures}>
                 <div className={styles.heroFeature}>

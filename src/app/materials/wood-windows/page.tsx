@@ -5,7 +5,7 @@ import styles from '../location.module.css'
 
 export const metadata: Metadata = {
   title: 'Wood Windows Replacement McKinney TX | Natural Beauty & Superior Insulation',
-  description: 'Premium wood replacement windows in McKinney, TX. Traditional wood windows with natural beauty and superior insulation. Timeless character and craftsmanship. Call 817-592-8870.',
+  description: 'Solid wood windows for Old East McKinney Victorians and McKinney Country Club estates. Pine, mahogany, oak species, period-correct profiles, true divided lite available.',
   keywords: 'wood windows McKinney TX, wood replacement windows, traditional windows, natural wood windows, custom wood windows',
 }
 
@@ -44,7 +44,7 @@ export default function WoodWindowsPage() {
             <div className={styles.heroText}>
               <span className={styles.sectionLabel}>Window Material</span>
               <h1>Wood Windows in <em>McKinney, TX</em></h1>
-              <p>Traditional wood windows with natural beauty and superior insulation. Timeless character and craftsmanship for discerning McKinney homeowners.</p>
+              <p>Solid wood framing for the Old East McKinney Victorians, Queen Annes, and Craftsman bungalows where period authenticity matters as much as performance. Pine, mahogany, oak species.</p>
             </div>
             <div className={styles.heroImage}>
               <img

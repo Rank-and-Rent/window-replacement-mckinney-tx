@@ -5,7 +5,7 @@ import styles from '../location.module.css'
 
 export const metadata: Metadata = {
   title: 'Window Replacement Princeton TX | Window Replacements of McKinney',
-  description: 'Premium window and door replacement services in Princeton, TX. Factory-certified Andersen, Pella, JELD-WEN & Marvin installers. Free estimates. Call 945-206-3998.',
+  description: 'Princeton window replacement east of McKinney along US-380. Whitewing Trails, Brookside, and starter-home retrofits with Andersen Fibrex and JELD-WEN value lines.',
   keywords: 'window replacement Princeton TX, Princeton window installation, door replacement Princeton',
 }
 

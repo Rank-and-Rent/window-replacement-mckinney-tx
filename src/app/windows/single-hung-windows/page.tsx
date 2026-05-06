@@ -5,7 +5,7 @@ import styles from '../service.module.css'
 
 export const metadata: Metadata = {
   title: 'Single-Hung Window Replacement McKinney TX | Andersen, Pella & JELD-WEN | Window Replacements of McKinney',
-  description: 'Affordable single-hung window replacement in McKinney, TX. Traditional style with fixed upper sash. Expert installation of Andersen, Pella & JELD-WEN single-hung windows. Free estimates.',
+  description: 'Single-hung windows for budget-conscious Cumberland Crossing and Anna-Princeton-Melissa starter-home replacements. Tilt-in lower sash, Low-E argon, fast factory turnaround.',
   keywords: 'single-hung windows McKinney TX, replacement single-hung windows, affordable windows McKinney, JELD-WEN single-hung',
 }
 
@@ -31,9 +31,11 @@ export default function SingleHungWindowsPage() {
               <span className={styles.sectionLabel}>Premium Window Replacement</span>
               <h1>Single-Hung Window Replacement in <em>McKinney, TX</em></h1>
               <p className={styles.lead}>
-                An economical yet elegant solution perfect for budget-conscious McKinney homeowners. 
-                Single-hung windows feature a fixed upper sash and operable lower sash, providing 
-                reliable ventilation while maximizing your replacement window investment.
+                Single-hung is the value answer for McKinney&apos;s newer suburban tract inventory: Cumberland
+                Crossing, Wilmeth Ridge, Provine Farms, and the corridor of Anna, Princeton, and Melissa
+                starter neighborhoods. Fixed upper sash, tilt-in operable lower sash, Low-E argon glass, and
+                a price that lets a homeowner replace a full elevation in one job rather than spreading the
+                project over multiple seasons.
               </p>
               <div className={styles.heroFeatures}>
                 <div className={styles.heroFeature}>

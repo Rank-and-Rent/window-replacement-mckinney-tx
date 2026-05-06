@@ -6,7 +6,7 @@ import styles from '../../windows/service.module.css'
 
 export const metadata: Metadata = {
   title: 'Andersen Windows & Doors McKinney TX | Window Replacements of McKinney',
-  description: 'Premium Andersen windows and doors in McKinney, TX. Fibrex technology, expert installation, factory warranties. Free estimates. Call 945-206-3998.',
+  description: 'Andersen 400 Series for Trinity Falls, Tucker Hill, and Adriatica custom homes. Authorized installer, Fibrex composite, 20-year warranty, white-glove install.',
   keywords: 'Andersen windows McKinney TX, Andersen doors, Fibrex windows, Andersen McKinney',
   alternates: {
     canonical: 'https://windowreplacementmckinney.com/brands/andersen-windows-doors',
@@ -37,8 +37,11 @@ export default function AndersenPage() {
               <span className={styles.sectionLabel}>Premium Partner</span>
               <h1>Andersen Window &amp; Door Replacement in <em>McKinney, TX</em></h1>
               <p className={styles.lead}>
-                For over 120 years, Andersen has set the standard for window and door excellence. We bring you
-                exclusive access to their innovative Fibrex technology and comprehensive product line.
+                Andersen is the most-installed window across McKinney&apos;s master-planned communities:
+                Stonebridge Ranch, Trinity Falls, Tucker Hill, and Adriatica Village. The 400 Series
+                Woodwright and the 100 Series Fibrex hit different parts of the spec range, and the
+                Fibrex composite specifically handles Collin County&apos;s heat-cold cycling without the
+                seasonal expansion that limited early-generation vinyl.
               </p>
               <div className={styles.heroFeatures}>
                 <div className={styles.heroFeature}>

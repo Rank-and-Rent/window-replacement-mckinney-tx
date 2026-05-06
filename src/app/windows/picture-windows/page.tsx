@@ -5,7 +5,7 @@ import styles from '../service.module.css'
 
 export const metadata: Metadata = {
   title: 'Picture Window Replacement McKinney TX | Andersen, Pella & JELD-WEN | Window Replacements of McKinney',
-  description: 'Premium picture window replacement in McKinney, TX. Large fixed windows for maximum light and views. Expert installation. Free estimates. Call 945-206-3998.',
+  description: 'Fixed picture windows for Tucker Hill and Adriatica great-rooms, sized for Collin County hail and Texas sun with Low-E3 glass. Marvin, Pella, Andersen options.',
   keywords: 'picture windows McKinney TX, fixed windows, large windows, panoramic windows McKinney',
 }
 
@@ -31,9 +31,11 @@ export default function PictureWindowsPage() {
               <span className={styles.sectionLabel}>Premium Window Replacement</span>
               <h1>Picture Window Replacement in <em>McKinney, TX</em></h1>
               <p className={styles.lead}>
-                Frame your McKinney views with expansive picture windows that flood interiors with natural 
-                light. These fixed windows deliver maximum energy efficiency and are often combined with 
-                operable units for the perfect balance of views and ventilation.
+                Fixed picture windows are the workhorse of McKinney&apos;s great-room and second-story-stair walls:
+                large openings in Tucker Hill custom builds, transom and gable eyebrows in Adriatica, and rear
+                elevations facing the Trinity Falls and Stonebridge Ranch creek corridors. Because there&apos;s no
+                operable sash, picture windows deliver the tightest air-seal, the lowest U-factor, and the
+                cleanest sightline of any window style we install.
               </p>
               <div className={styles.heroFeatures}>
                 <div className={styles.heroFeature}>

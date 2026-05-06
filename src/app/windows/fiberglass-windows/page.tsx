@@ -8,7 +8,7 @@ import ContactSection from '@/components/contact-section'
 
 export const metadata: Metadata = {
   title: 'Fiberglass Windows Replacement McKinney TX | Strength, Stability, Long Service Life',
-  description: 'Premium fiberglass replacement windows in McKinney, TX. Pultruded fiberglass for maximum strength, dimensional stability, and 30+ year service life. Call 945-206-3998.',
+  description: 'Pultruded fiberglass windows for Stonebridge Ranch and McKinney Country Club homeowners staying long-term. Marvin Elevate and Pella Impervia, 30-plus year service life.',
   keywords: 'fiberglass windows McKinney TX, fiberglass replacement windows, pultruded fiberglass, Marvin Elevate, Pella Impervia',
 }
 

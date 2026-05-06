@@ -5,7 +5,7 @@ import styles from '../location.module.css'
 
 export const metadata: Metadata = {
   title: 'Window Replacement Allen TX | Window Replacements of McKinney',
-  description: 'Premium window and door replacement services in Allen, TX. Factory-certified Andersen, Pella, JELD-WEN & Marvin installers. Free estimates. Call 945-206-3998.',
+  description: 'Allen window replacement covering Twin Creeks, Watters Crossing, and Cottonwood Bend. Andersen 400, Pella 250, and Marvin Elevate with HOA color match and 20-year warranty.',
   keywords: 'window replacement Allen TX, Allen window installation, door replacement Allen',
 }
 

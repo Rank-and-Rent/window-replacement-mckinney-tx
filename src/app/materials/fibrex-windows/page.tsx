@@ -5,7 +5,7 @@ import styles from '../location.module.css'
 
 export const metadata: Metadata = {
   title: 'Fibrex Windows Replacement McKinney TX | Andersen Premium Composite',
-  description: 'Premium Fibrex replacement windows in McKinney, TX. Andersen\'s innovative composite material combining wood-like beauty with advanced durability. Call 817-592-8870.',
+  description: "Andersen's wood-fiber Fibrex composite for Stonebridge Ranch HOA-approved replacements. Dimensional stability through Texas heat and post-Uri freeze cycling.",
   keywords: 'fibrex windows McKinney TX, Fibrex replacement windows, Andersen Fibrex, composite windows, wood-like windows',
 }
 
@@ -44,7 +44,7 @@ export default function FibrexWindowsPage() {
             <div className={styles.heroText}>
               <span className={styles.sectionLabel}>Window Material</span>
               <h1>Fibrex Windows in <em>McKinney, TX</em></h1>
-              <p>Andersen&apos;s premium composite material combining wood-like beauty with advanced durability. The ultimate in window frame technology.</p>
+              <p>Andersen&apos;s wood-fiber composite framing, built to ride out McKinney&apos;s 105-degree Augusts and post-Uri January cold fronts without seasonal expansion or seal failure. Stonebridge Ranch HOA-approved.</p>
             </div>
             <div className={styles.heroImage}>
               <img

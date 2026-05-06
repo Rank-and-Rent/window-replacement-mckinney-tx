@@ -6,7 +6,7 @@ import styles from '../../windows/service.module.css'
 
 export const metadata: Metadata = {
   title: 'Pella Windows & Doors McKinney TX | Window Replacements of McKinney',
-  description: 'Premium Pella windows and doors in McKinney, TX. Between-glass blinds, expert installation, factory warranties. Free estimates. Call 945-206-3998.',
+  description: 'Pella Reserve, Architect, and 250 Series for Stonebridge Ranch, Trinity Falls, and Old East McKinney restorations. Between-glass blinds, divided lite, certified install.',
   keywords: 'Pella windows McKinney TX, Pella doors, between-glass blinds, Pella McKinney',
   alternates: {
     canonical: 'https://windowreplacementmckinney.com/brands/pella-windows-doors',
@@ -37,9 +37,11 @@ export default function PellaPage() {
               <span className={styles.sectionLabel}>Premium Partner</span>
               <h1>Pella Window &amp; Door Replacement in <em>McKinney, TX</em></h1>
               <p className={styles.lead}>
-                Since 1925, Pella has been an industry leader in window and door innovation. Their 
-                exclusive features like between-the-glass blinds and inView screens make Pella the 
-                choice for McKinney homeowners who demand both style and functionality.
+                Pella covers the broadest range of McKinney specifications, from the Reserve and Architect
+                lines we install in Old East McKinney historic restorations and McKinney Country Club
+                estates, to the 250 Series vinyl that fits Stonebridge Ranch, Trinity Falls, and the
+                broader builder-grade replacement market. Between-glass blinds and InsulShield Low-E
+                packages handle the Texas-sun exposure on west-facing elevations.
               </p>
               <div className={styles.heroFeatures}>
                 <div className={styles.heroFeature}>

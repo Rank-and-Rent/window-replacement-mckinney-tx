@@ -5,7 +5,7 @@ import styles from '../service.module.css'
 
 export const metadata: Metadata = {
   title: 'Double-Hung Window Replacement McKinney TX | Andersen, Pella & JELD-WEN | Window Replacements of McKinney',
-  description: 'Premium double-hung window replacement in McKinney, TX. Tilt-in cleaning, dual-sash operation. Expert installation of Andersen, Pella & JELD-WEN double-hung windows. Free estimates. Call 945-206-3998.',
+  description: 'Double-hung replacements that read right on Old East McKinney Craftsman bungalows and Stonebridge Ranch traditional elevations. Tilt-in sash, Low-E3, post-Uri air-seal upgrades.',
   keywords: 'double-hung windows McKinney TX, replacement double-hung windows, Andersen double-hung, Pella double-hung windows, JELD-WEN windows McKinney',
 }
 
@@ -33,10 +33,12 @@ export default function DoubleHungWindowsPage() {
               <span className={styles.sectionLabel}>Premium Window Replacement</span>
               <h1>Double-Hung Window Replacement in <em>McKinney, TX</em></h1>
               <p className={styles.lead}>
-                Experience the perfect blend of timeless elegance and modern functionality with premium 
-                double-hung replacement windows from Andersen, Pella, JELD-WEN, and Marvin. Our expertly 
-                installed double-hung windows bring unmatched versatility, effortless maintenance, and 
-                superior energy performance to McKinney homes.
+                Double-hung is the dominant historically-correct profile for McKinney&apos;s established housing
+                stock. The Craftsman bungalows and Queen Annes of Old East McKinney expect a 1-over-1 or
+                6-over-1 sash; the traditional elevations of Stonebridge Ranch and Trinity Falls expect a
+                tilt-in double-hung with Low-E3 argon glass and post-Uri-grade air-seal hardware. Andersen,
+                Pella, Marvin, and JELD-WEN all build the line in spec; we order to fit and install factory-
+                certified.
               </p>
               <div className={styles.heroFeatures}>
                 <div className={styles.heroFeature}>

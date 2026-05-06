@@ -5,7 +5,7 @@ import styles from '../location.module.css'
 
 export const metadata: Metadata = {
   title: 'Aluminum Windows Replacement McKinney TX | Durable & Modern',
-  description: 'Premium aluminum replacement windows in McKinney, TX. Durable aluminum windows with modern thermal efficiency and sleek contemporary styling. Andersen, Pella & JELD-WEN options. Call 817-592-8870.',
+  description: 'Aluminum window framing for contemporary Tucker Hill and Trinity Falls modern elevations. Thermal break, narrow sightlines, large openings handled without sag.',
   keywords: 'aluminum windows McKinney TX, aluminum replacement windows, durable windows, modern windows, thermal efficiency',
 }
 
@@ -44,7 +44,7 @@ export default function AluminumWindowsPage() {
             <div className={styles.heroText}>
               <span className={styles.sectionLabel}>Window Material</span>
               <h1>Aluminum Windows in <em>McKinney, TX</em></h1>
-              <p>Durable aluminum windows with modern thermal efficiency and sleek contemporary styling. Exceptional strength for any McKinney home.</p>
+              <p>Thermally-broken aluminum framing for the contemporary architecture rising in Tucker Hill, Trinity Falls, and the modern infill on Adriatica Village edges. Narrow sightlines, large openings, no flex.</p>
             </div>
             <div className={styles.heroImage}>
               <img

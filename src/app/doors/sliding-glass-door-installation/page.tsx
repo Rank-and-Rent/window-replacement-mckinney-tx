@@ -6,7 +6,7 @@ import styles from '../../windows/service.module.css'
 
 export const metadata: Metadata = {
   title: 'Sliding Glass Door Replacement McKinney TX | Andersen, Pella & JELD-WEN | Window Replacements of McKinney',
-  description: 'Premium sliding glass door replacement in McKinney, TX. Space-saving doors with expansive glass panels. Expert installation. Free estimates. Call 945-206-3998.',
+  description: 'Sliding glass doors for Stonebridge Ranch and Trinity Falls covered patios. Andersen, Pella, JELD-WEN tracks, Low-E3 panels, and HOA-friendly hardware finishes.',
   keywords: 'sliding glass doors McKinney TX, sliding door replacement, glass doors McKinney, patio sliding doors',
 }
 
@@ -32,9 +32,11 @@ export default function SlidingGlassDoorPage() {
               <span className={styles.sectionLabel}>Premium Door Replacement</span>
               <h1>Sliding Glass Door Replacement in <em>McKinney, TX</em></h1>
               <p className={styles.lead}>
-                Maximize your views and natural light with sleek sliding glass doors. These space-saving 
-                doors operate smoothly on precision tracks, providing easy access to patios, decks, and 
-                outdoor living areas.
+                Sliding glass doors are the standard rear-elevation opening for McKinney&apos;s covered
+                patios in Stonebridge Ranch, Trinity Falls, and Tucker Hill. We replace tired aluminum
+                sliders with Andersen, Pella, and JELD-WEN units that ride on properly-graded tracks,
+                seal at the meeting stile, and carry Low-E3 panels that block summer solar gain without
+                making the room dark. HOA-friendly hardware finishes stocked.
               </p>
               <div className={styles.heroFeatures}>
                 <div className={styles.heroFeature}>

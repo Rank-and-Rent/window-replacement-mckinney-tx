@@ -5,7 +5,7 @@ import styles from '../location.module.css'
 
 export const metadata: Metadata = {
   title: 'Window Replacement Prosper TX | Window Replacements of McKinney',
-  description: 'Premium window and door replacement services in Prosper, TX. Factory-certified Andersen, Pella, JELD-WEN & Marvin installers. Free estimates. Call 945-206-3998.',
+  description: 'Window replacement for Prosper Windsong Ranch, Star Trail, and Light Farms custom-style homes. Tall openings, oversized patios, divided lite. McKinney-based crews west.',
   keywords: 'window replacement Prosper TX, Prosper window installation, door replacement Prosper',
 }
 

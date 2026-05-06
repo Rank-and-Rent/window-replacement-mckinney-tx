@@ -6,7 +6,7 @@ import styles from '../../windows/service.module.css'
 
 export const metadata: Metadata = {
   title: 'Custom Door Replacement McKinney TX | Andersen, Pella & JELD-WEN | Window Replacements of McKinney',
-  description: 'Custom door solutions in McKinney, TX. Unique sizes, shapes, and designs tailored to your home. Expert installation. Free estimates. Call 945-206-3998.',
+  description: 'Custom doors for Adriatica Croatian-style facades, McKinney Country Club estates, and one-off historic Old East replacements. Custom size, species, glass, and hardware specs.',
   keywords: 'custom doors McKinney TX, custom door installation, unique doors, specialty doors McKinney',
 }
 
@@ -32,9 +32,11 @@ export default function CustomDoorPage() {
               <span className={styles.sectionLabel}>Premium Door Replacement</span>
               <h1>Custom Door Replacement in <em>McKinney, TX</em></h1>
               <p className={styles.lead}>
-                When standard doors won&apos;t do, our custom door solutions deliver exactly what your 
-                McKinney home needs. From unique sizes to specialty shapes and one-of-a-kind designs, 
-                we work with Andersen, Pella, JELD-WEN, and Marvin to create the perfect door.
+                Custom doors solve the openings that stock specs can&apos;t: the oversized vestibule at a
+                McKinney Country Club estate, the round-top entry of an Adriatica Village faux-historic
+                facade, and the irregular jamb dimensions of a 1900-era Old East Victorian where every
+                opening is its own unique field measurement. We coordinate with Marvin, Pella, and
+                Andersen custom-shop programs on size, species, glass, and hardware specs.
               </p>
               <div className={styles.heroFeatures}>
                 <div className={styles.heroFeature}>

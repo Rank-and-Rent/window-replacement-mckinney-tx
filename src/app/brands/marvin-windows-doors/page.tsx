@@ -6,7 +6,7 @@ import styles from '../../windows/service.module.css'
 
 export const metadata: Metadata = {
   title: 'Marvin Windows & Doors McKinney TX | Window Replacements of McKinney',
-  description: 'Luxury custom windows and doors in McKinney, TX. Expert installation, factory warranties. Free estimates. Call 945-206-3998.',
+  description: 'Marvin Signature and Elevate for Tucker Hill, Adriatica, and McKinney Country Club custom homes. Made-to-order wood and clad windows, divided lite, factory warranty.',
   keywords: 'Marvin windows McKinney TX, Marvin doors, custom windows, luxury windows McKinney',
   alternates: {
     canonical: 'https://windowreplacementmckinney.com/brands/marvin-windows-doors',
@@ -37,9 +37,11 @@ export default function MarvinPage() {
               <span className={styles.sectionLabel}>Premium Partner</span>
               <h1>Marvin Window &amp; Door Replacement in <em>McKinney, TX</em></h1>
               <p className={styles.lead}>
-                Family-owned since 1912, Marvin is synonymous with premium quality and custom craftsmanship. 
-                Their made-to-order windows and doors combine timeless design with cutting-edge performance 
-                for McKinney&apos;s most discerning homeowners.
+                Marvin is the brand we specify most often for McKinney&apos;s upmarket custom builds:
+                Tucker Hill, Adriatica Village, the McKinney Country Club estates, and the high-end
+                renovations on Trinity Falls&apos; larger lots. Their Signature and Elevate lines support
+                the divided-lite patterns, oversized openings, and species-specific wood interiors
+                that custom-home architects in Collin County draw into their elevations.
               </p>
               <div className={styles.heroFeatures}>
                 <div className={styles.heroFeature}>

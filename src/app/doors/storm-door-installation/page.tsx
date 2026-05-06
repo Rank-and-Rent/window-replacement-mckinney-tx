@@ -6,7 +6,7 @@ import styles from '../../windows/service.module.css'
 
 export const metadata: Metadata = {
   title: 'Storm Door Replacement McKinney TX | Andersen, Pella & JELD-WEN | Window Replacements of McKinney',
-  description: 'Quality storm door replacement in McKinney, TX. Added protection, security, and energy efficiency. Expert installation. Free estimates. Call 945-206-3998.',
+  description: 'Storm doors for McKinney Old East porches and Trinity Falls covered entries. Adds insulation against post-Uri cold fronts and shields entry finishes from spring hail spray.',
   keywords: 'storm doors McKinney TX, storm door installation, screen doors, security doors McKinney',
 }
 
@@ -32,9 +32,11 @@ export default function StormDoorPage() {
               <span className={styles.sectionLabel}>Premium Door Replacement</span>
               <h1>Storm Door Replacement in <em>McKinney, TX</em></h1>
               <p className={styles.lead}>
-                Protect your entry door and improve energy efficiency with a quality storm door. 
-                These versatile additions provide an extra layer of security, weather protection, 
-                and ventilation options for your McKinney home.
+                Storm doors add a meaningful insulating air gap in front of the entry door, which matters
+                more in McKinney since Winter Storm Uri than it did before. They also shield the entry
+                finish from spring hail spray and Old East McKinney&apos;s mature-tree pollen and debris. We
+                spec full-view, mid-view, and ventilating storm doors with Low-E glass, retractable
+                screens, and finish hardware that matches the existing entry.
               </p>
               <div className={styles.heroFeatures}>
                 <div className={styles.heroFeature}>

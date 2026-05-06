@@ -6,7 +6,7 @@ import styles from '../../windows/service.module.css'
 
 export const metadata: Metadata = {
   title: 'JELD-WEN Windows & Doors McKinney TX | Window Replacements of McKinney',
-  description: 'Quality windows and doors in McKinney, TX. Exceptional value, expert installation, factory warranties. Free estimates. Call 945-206-3998.',
+  description: 'JELD-WEN Premium Vinyl and AuraLast wood for Eldorado, Mallard Lakes, and Cumberland Crossing replacements. Strong value pick across most McKinney builder-grade homes.',
   keywords: 'JELD-WEN windows McKinney TX, JELD-WEN doors, AuraLast wood, JELD-WEN McKinney',
   alternates: {
     canonical: 'https://windowreplacementmckinney.com/brands/jeld-wen-windows-doors',
@@ -37,9 +37,11 @@ export default function JeldWenPage() {
               <span className={styles.sectionLabel}>Premium Partner</span>
               <h1>JELD-WEN Window &amp; Door Replacement in <em>McKinney, TX</em></h1>
               <p className={styles.lead}>
-                JELD-WEN combines exceptional quality with outstanding value, making premium replacement 
-                windows and doors accessible to more McKinney families. Their AuraLast wood protection 
-                and innovative designs deliver lasting performance.
+                JELD-WEN is our most-frequent value-tier specification across McKinney&apos;s broader builder-grade
+                replacement market: Eldorado, Mallard Lakes, Provine Farms, Wilmeth Ridge, and the
+                Anna-Princeton-Melissa starter-home corridor. Premium Vinyl with fusion-welded frames and
+                AuraLast pine for traditional double-hung profiles deliver real performance at a price
+                that lets homeowners replace a full elevation in one job.
               </p>
               <div className={styles.heroFeatures}>
                 <div className={styles.heroFeature}>

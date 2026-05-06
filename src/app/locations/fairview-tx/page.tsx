@@ -5,7 +5,7 @@ import styles from '../location.module.css'
 
 export const metadata: Metadata = {
   title: 'Window Replacement Fairview TX | Window Replacements of McKinney',
-  description: 'Premium window and door replacement services in Fairview, TX. Factory-certified Andersen, Pella, JELD-WEN & Marvin installers. Free estimates. Call 945-206-3998.',
+  description: 'Fairview window replacement for Heritage Ranch and large one-acre estate lots along the Allen border. Marvin, Pella Reserve specs for the oversized openings these homes use.',
   keywords: 'window replacement Fairview TX, Fairview window installation, door replacement Fairview',
 }
 

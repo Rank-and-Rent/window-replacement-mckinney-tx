@@ -5,7 +5,7 @@ import styles from '../location.module.css'
 
 export const metadata: Metadata = {
   title: 'Window Replacement McKinney TX | Window Replacements of McKinney',
-  description: 'Premium window and door replacement services in McKinney, TX. Factory-certified Andersen, Pella, JELD-WEN & Marvin installers. Free estimates. Call 945-206-3998.',
+  description: 'McKinney window replacement covering Old East Victorians, Stonebridge Ranch, Trinity Falls, Tucker Hill, Adriatica, and Eldorado. Factory-certified Andersen, Pella, Marvin install.',
   keywords: 'window replacement McKinney TX, McKinney window installation, door replacement McKinney',
 }
 

@@ -5,7 +5,7 @@ import styles from '../service.module.css'
 
 export const metadata: Metadata = {
   title: 'Bay & Bow Window Replacement McKinney TX | Andersen, Pella & JELD-WEN | Window Replacements of McKinney',
-  description: 'Premium bay and bow window replacement in McKinney, TX. Dramatic architectural impact with expanded interior space. Expert installation. Free estimates. Call 945-206-3998.',
+  description: 'Bay and bow windows for Old East McKinney Victorians and Eldorado golf-course estates. Period-correct projection, factory headers, copper or shingled roof caps available.',
   keywords: 'bay windows McKinney TX, bow windows, bay window installation, architectural windows McKinney',
 }
 
@@ -31,9 +31,11 @@ export default function BayBowWindowsPage() {
               <span className={styles.sectionLabel}>Premium Window Replacement</span>
               <h1>Bay &amp; Bow Window Replacement in <em>McKinney, TX</em></h1>
               <p className={styles.lead}>
-                Add dramatic dimension to your McKinney home with stunning bay and bow window configurations. 
-                These architectural statements create cozy nooks, expand living spaces, and become the focal 
-                point of any room--all while increasing your home&apos;s value.
+                Bay and bow windows make sense in two distinct McKinney contexts: the dining-room and parlor
+                projections of Old East McKinney Victorians and Queen Annes where period geometry is non-
+                negotiable, and the rear breakfast-nook openings of Eldorado and McKinney Country Club estate
+                homes. We coordinate factory-built headers, copper or shingled roof caps, and on-site framing
+                so the new bay carries its own load and integrates cleanly with existing brick and siding.
               </p>
               <div className={styles.heroFeatures}>
                 <div className={styles.heroFeature}>

@@ -5,7 +5,7 @@ import styles from '../location.module.css'
 
 export const metadata: Metadata = {
   title: 'Window Replacement Frisco TX | Window Replacements of McKinney',
-  description: 'Premium window and door replacement services in Frisco, TX. Factory-certified Andersen, Pella, JELD-WEN & Marvin installers. Free estimates. Call 945-206-3998.',
+  description: 'Frisco window replacement covering Phillips Creek Ranch, Newman Village, and The Trails. Andersen, Pella, Marvin certified install with HOA-coordinated color and trim specs.',
   keywords: 'window replacement Frisco TX, Frisco window installation, door replacement Frisco',
 }
 

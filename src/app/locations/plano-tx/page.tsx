@@ -5,7 +5,7 @@ import styles from '../location.module.css'
 
 export const metadata: Metadata = {
   title: 'Window Replacement Plano TX | Window Replacements of McKinney',
-  description: 'Premium window and door replacement services in Plano, TX. Factory-certified Andersen, Pella, JELD-WEN & Marvin installers. Free estimates. Call 945-206-3998.',
+  description: 'Plano window replacement for Legacy West, West Plano, and East Plano 1980s ranch retrofits. Replacing aluminum sliders and original builder-grade hung windows with sealed lines.',
   keywords: 'window replacement Plano TX, Plano window installation, door replacement Plano',
 }
 

@@ -6,7 +6,7 @@ import styles from '../../windows/service.module.css'
 
 export const metadata: Metadata = {
   title: 'French Door Replacement McKinney TX | Andersen, Pella & JELD-WEN | Window Replacements of McKinney',
-  description: 'Elegant French door replacement in McKinney, TX. Classic double doors with glass panels. Expert installation. Free estimates. Call 945-206-3998.',
+  description: 'French doors for Old East McKinney historic interiors and Adriatica Village courtyard openings. True divided lite, weatherstripped astragal, period-correct hardware lines.',
   keywords: 'French doors McKinney TX, French door replacement, double doors, glass panel doors McKinney',
 }
 
@@ -32,9 +32,11 @@ export default function FrenchDoorPage() {
               <span className={styles.sectionLabel}>Premium Door Replacement</span>
               <h1>French Door Replacement in <em>McKinney, TX</em></h1>
               <p className={styles.lead}>
-                Add timeless elegance to your McKinney home with classic French doors. These hinged 
-                double doors with glass panels create beautiful transitions between rooms or to outdoor 
-                spaces while flooding interiors with natural light.
+                French doors fit two specific McKinney contexts: the parlor-to-dining and study openings
+                of Old East McKinney historic interiors where divided lite and proper hardware reads
+                period-correct, and the courtyard openings of Adriatica Village where the European
+                inspiration calls for inswing French units. We install Marvin Signature, Pella Reserve,
+                and Andersen 400 French doors with weatherstripped astragals and multi-point locks.
               </p>
               <div className={styles.heroFeatures}>
                 <div className={styles.heroFeature}>

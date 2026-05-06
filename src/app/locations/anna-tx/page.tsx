@@ -5,7 +5,7 @@ import styles from '../location.module.css'
 
 export const metadata: Metadata = {
   title: 'Window Replacement Anna TX | Window Replacements of McKinney',
-  description: 'Premium window and door replacement services in Anna, TX. Factory-certified Andersen, Pella, JELD-WEN & Marvin installers. Free estimates. Call 945-206-3998.',
+  description: 'Anna window replacement along the US-75 corridor north of McKinney. Anacapri, West Crossing, and recent tract starts where post-Uri air-seal and hail-rated glass matter.',
   keywords: 'window replacement Anna TX, Anna window installation, door replacement Anna',
 }
 

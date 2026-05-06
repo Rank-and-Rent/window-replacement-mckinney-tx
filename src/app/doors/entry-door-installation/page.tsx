@@ -6,7 +6,7 @@ import styles from '../../windows/service.module.css'
 
 export const metadata: Metadata = {
   title: 'Entry Door Replacement McKinney TX | Andersen, Pella & JELD-WEN | Window Replacements of McKinney',
-  description: 'Premium entry door replacement in McKinney, TX. Front doors that make a statement. Expert installation of Andersen, Pella & JELD-WEN entry doors. Free estimates. Call 945-206-3998.',
+  description: 'Entry doors for Old East McKinney historic facades and Stonebridge Ranch curb appeal. Fiberglass and solid wood, multi-point lock, weatherstripping that holds against Uri-style cold.',
   keywords: 'entry doors McKinney TX, front door replacement, entry door installation, Andersen doors, Pella doors McKinney',
 }
 
@@ -32,9 +32,11 @@ export default function EntryDoorPage() {
               <span className={styles.sectionLabel}>Premium Door Replacement</span>
               <h1>Entry Door Replacement in <em>McKinney, TX</em></h1>
               <p className={styles.lead}>
-                Your front door is the first impression your McKinney home makes. Our premium entry doors 
-                from Andersen, Pella, JELD-WEN, and Marvin combine stunning aesthetics with superior 
-                security and energy efficiency.
+                Entry doors do double duty in McKinney: they carry the curb appeal of an Old East McKinney
+                Victorian or Stonebridge Ranch traditional, and they hold the building envelope tight
+                against North Texas summer heat and the post-Uri cold fronts that exposed weak weatherstripping
+                across the metroplex. We install fiberglass and solid-wood entry doors from Andersen,
+                Pella, JELD-WEN, and Marvin with multi-point locks and properly-set astragals.
               </p>
               <div className={styles.heroFeatures}>
                 <div className={styles.heroFeature}>

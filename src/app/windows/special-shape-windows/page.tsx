@@ -5,7 +5,7 @@ import styles from '../service.module.css'
 
 export const metadata: Metadata = {
   title: 'Special Shape Window Replacement McKinney TX | Andersen, Pella & JELD-WEN | Window Replacements of McKinney',
-  description: 'Custom special shape window replacement in McKinney, TX. Arched, circular, geometric, and custom-shaped windows. Expert installation. Free estimates. Call 945-206-3998.',
+  description: 'Arched, eyebrow, and round-top special-shape windows for Adriatica Croatian-style facades and Tucker Hill custom builds. Factory-shaped Marvin and Pella, true-divided lite optional.',
   keywords: 'special shape windows McKinney TX, arched windows, circular windows, custom windows McKinney, geometric windows',
 }
 
@@ -31,9 +31,11 @@ export default function SpecialShapeWindowsPage() {
               <span className={styles.sectionLabel}>Premium Window Replacement</span>
               <h1>Special Shape Window Replacement in <em>McKinney, TX</em></h1>
               <p className={styles.lead}>
-                From graceful arches to geometric designs, specialty windows add distinctive character 
-                to McKinney homes. Our craftsmen expertly install circles, ovals, trapezoids, and custom 
-                shapes that complement your home&apos;s unique architecture.
+                Special-shape windows are most often spec&apos;d for two McKinney contexts: the Croatian-style
+                eyebrow arches and gable rounds of Adriatica Village, and the transom geometry above entry
+                vestibules in Tucker Hill and McKinney Country Club custom builds. Marvin and Pella factory-
+                shape these units with true-divided-lite or simulated-divided-lite grilles to match the
+                original architectural intent, then we install them as part of the larger window package.
               </p>
               <div className={styles.heroFeatures}>
                 <div className={styles.heroFeature}>

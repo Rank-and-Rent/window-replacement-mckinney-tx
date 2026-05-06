@@ -5,7 +5,7 @@ import styles from '../location.module.css'
 
 export const metadata: Metadata = {
   title: 'Fiberglass Windows Replacement McKinney TX | Ultimate Strength & Insulation',
-  description: 'Premium fiberglass replacement windows in McKinney, TX. Ultimate strength and insulation with authentic wood-like appearance. Maximum durability and energy efficiency. Call 817-592-8870.',
+  description: 'Pultruded fiberglass framing for McKinney owners staying long-term. Zero thermal expansion through 110-degree summers and 15-degree post-Uri cold snaps. Marvin, Pella.',
   keywords: 'fiberglass windows McKinney TX, fiberglass replacement windows, strong windows, durable windows, energy efficient windows',
 }
 
@@ -44,7 +44,7 @@ export default function FiberglassWindowsPage() {
             <div className={styles.heroText}>
               <span className={styles.sectionLabel}>Window Material</span>
               <h1>Fiberglass Windows in <em>McKinney, TX</em></h1>
-              <p>Ultimate strength and insulation with authentic wood-like appearance. Maximum durability and energy efficiency in one package.</p>
+              <p>Pultruded fiberglass framing with near-zero thermal expansion. The right call for McKinney homeowners staying long-term who want the seal to hold through 110-degree summers and 15-degree post-Uri cold snaps.</p>
             </div>
             <div className={styles.heroImage}>
               <img

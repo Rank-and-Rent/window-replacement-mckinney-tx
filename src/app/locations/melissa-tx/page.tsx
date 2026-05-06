@@ -5,7 +5,7 @@ import styles from '../location.module.css'
 
 export const metadata: Metadata = {
   title: 'Window Replacement Melissa TX | Window Replacements of McKinney',
-  description: 'Premium window and door replacement services in Melissa, TX. Factory-certified Andersen, Pella, JELD-WEN & Marvin installers. Free estimates. Call 945-206-3998.',
+  description: 'Melissa window replacement for Liberty, North Creek, and Wolf Creek Farms new construction. Hail-corridor glass packages, Andersen Fibrex value, Marvin custom for upgrades.',
   keywords: 'window replacement Melissa TX, Melissa window installation, door replacement Melissa',
 }
 

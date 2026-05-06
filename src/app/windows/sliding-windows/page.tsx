@@ -5,7 +5,7 @@ import styles from '../service.module.css'
 
 export const metadata: Metadata = {
   title: 'Sliding Window Replacement McKinney TX | Andersen, Pella & JELD-WEN | Window Replacements of McKinney',
-  description: 'Premium sliding window replacement in McKinney, TX. Horizontally gliding windows for wide openings. Expert installation. Free estimates. Call 945-206-3998.',
+  description: 'Sliding windows for Stonebridge Ranch ranch-style and Trinity Falls great-room openings, replacing leaky 1970s aluminum sliders with sealed Andersen, Pella, and JELD-WEN gliders.',
   keywords: 'sliding windows McKinney TX, horizontal sliding windows, gliding windows, wide opening windows McKinney',
 }
 
@@ -31,9 +31,11 @@ export default function SlidingWindowsPage() {
               <span className={styles.sectionLabel}>Premium Window Replacement</span>
               <h1>Sliding Window Replacement in <em>McKinney, TX</em></h1>
               <p className={styles.lead}>
-                Gliding horizontally on smooth tracks, sliding windows are ideal for wide openings and areas 
-                with limited exterior clearance. Their contemporary profile complements modern McKinney 
-                architecture while maximizing your view.
+                Sliding windows fit a specific subset of McKinney openings: 1970s and 1980s ranch-style elevations
+                in older Stonebridge Ranch and Eldorado where the original aluminum sliders are well past service
+                life, and great-room compositions in Trinity Falls and Craig Ranch where a wide horizontal slider
+                works as the operable element below a fixed picture window. Modern lines from Andersen, Pella,
+                Marvin, and JELD-WEN solve the air-infiltration problems that plagued early aluminum sliders.
               </p>
               <div className={styles.heroFeatures}>
                 <div className={styles.heroFeature}>

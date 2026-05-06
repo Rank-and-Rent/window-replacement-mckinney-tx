@@ -5,7 +5,7 @@ import styles from '../location.module.css'
 
 export const metadata: Metadata = {
   title: 'Window Replacement Lucas TX | Window Replacements of McKinney',
-  description: 'Premium window and door replacement services in Lucas, TX. Factory-certified Andersen, Pella, JELD-WEN & Marvin installers. Free estimates. Call 945-206-3998.',
+  description: 'Lucas window replacement for one-acre and two-acre rural-residential estate lots southeast of McKinney. Marvin and Pella Reserve for the oversized openings typical here.',
   keywords: 'window replacement Lucas TX, Lucas window installation, door replacement Lucas',
 }
 

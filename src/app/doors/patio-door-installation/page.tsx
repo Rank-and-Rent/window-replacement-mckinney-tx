@@ -6,7 +6,7 @@ import styles from '../../windows/service.module.css'
 
 export const metadata: Metadata = {
   title: 'Patio Door Replacement McKinney TX | Andersen, Pella & JELD-WEN | Window Replacements of McKinney',
-  description: 'Premium patio door replacement in McKinney, TX. Sliding and hinged patio doors for seamless indoor-outdoor living. Expert installation. Free estimates. Call 945-206-3998.',
+  description: 'Patio doors for Tucker Hill and Eldorado outdoor-living additions. Sliding and hinged options, Low-E3 against Texas sun, multi-point locks for Collin County security expectations.',
   keywords: 'patio doors McKinney TX, patio door replacement, sliding patio doors, hinged patio doors McKinney',
 }
 
@@ -32,9 +32,11 @@ export default function PatioDoorPage() {
               <span className={styles.sectionLabel}>Premium Door Replacement</span>
               <h1>Patio Door Replacement in <em>McKinney, TX</em></h1>
               <p className={styles.lead}>
-                Connect your indoor and outdoor living spaces with beautiful, functional patio doors. 
-                Whether you prefer sliding or hinged operation, our premium doors from Andersen, Pella, 
-                JELD-WEN, and Marvin make the transition seamless.
+                Patio doors are core to the indoor-outdoor program of McKinney&apos;s newer master-planned
+                builds: the covered loggia openings of Tucker Hill, the screened-room transitions in
+                Trinity Falls, and the pool-deck access points of Eldorado golf-course estates. We
+                install sliding, multi-slide, and hinged patio configurations with Low-E3 against the
+                Texas sun and multi-point locks for the Collin County security expectations.
               </p>
               <div className={styles.heroFeatures}>
                 <div className={styles.heroFeature}>

@@ -5,7 +5,7 @@ import styles from '../location.module.css'
 
 export const metadata: Metadata = {
   title: 'Wood Clad Windows Replacement McKinney TX | Authentic Wood with Protection',
-  description: 'Premium wood clad replacement windows in McKinney, TX. Authentic wood interiors with weather-resistant exterior protection. Traditional beauty meets modern durability. Call 817-592-8870.',
+  description: 'Wood-clad framing for Adriatica Croatian-style facades, Tucker Hill custom builds, and Country Club estates. Real wood inside, factory-clad exterior survives Collin County hail.',
   keywords: 'wood clad windows McKinney TX, wood clad replacement windows, wood windows, traditional windows, protected wood windows',
 }
 
@@ -44,7 +44,7 @@ export default function WoodCladWindowsPage() {
             <div className={styles.heroText}>
               <span className={styles.sectionLabel}>Window Material</span>
               <h1>Wood Clad Windows in <em>McKinney, TX</em></h1>
-              <p>Authentic wood interiors with weather-resistant exterior protection. Traditional beauty meets modern durability and low maintenance.</p>
+              <p>Real wood inside, factory-clad aluminum or vinyl outside. The right specification for Adriatica Croatian-style facades, Tucker Hill custom builds, and McKinney Country Club estate replacements.</p>
             </div>
             <div className={styles.heroImage}>
               <img

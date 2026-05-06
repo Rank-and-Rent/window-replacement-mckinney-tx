@@ -5,7 +5,7 @@ import styles from '../location.module.css'
 
 export const metadata: Metadata = {
   title: 'Vinyl Windows Replacement McKinney TX | Low Maintenance, Energy Efficient',
-  description: 'Premium vinyl replacement windows in McKinney, TX. Low-maintenance, energy-efficient, and durable. Andersen, Pella & JELD-WEN vinyl options. Everything priced including installation. Call 817-592-8870.',
+  description: "Vinyl framing as McKinney's most-installed material across Eldorado, Provine Farms, and Wilmeth Ridge. Fusion-welded corners, ENERGY STAR Low-E for North Texas climate zone.",
   keywords: 'vinyl windows McKinney TX, vinyl replacement windows, low maintenance windows, energy efficient vinyl windows, Andersen vinyl windows, Pella vinyl windows, JELD-WEN vinyl windows',
 }
 
@@ -44,7 +44,7 @@ export default function VinylWindowsPage() {
             <div className={styles.heroText}>
               <span className={styles.sectionLabel}>Window Material</span>
               <h1>Vinyl Windows in <em>McKinney, TX</em></h1>
-              <p>Low-maintenance vinyl windows with superior energy efficiency and durability. Perfect for McKinney homeowners seeking hassle-free performance.</p>
+              <p>Vinyl framing as the most-installed material across McKinney&apos;s established subdivisions: Eldorado, Mallard Lakes, Provine Farms, Wilmeth Ridge, and Cumberland Crossing. Fusion-welded, ENERGY STAR Low-E.</p>
             </div>
             <div className={styles.heroImage}>
               <img

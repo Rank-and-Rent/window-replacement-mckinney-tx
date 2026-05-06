@@ -8,7 +8,7 @@ import ContactSection from '@/components/contact-section'
 
 export const metadata: Metadata = {
   title: 'Wood Windows Replacement McKinney TX | Authentic Natural Beauty',
-  description: 'Premium solid wood replacement windows in McKinney, TX. Timeless natural beauty, superior craftsmanship, and authentic period-correct character. Call 945-206-3998.',
+  description: 'Solid wood windows for Old East McKinney Queen Annes and Craftsman bungalows where period-correct sash lines matter. Marvin Signature, Pella Reserve, JELD-WEN AuraLast.',
   keywords: 'wood windows McKinney TX, solid wood windows, traditional wood windows, authentic wood windows, custom wood windows',
 }
 

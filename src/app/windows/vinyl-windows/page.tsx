@@ -8,7 +8,7 @@ import ContactSection from '@/components/contact-section'
 
 export const metadata: Metadata = {
   title: 'Vinyl Windows Replacement McKinney TX | Low Maintenance, Energy Efficient',
-  description: 'Premium vinyl replacement windows in McKinney, TX. Low-maintenance, energy-efficient, and durable. Andersen, Pella & JELD-WEN vinyl options. Call 945-206-3998.',
+  description: 'Vinyl replacement windows for Eldorado, Mallard Lakes, Provine Farms, and Wilmeth Ridge tract builds. Multi-chambered fusion-welded frames, Low-E argon, install included.',
   keywords: 'vinyl windows McKinney TX, vinyl replacement windows, low maintenance windows, energy efficient vinyl windows, Andersen vinyl windows, Pella vinyl windows, JELD-WEN vinyl windows',
 }
 

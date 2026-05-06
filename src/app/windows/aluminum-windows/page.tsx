@@ -8,7 +8,7 @@ import ContactSection from '@/components/contact-section'
 
 export const metadata: Metadata = {
   title: 'Aluminum Windows Replacement McKinney TX | Durable, Modern Design',
-  description: 'High-quality aluminum replacement windows in McKinney, TX. Durable, sleek, and energy-efficient with thermal breaks. Andersen, Pella & JELD-WEN aluminum options. Call 945-206-3998.',
+  description: 'Thermally-broken aluminum windows for contemporary Trinity Falls and Tucker Hill builds where slim sightlines matter. Modern multi-cavity extrusions, no 1970s air leak.',
   keywords: 'aluminum windows McKinney TX, aluminum replacement windows, durable windows, modern aluminum windows, Andersen aluminum windows, Pella aluminum windows, JELD-WEN aluminum windows',
 }
 

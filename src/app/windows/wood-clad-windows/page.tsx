@@ -8,7 +8,7 @@ import ContactSection from '@/components/contact-section'
 
 export const metadata: Metadata = {
   title: 'Wood Clad Windows Replacement McKinney TX | Wood Inside, Aluminum Outside',
-  description: 'Premium aluminum-clad wood replacement windows in McKinney, TX. Real wood interior with maintenance-free exterior cladding. Marvin, Pella, Andersen options. Call 945-206-3998.',
+  description: 'Wood-clad windows that match Old East McKinney Victorian sash lines and survive Collin County hail. Marvin Signature, Pella Reserve, Andersen 400 with factory finishes.',
   keywords: 'wood clad windows McKinney TX, aluminum clad wood windows, Marvin clad windows, Pella architect series, Andersen 400 Series',
 }
 

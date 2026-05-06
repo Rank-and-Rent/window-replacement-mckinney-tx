@@ -8,7 +8,7 @@ import ContactSection from '@/components/contact-section'
 
 export const metadata: Metadata = {
   title: 'Fibrex Windows Replacement McKinney TX | Andersen Premium Composite',
-  description: "Andersen Fibrex composite replacement windows in McKinney, TX. Wood-fiber and polymer composite for excellent dimensional stability and energy performance. Call 945-206-3998.",
+  description: "Andersen Fibrex composite windows for Stonebridge Ranch and Trinity Falls. Wood-fiber stability that holds seal through 105-degree Augusts and post-Uri January cold fronts.",
   keywords: 'Fibrex windows McKinney TX, Andersen Fibrex windows, composite windows, premium replacement windows, energy efficient Fibrex windows, durable composite windows',
 }
 

@@ -5,7 +5,7 @@ import styles from '../service.module.css'
 
 export const metadata: Metadata = {
   title: 'Awning Window Replacement McKinney TX | Andersen, Pella & JELD-WEN | Window Replacements of McKinney',
-  description: 'Premium awning window replacement in McKinney, TX. Top-hinged windows for ventilation rain or shine. Expert installation. Free estimates. Call 945-206-3998.',
+  description: 'Top-hinged awning windows for McKinney basements, baths, and high transom openings. Open during spring storms, sealed against Collin County hail and post-Uri cold fronts.',
   keywords: 'awning windows McKinney TX, replacement awning windows, bathroom windows, basement windows McKinney',
 }
 
@@ -31,9 +31,11 @@ export default function AwningWindowsPage() {
               <span className={styles.sectionLabel}>Premium Window Replacement</span>
               <h1>Awning Window Replacement in <em>McKinney, TX</em></h1>
               <p className={styles.lead}>
-                Hinged at the top and opening outward, awning windows let you enjoy fresh air even during 
-                light Texas rain. Perfect above kitchen sinks, in bathrooms, or combined with picture 
-                windows for versatile ventilation.
+                Awning windows hinge at the top and open outward like a small canopy, which makes them the
+                right call for McKinney bathrooms, basement-level egress on properties with daylight basements,
+                and the high transom strips above kitchen sinks and great-room picture units in Trinity Falls
+                and Stonebridge Ranch. Compression seal performs comparably to a casement; closed, the unit
+                holds up against Collin County hail and post-Uri freeze cycling.
               </p>
               <div className={styles.heroFeatures}>
                 <div className={styles.heroFeature}>
