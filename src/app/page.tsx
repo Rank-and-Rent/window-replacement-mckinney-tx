@@ -11,11 +11,11 @@ export default function Home() {
     'awning-windows',
     'sliding-windows',
     'picture-windows',
-    'bay-windows', // bay-bow-windows image covers both bay and bow
+    'bay-bow-windows',
     'single-hung-windows',
-    'specialty-shape-windows', // special-shape-windows
+    'special-shape-windows',
   ]
-  
+
   // Map slugs to image paths
   const windowImageMap: Record<string, string> = {
     'double-hung-windows': '/windows/double-hung-windows-mckinney-tx.jpg',
@@ -23,9 +23,9 @@ export default function Home() {
     'awning-windows': '/windows/awning-windows-mckinney-tx.jpg',
     'sliding-windows': '/windows/sliding-windows-mckinney-tx.webp',
     'picture-windows': '/windows/picture-windows-mckinney-tx.jpg',
-    'bay-windows': '/windows/bay-bow-windows-mckinney-tx.jpg',
+    'bay-bow-windows': '/windows/bay-bow-windows-mckinney-tx.jpg',
     'single-hung-windows': '/windows/single-hung-windows-mckinney-tx.jpg',
-    'specialty-shape-windows': '/windows/special-shape-windows-mckinney-tx.webp',
+    'special-shape-windows': '/windows/special-shape-windows-mckinney-tx.webp',
   }
   
   const windowServices = servicesData
