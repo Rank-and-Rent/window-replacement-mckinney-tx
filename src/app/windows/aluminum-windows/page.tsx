@@ -8,7 +8,7 @@ import ContactSection from '@/components/contact-section'
 
 export const metadata: Metadata = {
   title: 'Aluminum Windows Replacement McKinney TX | Durable, Modern Design',
-  description: 'High-quality aluminum replacement windows in McKinney, TX. Durable, sleek, and energy-efficient. Andersen, Pella & JELD-WEN aluminum options. Everything priced including installation. Call 817-592-8870.',
+  description: 'High-quality aluminum replacement windows in McKinney, TX. Durable, sleek, and energy-efficient with thermal breaks. Andersen, Pella & JELD-WEN aluminum options. Call 945-206-3998.',
   keywords: 'aluminum windows McKinney TX, aluminum replacement windows, durable windows, modern aluminum windows, Andersen aluminum windows, Pella aluminum windows, JELD-WEN aluminum windows',
 }
 
@@ -18,32 +18,32 @@ export default function AluminumWindowsPage() {
     subtitle: 'Sleek, Durable Performance with Modern Thermal Efficiency',
     heroImage: '/window-types/aluminum-mckinney-tx.jpg',
 
-    intro: "McKinney&apos;s rapid suburban growth and family-friendly environment make modern aluminum windows an excellent choice for homeowners seeking sophisticated durability. As one of North Texas' fastest-growing communities, McKinney attracts families who appreciate aluminum windows' combination of sleek contemporary styling, exceptional strength, and thermal break efficiency. Whether in established neighborhoods or new developments around Lake Lavon, aluminum windows provide the modern aesthetic and lasting performance that McKinney homeowners demand. With the area&apos;s blend of traditional and contemporary architecture, aluminum windows offer versatile design that enhances McKinney&apos;s progressive character.",
+    intro: "Aluminum windows occupy a specific niche in the McKinney replacement market. They are the strongest and slimmest framing material on the residential side of the industry, which makes them the right answer for contemporary architecture, large openings that need narrow sightlines, and homeowners who want a window with a defined modern look. Modern aluminum is nothing like the leaky, conductive single-pane aluminum that defined the 1970s. Today's residential aluminum windows incorporate thermal breaks, multi-cavity extrusions, and high-performance Low-E glass packages that push their U-factor performance into the same range as quality vinyl, while preserving the strength and minimalism that aluminum is known for.",
 
     sections: [
       {
-        heading: 'Thermal Break Technology for North Texas Efficiency',
-        content: "McKinney&apos;s North Texas climate with hot summers and cool winters benefits greatly from aluminum windows' advanced thermal break technology. A thermal break is a non-conductive material inserted between aluminum sections, creating an insulating barrier that dramatically improves energy performance. This prevents heat conduction through the metal, achieving U-factors comparable to vinyl windows while maintaining aluminum&apos;s sleek appearance. In McKinney&apos;s variable climate, thermally broken aluminum windows reduce heating and cooling costs by 25-35%, providing measurable savings for growing families. Many models qualify for ENERGY STAR certification, making them an economical choice for McKinney&apos;s cost-conscious homeowners.",
+        heading: 'Thermal Break Technology That Changes the Equation',
+        content: "The single biggest improvement in residential aluminum window technology over the last 30 years is the thermal break. A thermal break is a non-conductive material (typically polyurethane or polyamide) inserted between the inside and outside aluminum extrusions, creating an insulating barrier that prevents heat conduction through the metal. Without it, aluminum is a poor performer thermally because metal conducts heat readily. With a properly engineered thermal break, the same window achieves U-factor values comparable to vinyl. For McKinney's hot summers, this is the difference between a window that radiates heat into the room all afternoon and one that holds a comfortable interior surface temperature.",
       },
       {
-        heading: 'Family-Friendly Durability and Strength',
-        content: "Aluminum&apos;s fundamental properties make it exceptionally well-suited for McKinney&apos;s active family environment. The material never rusts, rots, or warps, maintaining structural integrity indefinitely. Aluminum windows are virtually indestructible—they resist impact damage from sports equipment, bicycles, or severe weather far better than alternatives. This makes them ideal for McKinney homes with children, pets, and active lifestyles. The frames are extruded to precise tolerances, ensuring smooth operation and perfect alignment. Aluminum&apos;s strength enables larger window units and thinner sightlines that maximize views while maintaining structural stability. With proper maintenance, quality aluminum windows provide 40+ years of service in McKinney&apos;s growing community.",
+        heading: 'Strength and Slim Sightlines for Larger Openings',
+        content: "Aluminum is structurally stronger than vinyl, fiberglass, or wood at the same frame thickness, which is why modern aluminum windows can be extruded into much narrower profiles than other materials. A standard vinyl window might have 3 inches of frame on each side of the glass; a comparable aluminum window can have 2 inches or less. That extra glass area is meaningful in great rooms, primary suites, and any room where the homeowner wants the window to feel more like a window than a wall. For McKinney custom homes in Tucker Hill and Adriatica Village where contemporary architecture is the design language, aluminum's slim sightlines are often the right answer.",
       },
       {
-        heading: 'Contemporary Aesthetics for Modern McKinney',
-        content: "Aluminum windows excel at delivering the clean, minimalist aesthetic that complements McKinney&apos;s modern suburban developments. The material&apos;s ability to be extruded into thin, precise profiles creates narrow sightlines that maximize glass area with minimal framing. Aluminum accepts a wide range of exterior finishes, from natural silver tones to custom powder-coated colors that match McKinney&apos;s architectural preferences. Unlike wood windows that can swell or shrink with Lake Lavon&apos;s humidity, aluminum maintains perfectly straight lines year-round. For McKinney homeowners seeking sophisticated, low-maintenance windows that reflect the city&apos;s growth and modernity, aluminum provides the perfect balance of form and function.",
+        heading: 'Long-Term Durability in McKinney Conditions',
+        content: "Aluminum simply does not warp, rot, or swell. It does not absorb moisture, it does not feed mold, and it does not change dimension with seasonal temperature swings the way wood and (to a lesser degree) vinyl can. In McKinney's climate where summer humidity and severe storm season both put windows under stress, aluminum's dimensional stability translates directly into longer service life and tighter long-term seals. The frames themselves regularly outlast the insulating glass units they hold. With a quality factory finish, exterior repainting is needed only every 8 to 12 years, and the frames themselves can run 40 years or more in service.",
       },
       {
-        heading: 'Low Maintenance with Professional Care',
-        content: "While aluminum windows require more maintenance than vinyl options, they offer excellent long-term value with manageable care requirements for McKinney families. Exterior surfaces benefit from periodic refinishing (typically every 8-12 years) to maintain appearance and protect the metal. The frames themselves never corrode or degrade, and interior surfaces require no maintenance beyond occasional cleaning. This maintenance schedule fits well with McKinney&apos;s family-oriented lifestyle, where homeowners can schedule professional care during school breaks or holidays. Compared to wood windows that require annual maintenance, aluminum windows represent a significant time and cost savings for busy families.",
+        heading: 'Where Aluminum Fits in McKinney Homes',
+        content: "Aluminum is at its best in modern and contemporary architecture: clean-lined homes in Tucker Hill, contemporary new builds in Trinity Falls, transitional designs along the Stonebridge Ranch fairways, and any home where the design intent calls for narrow window frames that step back from the view. Aluminum is also a strong choice in commercial-influenced residential designs where large picture windows and floor-to-ceiling glass are part of the program. By contrast, aluminum is usually not the first choice for traditional Victorian or craftsman homes in Old East McKinney, where the wider sightlines of wood or wood-clad windows match the home's original character better.",
       },
       {
-        heading: 'Versatility for McKinney\&apos;s Growing Architecture',
-        content: "Aluminum&apos;s workability allows it to be formed into virtually any window configuration, making it ideal for McKinney&apos;s diverse and growing architectural landscape. From contemporary designs in new developments to traditional styles in established neighborhoods, aluminum adapts beautifully. The material accommodates all major glass types, from single-pane for cost-conscious applications to triple-pane insulated units for maximum energy efficiency. In McKinney, aluminum windows excel in family rooms and living areas that need durability and style. The material&apos;s compatibility with impact-resistant glass makes it suitable for areas with occasional severe weather. Whether for new construction or replacement in established homes, aluminum provides the design flexibility required in McKinney&apos;s dynamic community.",
+        heading: 'Color, Finish, and Customization Options',
+        content: "Aluminum accepts an enormous range of factory finishes. Powder-coat colors are available in essentially any shade you can specify, including matte black, anodized bronze, satin nickel, and dozens of custom colors that match contemporary architectural palettes. The finishes are far more durable than paint applied later in the field, and they typically carry 15- to 20-year warranties against fading and chalking. For McKinney homeowners who want their windows to be a defining design element rather than something to disappear into the wall, aluminum's color flexibility is one of its strongest selling points.",
       },
       {
-        heading: 'Sustainable Investment for Growing Families',
-        content: "Aluminum represents one of the most environmentally responsible building materials available, perfectly aligning with McKinney&apos;s family-oriented environmental values. The material is 100% recyclable without loss of quality—recycled aluminum requires just 5% of the energy needed to produce new aluminum. Many aluminum window manufacturers use significant amounts of recycled content in their products. The material&apos;s longevity reduces the environmental impact of replacement over time. Aluminum windows contribute to sustainable living by enabling larger glass areas that maximize natural light and reduce artificial lighting needs. For environmentally conscious McKinney families, aluminum windows provide premium performance with significantly lower ecological footprint than traditional materials.",
+        heading: 'Glass Packages and Energy Performance',
+        content: "Modern aluminum windows pair with the same Low-E glass packages, argon fills, and warm-edge spacers as any other premium framing material. We typically spec Low-E2 or Low-E3 coatings with argon fill on McKinney installations, and on west-facing or south-facing elevations we sometimes upgrade to dual Low-E packages tuned for solar control. Triple-pane glass is available in some lines for homeowners who want the best possible thermal performance, although in the McKinney climate dual-pane Low-E with argon is usually sufficient for code, comfort, and ENERGY STAR qualification.",
       },
     ],
 
@@ -52,53 +52,53 @@ export default function AluminumWindowsPage() {
       'Exceptional strength and impact resistance',
       'Sleek, contemporary appearance',
       'Narrow sightlines maximize glass area',
-      'Available in unlimited color options',
-      '40+ year lifespan with proper maintenance',
-      'Resists rust, rot, and corrosion',
+      'Available in unlimited custom colors',
+      '40+ year frame lifespan',
+      'Resists rot, warp, and corrosion',
       'Compatible with all glass types',
       'Smooth, precise operation',
-      'Environmentally recyclable',
+      '100% recyclable at end of life',
     ],
 
     brands: [
       {
         name: 'Andersen Aluminum Series',
-        description: 'Andersen combines their expertise in window design with advanced aluminum extrusion technology. Their aluminum windows feature comprehensive thermal breaks and premium hardware for exceptional performance and longevity.',
+        description: "Andersen pairs proven window engineering with advanced aluminum extrusion. Their thermal-break aluminum lines deliver durable performance with the slim sightlines and contemporary look that custom McKinney homes often require.",
       },
       {
         name: 'Pella Aluminum Windows',
-        description: 'Pella\&apos;s aluminum windows incorporate their signature EnduraClad protection system and advanced thermal barrier systems. The result is aluminum performance with superior weather resistance and energy efficiency.',
+        description: "Pella's aluminum windows incorporate the EnduraClad protection system and engineered thermal barriers. The result is aluminum performance with the weather resistance and color longevity that McKinney's climate demands.",
       },
       {
         name: 'JELD-WEN Aluminum Collection',
-        description: 'JELD-WEN offers premium aluminum windows with fusion-welded construction and comprehensive thermal breaks. Their extensive color selection ensures you can match any design aesthetic.',
+        description: "JELD-WEN offers premium aluminum windows with fusion-welded construction and comprehensive thermal breaks. Their custom color program matches almost any architectural palette specified for contemporary McKinney homes.",
       },
     ],
 
     faq: [
       {
-        question: 'Do aluminum windows need painting in McKinney?',
-        answer: 'Yes, aluminum windows require periodic exterior painting (typically every 8-12 years) to maintain their appearance and protect the metal from oxidation. However, the frames never rust or corrode, and the maintenance is far less frequent than wood windows.',
+        question: 'Do aluminum windows require special maintenance in McKinney?',
+        answer: "Aluminum windows are exceptionally low-maintenance. The frames themselves never rust, rot, or warp. The factory finish typically goes 8 to 12 years before any cosmetic refinishing is needed, and many homeowners go longer than that. Operational hardware needs only occasional cleaning and lubrication.",
       },
       {
-        question: 'Are aluminum windows energy efficient for McKinney families?',
-        answer: 'Modern aluminum windows with thermal breaks are highly energy efficient, achieving U-factors comparable to vinyl windows. They can reduce heating and cooling costs by 25-35% in McKinney\&apos;s climate when properly specified with insulated glass.',
+        question: 'Are aluminum windows energy efficient in the McKinney climate?',
+        answer: "Modern aluminum windows with proper thermal breaks deliver U-factor and SHGC numbers comparable to quality vinyl. In McKinney's climate, properly specified aluminum with Low-E2 or Low-E3 glass and argon fill performs at ENERGY STAR levels and produces measurable cooling-load reductions on west-facing elevations.",
       },
       {
-        question: 'How long do aluminum windows last in McKinney?',
-        answer: 'Quality aluminum windows last 40+ years with proper maintenance. The frames never degrade like wood or vinyl, and with periodic repainting, they maintain their appearance and performance indefinitely.',
+        question: 'How long do aluminum windows last in North Texas?',
+        answer: "Quality aluminum window frames routinely last 40 years or more. The insulating glass unit inside the frame typically carries a 20-year manufacturer warranty against seal failure. With a quality factory finish maintained every 8 to 12 years, aluminum windows often outlast the homes they're installed in.",
       },
       {
-        question: 'Are aluminum windows suitable for McKinney family homes?',
-        answer: 'Absolutely. Aluminum windows are perfect for McKinney families with their exceptional durability, strength, and resistance to impact damage from children, pets, and active lifestyles.',
+        question: 'Are aluminum windows a good choice for McKinney custom homes?',
+        answer: "Yes, particularly for contemporary, modern, and transitional architecture. The narrow sightlines, custom color program, and structural strength of aluminum make it a frequent specification for custom builds in Tucker Hill, Adriatica Village, and the contemporary corners of Stonebridge Ranch and Trinity Falls.",
       },
       {
-        question: 'Can aluminum windows be recycled?',
-        answer: 'Yes, aluminum is 100% recyclable without loss of quality. Many aluminum windows contain recycled content, and the frames can be recycled at the end of their service life, making them an environmentally responsible choice.',
+        question: 'Are aluminum windows recyclable?',
+        answer: "Yes. Aluminum is 100% recyclable without loss of quality, and recycled aluminum requires only about 5% of the energy needed to produce new aluminum. Many aluminum window manufacturers use significant recycled content in their products, and the frames can be recycled at end of life.",
       },
       {
         question: 'How much do aluminum windows cost with installation?',
-        answer: 'Aluminum window costs with installation vary by style and features. Everything is priced including installation. Pricing starts at around $850 for small vinyl windows and goes up to $3500 per window depending on frame material. We do not sell windows without installation.',
+        answer: "Aluminum window costs vary by size, line, and glass package. Everything we sell is priced including installation. Pricing on small vinyl units starts around $850 per opening; aluminum and premium frame materials run higher, up to roughly $3,500 per window for top-tier custom configurations. We do not sell windows without installation.",
       },
     ],
   }

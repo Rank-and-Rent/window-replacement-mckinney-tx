@@ -79,62 +79,95 @@ export default function DoubleHungWindowsPage() {
         <div className={styles.container}>
           <div className={styles.contentGrid}>
             <div className={styles.content}>
-              <h2>Why Double-Hung Windows Are <em>McKinney&apos;s First Choice</em></h2>
+              <h2>Why Double-Hung Windows Are <em>McKinney&apos;s Most Popular Style</em></h2>
               <p>
-                Double-hung windows have earned their place as the most popular replacement window style in 
-                McKinney and throughout North Texas. These versatile windows feature two operable sashes that 
-                slide vertically within the frame, with both the upper and lower sections capable of independent 
-                movement. This distinctive design delivers unparalleled flexibility in ventilation control while 
-                maintaining the classic aesthetic that complements virtually every architectural style.
+                Double-hung windows are by far the most common replacement style we install in McKinney, and for good
+                reason. They look right on almost every house in town, from a Victorian-era home in Old East McKinney
+                to a 1990s tract build in Eldorado to a new construction in Trinity Falls. Both the top and bottom
+                sashes operate independently, which gives you fine-tuned ventilation control: open just the bottom for
+                a gentle breeze, just the top to vent hot air at the ceiling, or both for maximum cross-flow when the
+                weather is pleasant. The classic two-over-two or two-over-one proportions of a double-hung also
+                preserve traditional architectural character better than a fixed or sliding window in most McKinney
+                neighborhoods.
               </p>
               <p>
-                What truly sets premium double-hung windows apart is their revolutionary tilt-in cleaning feature. 
-                Both sashes pivot inward with a simple release mechanism, allowing you to clean the exterior glass 
-                surfaces safely from inside your McKinney home--no more precarious ladders or professional window 
-                washing services.
+                The other reason double-hungs dominate the McKinney replacement market is the tilt-in cleaning feature.
+                Both sashes pivot inward at a release tab, so you can clean the exterior glass safely from inside the
+                home. For two-story homes in Stonebridge Ranch, Tucker Hill, or Trinity Falls, that single feature
+                pays for itself by eliminating the cost and risk of ladder work for window cleaning.
               </p>
 
               <h3>The Engineering Behind Superior Performance</h3>
               <p>
-                Today&apos;s double-hung replacement windows represent over a century of continuous refinement in 
-                window engineering. The dual-sash operation isn&apos;t just about convenience--it&apos;s a sophisticated 
-                ventilation system that harnesses the natural principles of air circulation. By opening the bottom 
-                sash, you welcome cool, fresh air into your McKinney home. Simultaneously opening the top sash 
-                allows warm air to escape at ceiling level.
+                Modern double-hung replacement windows are the product of more than a century of refinement, and the
+                gap between a 1970s aluminum double-hung and a current-generation premium model is enormous. Today&apos;s
+                premium double-hungs use a balance system (block-and-tackle in most lines, constant-force in others)
+                that holds the sash where you put it without the ropes, weights, and chains of older homes. Compression
+                weatherstripping at the rails and silicone bulb seals at the meeting rail produce a tighter envelope
+                than older friction-fit systems. Frame walls are thicker, internal chambers are insulated, and the
+                hardware is rated for thousands of operating cycles before any maintenance is required.
               </p>
 
-              <h3>Energy Efficiency That Pays You Back</h3>
+              <h3>Energy Efficiency in McKinney&apos;s Climate</h3>
               <p>
-                McKinney homeowners consistently tell us that energy savings motivated their decision to replace 
-                old windows, and double-hung windows deliver impressive results. Modern double-hung windows employ 
-                multiple technologies working in concert: Low-E glass coatings reflect infrared light, keeping summer 
-                heat outside while retaining winter warmth inside.
+                Energy savings is the most common reason McKinney homeowners cite for upgrading to premium double-hung
+                windows, and the numbers back it up. McKinney&apos;s long, hot summers put real demands on the south- and
+                west-facing elevations of most homes, and original single-pane or first-generation dual-pane glass
+                often runs five to ten degrees warmer at the surface than current Low-E2 or Low-E3 glass. Replacing
+                15 to 20 builder-grade or older windows with ENERGY STAR-certified double-hungs typically reduces
+                annual heating and cooling cost on McKinney homes by a measurable percentage, and improves room-to-room
+                temperature consistency immediately.
               </p>
               <p>
-                A typical McKinney home replacing 15-20 single-pane windows with Energy Star certified double-hung 
-                windows can expect to reduce heating and cooling costs by 25-35% annually.
+                We pair these windows with the right glass package for the elevation: standard Low-E2 for north and
+                east, Low-E3 or solar-control packages for south and west, and laminated impact glass when the home
+                is in a more storm-exposed location. Argon fills are standard on all of our installations.
               </p>
 
-              <h3>Premium Brands We Install</h3>
+              <h3>Premium Brands We Install in McKinney</h3>
               <p>
-                <strong>Andersen 400 Series Double-Hung:</strong> Andersen&apos;s flagship product combines their patented 
-                Fibrex composite frame material with Low-E4 SmartSun glass for exceptional energy performance.
+                <strong>Andersen 400 Series Woodwright Double-Hung:</strong> Andersen&apos;s flagship double-hung pairs the
+                patented Fibrex composite material with Low-E4 SmartSun glass for excellent thermal performance and
+                a near-zero-maintenance exterior. The 400 Series is our most-recommended option for McKinney homes
+                that need premium performance without a fully-custom price.
               </p>
               <p>
-                <strong>Pella 250 Series Double-Hung:</strong> Pella&apos;s vinyl double-hung windows deliver outstanding 
-                value without compromising quality. Their exclusive InsulShield Low-E glass reduces UV light 
-                transmission by up to 84%.
+                <strong>Pella Reserve Traditional Double-Hung:</strong> Pella&apos;s premium wood double-hung with optional
+                aluminum cladding, ideal for the historic homes in Old East McKinney and the custom estates near
+                McKinney Country Club. Available with extensive divided-lite patterns and color customization.
               </p>
               <p>
-                <strong>JELD-WEN Premium Vinyl Double-Hung:</strong> JELD-WEN&apos;s double-hung windows feature their 
-                innovative ScreenMaximizer hidden screen system that increases visible glass area by 15%.
+                <strong>Pella 250 Series Double-Hung:</strong> Pella&apos;s vinyl double-hung is a strong value pick for
+                builder-grade replacements throughout Stonebridge Ranch and Eldorado. Their InsulShield Low-E glass
+                reduces UV transmission by up to 84%, which matters for west-facing rooms where furniture and
+                hardwood floors are otherwise vulnerable to sun damage.
+              </p>
+              <p>
+                <strong>JELD-WEN Premium Vinyl Double-Hung:</strong> JELD-WEN&apos;s double-hung lines include the
+                ScreenMaximizer hidden screen system that increases visible glass area meaningfully, plus a fusion-
+                welded frame that improves seal longevity in the McKinney climate.
+              </p>
+              <p>
+                <strong>Marvin Elevate Double-Hung:</strong> Marvin&apos;s Elevate combines a fiberglass exterior with a
+                wood interior, which gives you the look of a true wood window from inside the room without the
+                exterior maintenance. This is a favorite of ours for high-end remodels in Tucker Hill and Adriatica.
+              </p>
+
+              <h3>Installation Details That Matter in McKinney</h3>
+              <p>
+                A double-hung window only performs as well as it&apos;s installed. We use full-frame replacement with
+                proper exterior flashing whenever the existing trim or sill is compromised, and pocket replacement
+                when the original frame is sound. Either way, we shim the unit to plumb and level, foam the perimeter
+                with low-expansion sealant to prevent frame deflection, and detail the head, jamb, and sill flashings
+                so the assembly drains correctly during severe weather. Our crews complete most McKinney homes in
+                one to two days depending on window count.
               </p>
 
               <h2>Ready to Transform Your <em>McKinney Home?</em></h2>
               <p>
-                Contact us today to schedule your free double-hung window consultation. Our experts will assess 
-                your current windows, discuss your goals, and provide accurate measurements with a detailed 
-                written estimate.
+                Contact us today to schedule your free double-hung window consultation. Our team will measure your
+                openings on site, walk you through the line and glass options that make sense for your home, and
+                send a detailed written estimate with no high-pressure follow-up.
               </p>
             </div>
 

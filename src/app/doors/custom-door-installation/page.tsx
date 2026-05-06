@@ -77,37 +77,90 @@ export default function CustomDoorPage() {
         <div className={styles.container}>
           <div className={styles.contentGrid}>
             <div className={styles.content}>
-              <h2>Your Vision, Expertly Crafted</h2>
+              <h2>When Stock Doors Don&apos;t Fit the McKinney Home</h2>
               <p>
-                Some homes require doors that simply aren&apos;t available off the shelf. Whether you&apos;re 
-                dealing with non-standard opening sizes, unique architectural requirements, or you 
-                simply want something truly one-of-a-kind, custom doors are the answer.
+                Custom doors are factory-built to specific opening dimensions and design specifications, rather
+                than ordered from standard stock sizes. They&apos;re the right answer when your McKinney home has
+                a non-standard opening (which is common in older homes near downtown McKinney and in custom-built
+                estates), when the architectural intent of the home calls for an entry, patio, or interior door
+                that doesn&apos;t exist as a stock unit, or when historic preservation requires a door that matches
+                an original detail no longer in production. We coordinate custom door orders with Andersen, Pella,
+                JELD-WEN, Marvin, and selected boutique manufacturers depending on the project requirements.
+              </p>
+              <p>
+                Custom doors take longer to deliver than stock units (typically 6 to 12 weeks from order
+                placement), and the cost premium reflects the actual custom fabrication. We&apos;re straightforward
+                about both during the consultation, so the project timeline and budget reflect reality from day
+                one. For McKinney homeowners who&apos;ve been frustrated trying to make a stock door work in an
+                opening that wants something else, custom is often the cleaner path.
               </p>
 
-              <h3>Custom Size Solutions</h3>
+              <h3>Common Custom Door Scenarios in McKinney</h3>
               <p>
-                Older McKinney homes often have doorways that don&apos;t match today&apos;s standard dimensions. 
-                Rather than modifying your home&apos;s structure, we can order doors built to your exact 
-                specifications.
+                <strong>Older Home Openings:</strong> Pre-1970s homes in Old East McKinney often have door
+                openings that don&apos;t match modern stock sizes. Rather than modifying the rough opening (which can
+                affect framing, plaster, or original architectural detail), we order custom-sized units to fit
+                the existing opening exactly.
+              </p>
+              <p>
+                <strong>Historic Preservation:</strong> Custom-built doors with period-correct panel patterns,
+                divided-lite glass, and traditional hardware are essential for restorations of Victorian,
+                craftsman, and bungalow homes throughout downtown McKinney&apos;s historic district.
+              </p>
+              <p>
+                <strong>Custom Architecture:</strong> Higher-end custom builds in Tucker Hill, Adriatica, around
+                McKinney Country Club, and in the larger Stonebridge Ranch homes often have entry openings
+                designed around custom doors, not the other way around. Oversized entries, tall openings, and
+                non-standard panel arrangements all call for custom fabrication.
+              </p>
+              <p>
+                <strong>Specialty Glass and Privacy:</strong> Custom doors with leaded glass, beveled glass,
+                custom etching, or specific privacy patterns require special fabrication that stock programs
+                don&apos;t support. We work with manufacturers who specialize in these custom glass treatments.
               </p>
 
-              <h3>Unique Shapes and Configurations</h3>
+              <h3>Custom Sizes and Shapes</h3>
               <p>
-                Arched tops, sidelights, transoms, and multi-door configurations are all possible with 
-                our custom door program. We&apos;ll work with you to design a door system that perfectly 
-                fits your home&apos;s architecture.
+                Custom door programs handle non-standard widths, heights, arched tops, full radius half-rounds
+                above the door, sidelights of any width, and integrated transom assemblies. We measure on site
+                with multiple check points to make sure the order specifications match the opening exactly,
+                because custom doors are far less forgiving than stock units when the dimensions are slightly
+                off.
               </p>
 
-              <h3>Premium Materials and Finishes</h3>
+              <h3>Material and Finish Options</h3>
               <p>
-                Choose from a wide range of wood species, fiberglass textures, hardware finishes, and 
-                glass options to create a door that&apos;s uniquely yours.
+                Custom doors are available in nearly every residential door material: solid mahogany, knotty
+                alder, cherry, walnut, Douglas fir, fiberglass with mahogany or oak grain, smooth-skin
+                fiberglass, painted steel, or hybrid wood-and-fiberglass constructions. Hardware finishes span
+                the full range from polished brass through satin nickel through matte black to oil-rubbed
+                bronze. Glass options include single tempered, dual insulating with Low-E, laminated impact-
+                resistant, and custom-fabricated leaded or beveled glass for historic detail.
+              </p>
+
+              <h3>Hardware and Locking Systems</h3>
+              <p>
+                Custom doors typically include premium hardware as part of the order: multi-point locking
+                systems, three-point ball-bearing hinges, oversized strike plates with three-inch screws into
+                framing, and decorative hardware (knockers, kick plates, address plates) coordinated to the
+                home&apos;s overall finish palette. For McKinney custom homes where the existing interior fixtures
+                define a clear finish program, the entry door hardware should integrate seamlessly.
+              </p>
+
+              <h3>Lead Times and Project Coordination</h3>
+              <p>
+                Custom doors typically run 6 to 12 weeks from order placement to delivery, depending on the
+                manufacturer and the specifications. We coordinate the order, track production, and schedule
+                installation so the project lines up cleanly with your overall remodel or build schedule. For
+                homeowners working with a general contractor on a major project, we serve as the door
+                specialist on the team and handle all manufacturer coordination directly.
               </p>
 
               <h2>Ready for Your Free Consultation?</h2>
               <p>
-                Contact us today to discuss your custom door project. Our design team will help bring 
-                your vision to life.
+                Contact us today to discuss your custom door project. We&apos;ll measure on site, review options
+                with the manufacturers that fit your specifications, and send a detailed written estimate that
+                reflects the lead time and budget honestly.
               </p>
             </div>
 

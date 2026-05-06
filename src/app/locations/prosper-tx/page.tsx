@@ -31,7 +31,7 @@ export default function ProsperPage() {
             <div className={styles.heroText}>
               <span className={styles.sectionLabel}>Service Area</span>
               <h1>Window Replacement in <em>Prosper, TX</em></h1>
-              <p>Premium window and door installations for Prosper&apos;s beautiful homes. From Windsong Ranch to Light Farms, we bring factory-certified expertise to this thriving community.</p>
+              <p>Prosper has become one of the most architecturally ambitious communities in Collin County, with master-planned neighborhoods like Windsong Ranch, Star Trail, and Light Farms producing custom-style homes on lots large enough to support significant glass. We bring our McKinney-based crews west to Prosper regularly, with the factory-certified credentials and engineering coordination these homes deserve.</p>
             </div>
             <div className={styles.heroImage}>
               <img
@@ -47,48 +47,87 @@ export default function ProsperPage() {
         <div className={styles.container}>
           <div className={styles.contentGrid}>
             <div className={styles.mainContent}>
-              <h2>Prosper&apos;s Trusted Window Experts</h2>
+              <h2>Window and Door Replacement for Prosper Homeowners</h2>
               <p>
-                Prosper has transformed from a small town into one of North Texas&apos;s most desirable 
-                communities. Known for its excellent schools, master-planned neighborhoods, and 
-                family-friendly atmosphere, Prosper homeowners take pride in their homes—and 
-                they deserve window and door solutions that reflect that pride.
+                Prosper&apos;s growth has been driven by destination master-planned communities that compete with the
+                best in the metroplex. Windsong Ranch, Star Trail, and Light Farms have all earned national
+                recognition for amenities and community design, and the homes inside them tend to be larger and
+                more architecturally distinct than the average tract build. Two- and three-story custom-style
+                homes with significant glass on the rear elevation, large entry vestibules with sidelights and
+                transoms, and oversized patio openings are the norm, not the exception.
               </p>
               <p>
-                Window Replacements of McKinney serves Prosper with the same dedication to quality 
-                and service that has made us the region&apos;s trusted window specialists. Our 
-                factory-certified installers understand the high standards of Prosper homeowners.
+                That kind of architecture puts real demands on window and door specifications. Tall openings need
+                hardware that won&apos;t sag. Big glass needs Low-E packages that control solar gain without making
+                the rooms feel dim. Patio doors need multi-point locks and reinforced sills. We&apos;ve worked the
+                full range of premium product lines in Prosper, and we know which line solves which problem.
+              </p>
+
+              <h3>Prosper Communities We Serve</h3>
+              <p>
+                Our project history covers all of Prosper&apos;s major master-planned communities and the older homes
+                near downtown along Coleman Street. We&apos;re a short drive from any Prosper address, and we
+                typically schedule consultations within the same week.
+              </p>
+              <ul>
+                <li>Windsong Ranch</li>
+                <li>Light Farms</li>
+                <li>Star Trail</li>
+                <li>Whitley Place</li>
+                <li>Lakewood at Brookhollow</li>
+                <li>The Lakes of Prosper</li>
+                <li>Gentle Creek and Gentle Creek Estates</li>
+                <li>Artesia and Artesia North</li>
+                <li>Whispering Farms and the FM 1385 corridor</li>
+              </ul>
+
+              <h3>Premium Brand Selection for Prosper Homes</h3>
+              <p>
+                Prosper&apos;s housing inventory tends to call for premium product lines. Marvin Signature Ultimate
+                and Pella Reserve are common specifications for casements, double-hungs, and large picture windows
+                in custom-style homes. Andersen E-Series and 400 Series Woodwright are popular alternatives,
+                especially when homeowners want extensive grille and color customization. For doors, we install
+                JELD-WEN Custom Wood entries, Andersen and Marvin patio doors, and folding glass walls in homes
+                that support them structurally.
+              </p>
+
+              <h3>Solar Gain and West-Facing Performance</h3>
+              <p>
+                Many Prosper homes are oriented to maximize backyard views, which often means significant glass
+                on the west or southwest elevation. Without the right glass package, these elevations run hot in
+                July and August and produce uneven temperatures across the home. We routinely spec dual Low-E
+                coatings, argon or krypton fills, and where it makes sense, triple-pane assemblies on the most
+                exposed elevations. The result is a home that holds setpoint without the AC running constantly
+                in peak season.
+              </p>
+
+              <h3>Patio Doors and Outdoor Living</h3>
+              <p>
+                Outdoor living is a defining feature of Prosper homes, and patio door selection drives both the
+                aesthetic and the thermal performance of the rear of the house. We replace original three- and
+                four-panel sliders with high-performance units, install Marvin or Andersen multi-slide systems
+                where the framing supports them, and add French door pairs in family rooms and primary suites.
+                Hardware upgrades to multi-point locking are standard on our installations.
+              </p>
+
+              <h3>HOA Coordination and Town Permits</h3>
+              <p>
+                Windsong Ranch, Light Farms, and Star Trail all maintain robust architectural review processes,
+                and the Town of Prosper requires permits for most window and door replacements when openings
+                change. We handle both processes, with the documentation each ACC expects (brand, line, frame
+                color, grid pattern, sometimes manufacturer literature). This keeps your project compliant and
+                prevents surprises during a future home sale.
               </p>
 
               <h3>Why Prosper Homeowners Choose Us</h3>
               <ul>
-                <li>Close proximity for prompt service</li>
-                <li>Factory-certified installers for premium brands</li>
-                <li>Experience with Prosper&apos;s newer construction</li>
-                <li>Understanding of master-planned community standards</li>
-                <li>Comprehensive warranty protection</li>
+                <li>Quick access from our McKinney shop, even on tight timelines</li>
+                <li>Factory-certified for Andersen, Pella, JELD-WEN, and Marvin</li>
+                <li>Experience with Windsong Ranch, Light Farms, and Star Trail</li>
+                <li>Custom and specialty shape capabilities for architectural homes</li>
+                <li>Itemized written quotes and no high-pressure tactics</li>
+                <li>Lifetime workmanship warranty backed by local crews</li>
               </ul>
-
-              <h3>Neighborhoods We Serve in Prosper</h3>
-              <ul>
-                <li>Windsong Ranch</li>
-                <li>Light Farms</li>
-                <li>Whitley Place</li>
-                <li>Lakewood at Brookhollow</li>
-                <li>The Lakes of Prosper</li>
-                <li>Gentle Creek</li>
-                <li>Artesia</li>
-                <li>Star Trail</li>
-                <li>And all Prosper communities</li>
-              </ul>
-
-              <h3>Premium Solutions for New Construction</h3>
-              <p>
-                Many Prosper homes are newer construction, built with builder-grade windows that 
-                may not perform to your expectations. Upgrading to premium windows from Andersen, 
-                Pella, JELD-WEN, or Marvin can transform your home&apos;s comfort, appearance, and 
-                energy efficiency.
-              </p>
             </div>
 
             <aside className={styles.sidebar}>

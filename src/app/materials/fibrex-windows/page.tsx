@@ -60,28 +60,64 @@ export default function FibrexWindowsPage() {
         <div className={styles.container}>
           <div className={styles.contentGrid}>
             <div className={styles.mainContent}>
-              <h2>Why Choose Fibrex Windows?</h2>
+              <h2>Fibrex: Andersen&apos;s Wood-Polymer Composite</h2>
               <p>
-                Fibrex is Andersen&apos;s patented composite material that combines the best of wood and vinyl. Made from reclaimed wood fiber and thermoplastic polymer, Fibrex offers the authentic beauty of wood with the low-maintenance benefits of vinyl, making it perfect for McKinney homeowners who want premium quality without the upkeep.
+                Fibrex is Andersen Corporation&apos;s proprietary composite material, made from reclaimed wood fibers
+                bound with thermoplastic polymer. The material was developed in the early 1990s as an alternative
+                to both pure vinyl and traditional solid wood, and Andersen has refined the formula continuously
+                since then. The result is a frame material that combines the dimensional stability and natural
+                insulating properties of wood with the moisture resistance and consistency of synthetic materials.
+                For McKinney homeowners considering an Andersen window package, Fibrex is the core material in
+                the 100 Series and a structural component in several higher-tier lines.
               </p>
               <p>
-                This innovative material is twice as strong as vinyl and more dimensionally stable than wood, ensuring your windows maintain their performance and appearance for decades. Fibrex windows resist warping, rotting, and insect damage while providing superior energy efficiency for McKinney&apos;s climate.
+                Two characteristics distinguish Fibrex from other frame materials. First, its coefficient of
+                thermal expansion is much lower than vinyl, which means the frames don&apos;t grow noticeably during
+                a 105-degree August afternoon and shrink during a January cold front. That stability matters for
+                long-term integrity of the seals around the glass. Second, the wood-fiber content gives Fibrex
+                slightly better thermal performance than pure vinyl and a more substantial feel than glossy vinyl.
               </p>
 
-              <h3>Key Benefits</h3>
+              <h3>Why Fibrex Performs Well in McKinney</h3>
+              <p>
+                Solid wood is dimensionally stable across temperature but reacts to humidity, which can be an
+                issue in McKinney during the wetter parts of spring and summer. Vinyl is humidity-stable but
+                expands and contracts more across temperature swings. Fibrex bridges both: stable across
+                temperature like vinyl, and stable across humidity like a synthetic. The combination produces a
+                frame that holds its shape and its seal year-round in the McKinney climate, which translates to
+                consistent thermal performance and air-tightness across seasons.
+              </p>
+
+              <h3>Key Benefits in McKinney</h3>
               <ul>
-                <li>Wood-like beauty with composite strength</li>
-                <li>Premium performance and durability</li>
-                <li>Low maintenance - never needs painting</li>
-                <li>Superior energy efficiency</li>
-                <li>Resists warping, rotting, and insects</li>
-                <li>Twice as strong as vinyl</li>
-                <li>Made from reclaimed wood fiber</li>
+                <li>Low coefficient of thermal expansion across seasons</li>
+                <li>Strong moisture resistance and dimensional stability</li>
+                <li>Stronger frame than pure vinyl</li>
+                <li>Wood-fiber content gives natural insulating properties</li>
+                <li>Factory finishes hold up well in Texas sun</li>
+                <li>Available with Andersen Low-E4 SmartSun glass</li>
+                <li>20-year warranty coverage on frame and glass</li>
+                <li>Made with reclaimed wood content from manufacturing waste streams</li>
               </ul>
 
-              <h3>Perfect for Discerning McKinney Homeowners</h3>
+              <h3>Where Fibrex Fits in McKinney Homes</h3>
               <p>
-                Fibrex windows are ideal for McKinney homeowners who appreciate premium quality and authentic aesthetics. Whether updating a historic downtown home or installing in a new luxury development, Fibrex windows provide the sophisticated appearance of wood with modern performance benefits that protect your investment.
+                Fibrex is the right answer for McKinney homeowners who want better long-term performance than
+                standard vinyl can deliver, but don&apos;t need the wood interior of a clad wood line. We see it most
+                often in mid- to upper-tier replacements throughout Stonebridge Ranch, Trinity Falls, and Tucker
+                Hill, where the homeowner is staying long-term and wants a window that will hold its appearance
+                and performance through multiple decades. Andersen&apos;s 100 Series uses Fibrex as the core frame
+                material; 200 Series and 400 Series Woodwright use Fibrex in various structural applications
+                combined with other materials.
+              </p>
+
+              <h3>Long-Term Service Life</h3>
+              <p>
+                Andersen warrants Fibrex frames for 20 years against defects in material and manufacturing, with
+                an additional 20-year glass warranty against insulating glass seal failure. Realistic service life
+                on the frame is well past those warranty periods, with many of the earliest Fibrex installations
+                from the late 1990s and early 2000s still performing as designed in McKinney homes. The material
+                is designed to be recyclable at end of life.
               </p>
             </div>
 

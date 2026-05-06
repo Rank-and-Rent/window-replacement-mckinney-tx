@@ -8,97 +8,97 @@ import ContactSection from '@/components/contact-section'
 
 export const metadata: Metadata = {
   title: 'Wood Windows Replacement McKinney TX | Authentic Natural Beauty',
-  description: 'Premium solid wood replacement windows in McKinney, TX. Timeless natural beauty, superior craftsmanship, and authentic character. Everything priced including installation.',
+  description: 'Premium solid wood replacement windows in McKinney, TX. Timeless natural beauty, superior craftsmanship, and authentic period-correct character. Call 945-206-3998.',
   keywords: 'wood windows McKinney TX, solid wood windows, traditional wood windows, authentic wood windows, custom wood windows',
 }
 
 export default function WoodWindowsPage() {
   const content = {
     title: 'Wood Windows Replacement in McKinney, TX',
-    subtitle: 'Timeless Beauty and Authentic Craftsmanship in Solid Wood',
+    subtitle: 'Authentic Craftsmanship for Period Homes and Custom Builds',
     heroImage: '/window-types/wood-mckinney-tx.jpg',
 
-    intro: "McKinney homeowners who appreciate authentic traditional craftsmanship and timeless natural beauty choose solid wood windows. Nothing matches the warmth, character, and architectural authenticity that genuine wood provides. For historic McKinney homes and discerning homeowners who prioritize traditional quality, solid wood windows offer unparalleled beauty and lasting value.",
+    intro: "Solid wood windows occupy a specific high-end niche in the McKinney replacement market. They are the right answer for two distinct kinds of homes: the historic Victorian, craftsman, and bungalow homes of Old East McKinney where period authenticity matters as much as performance, and the high-end custom builds in Tucker Hill, Adriatica Village, and the country club area where wood is part of the original design language. They are not the right answer for builder-grade replacements in master-planned communities, where vinyl, fiberglass, or Andersen's Fibrex composite deliver better value at the price point. Wood is a deliberate choice; we'll help you decide if it's the right one for your home.",
 
     sections: [
       {
-        heading: 'Unmatched Natural Beauty and Character',
-        content: "Solid wood windows provide authenticity that synthetic materials cannot replicate. Each window features unique grain patterns, natural color variations, and organic warmth that change subtly with light and seasons. Wood accepts stains and finishes that enhance natural beauty while allowing the grain to show through. For McKinney\&apos;s historic homes and traditional architecture, wood windows provide period-appropriate authenticity that preserves architectural integrity.",
+        heading: 'Why Wood Still Matters in McKinney',
+        content: "There is no synthetic material that fully reproduces the look and feel of true solid wood. The grain pattern of mahogany, the warm tone of stained pine, the way oak takes a finish, the way cherry darkens over decades; all of these are properties of the actual material that vinyl wood-grain laminates and fiberglass paint can only approximate. For homes where the original windows were wood and the architectural integrity of the elevation depends on that material, replacing with anything other than wood is a visible compromise from the curb. McKinney's older neighborhoods include enough authentic period homes that wood remains a regular specification on our project board.",
       },
       {
-        heading: 'Superior Thermal Performance',
-        content: "Wood is naturally insulating, providing thermal performance that rivals modern synthetics without requiring complex engineering. The cellular structure creates air pockets that resist heat transfer, keeping McKinney homes comfortable year-round. Quality wood windows achieve U-factors of 0.25-0.30, comparable to premium alternatives, while providing the added benefit of thermal mass that moderates temperature swings throughout the day.",
+        heading: 'Where Wood Windows Belong in McKinney',
+        content: "The clearest application is the historic homes of Old East McKinney, particularly the Victorian and craftsman properties along Church Street, Tucker Street, and the surrounding blocks. Many of these homes still have original wood double-hungs from the early 1900s, and authentic wood replacements (often in matching divided-lite patterns) preserve the architectural character that makes the neighborhood special. Wood is also a frequent specification in the custom-built estates near McKinney Country Club and along Stonebridge Drive, where the original architect chose wood as part of the design intent. New high-end custom homes in Tucker Hill and Adriatica Village often include wood windows as a defining material on at least the front elevation.",
       },
       {
-        heading: 'Exceptional Craftsmanship and Quality',
-        content: "Solid wood windows represent traditional craftsmanship at its finest. Quality manufacturers select premium wood species—mahogany, oak, cherry, or pine—and craft windows using time-honored joinery techniques. The result is windows that operate smoothly, align perfectly, and provide decades of service. For McKinney homeowners who appreciate quality construction, wood windows offer satisfaction that mass-produced alternatives cannot match.",
+        heading: 'Thermal Performance of Modern Wood Windows',
+        content: "Wood is naturally insulating because of its cellular structure, which contains millions of tiny air pockets that resist heat transfer. A properly built solid wood window with Low-E2 or Low-E3 glass and argon fill can achieve U-factor numbers in the 0.25 to 0.30 range, which puts it in the same performance band as premium vinyl, fiberglass, or aluminum-clad wood. Wood also moderates interior surface temperatures slightly compared to metal-framed windows, which gives the rooms a marginally warmer feel during cold snaps. For McKinney's climate, modern wood windows perform well thermally when paired with the right glass package.",
       },
       {
-        heading: 'Maintenance Requirements and Considerations',
-        content: "Solid wood windows require regular maintenance to preserve their beauty and performance in McKinney\&apos;s climate. Exterior surfaces need repainting or refinishing every 3-5 years to protect against moisture and UV damage. Interior maintenance is minimal but benefits from occasional cleaning and refinishing. For homeowners willing to invest time in maintenance, wood windows reward with beauty and character that improve with age.",
+        heading: 'Maintenance Realities You Should Know',
+        content: "Wood windows require ongoing exterior maintenance, and we'll be straightforward about it. Exterior surfaces need to be repainted or refinished every 3 to 5 years to prevent moisture intrusion and UV degradation, particularly on south- and west-facing elevations where Texas sun is most intense. Improperly maintained wood windows can rot at the bottom rail, fail at the muntins, and require replacement well before their natural service life. For homeowners who don't want this maintenance commitment, we typically recommend Pella Reserve Traditional or Marvin Signature Ultimate (both aluminum-clad wood) instead of full solid wood. The cladding does the maintenance work that the homeowner would otherwise have to do.",
       },
       {
-        heading: 'Historic Preservation and Architectural Authenticity',
-        content: "Wood windows are essential for authentic historic preservation in McKinney\&apos;s older neighborhoods. Historic districts often require wood windows to maintain period character. Beyond regulatory requirements, wood windows provide architectural correctness that honors original design intent. For homeowners passionate about preserving McKinney\&apos;s preservation architectural heritage, wood windows are the only authentic choice.",
+        heading: 'Wood Species and Custom Options',
+        content: "Premium wood window manufacturers offer a range of species: pine (the most economical and common), Douglas fir (slightly stronger and more dimensionally stable), mahogany (deeper color and excellent rot resistance), oak (strong open grain), and cherry (rich tone that darkens with age). Each takes stains and finishes differently, and each suits different architectural contexts. Pine works well in painted-finish applications throughout McKinney's craftsman homes. Mahogany is a frequent specification in higher-end custom builds. Cherry and oak appear in rooms where the homeowner wants the wood interior to be a defining feature, often paired with stained interior trim and casework.",
       },
       {
-        heading: 'Investment Value and Longevity',
-        content: "Quality wood windows represent significant initial investment but provide exceptional long-term value. With proper maintenance, wood windows last 50-100 years or more—far longer than synthetic alternatives. The windows can be refinished repeatedly, allowing homeowners to refresh appearance without replacement. In McKinney\&apos;s historic neighborhoods, authentic wood windows significantly enhance property value and marketability.",
+        heading: 'Lifespan and Long-Term Value',
+        content: "A properly maintained solid wood window can easily last 50 to 100 years. Many McKinney homes still have original wood windows from the 1920s and 1930s that, with periodic refinishing and balance work, continue to function as designed. Modern wood windows from Marvin, Pella, and JELD-WEN benefit from preservation treatments that the original 1920s windows didn't have, which extends the realistic service life further. Wood is also unique among framing materials in that it can be refinished, sanded, restained, or repainted indefinitely; the same window can present different finishes across different decades of ownership.",
       },
     ],
 
     features: [
-      'Authentic natural wood beauty',
-      'Unique grain patterns and character',
-      'Superior thermal insulation',
-      'Traditional craftsmanship and joinery',
-      'Unlimited staining and finishing options',
-      'Can be refinished repeatedly',
-      '50-100+ year lifespan with care',
-      'Essential for historic preservation',
-      'Premium wood species available',
-      'Enhances property value significantly',
+      'Authentic solid wood character',
+      'Multiple species available (pine, fir, mahogany, oak, cherry)',
+      'Strong natural thermal insulation',
+      'Time-tested traditional joinery',
+      'Refinishable indefinitely',
+      'Period-correct for historic homes',
+      'Custom divided-lite patterns and grilles',
+      '50-100 year potential lifespan',
+      'Significant property-value contribution in historic districts',
+      'Compatible with all premium glass packages',
     ],
 
     brands: [
       {
-        name: 'Andersen Traditional Wood Windows',
-        description: 'Andersen\&apos;s traditional wood line offers authentic wood windows crafted from premium species with time-honored construction methods. Their windows combine historical accuracy with modern performance features for discerning McKinney homeowners.',
+        name: 'Marvin Signature Ultimate Wood',
+        description: "Marvin's flagship solid wood line offers extensive species, finishes, and divided-lite options. The construction quality and customization range make it our most-recommended specification for high-end custom McKinney homes and historic restorations.",
       },
       {
-        name: 'Pella Wood Windows',
-        description: 'Pella crafts solid wood windows using premium wood species and advanced preservation treatments. Their wood windows provide authentic beauty with enhanced longevity, perfect for McKinney\&apos;s historic homes and traditional architecture.',
+        name: 'Pella Reserve Traditional Wood',
+        description: "Pella's premium wood line uses select wood species and advanced preservation treatments to extend service life in the McKinney climate. A frequent specification in restorations throughout Old East McKinney where authentic detailing is essential.",
       },
       {
-        name: 'JELD-WEN Premium Wood Collection',
-        description: 'JELD-WEN\&apos;s premium wood windows feature authentic construction using select wood species. Their AuraLast preservation system extends wood life while maintaining traditional appearance, ideal for McKinney\&apos;s climate.',
+        name: 'JELD-WEN Custom Wood Windows',
+        description: "JELD-WEN's premium wood windows feature authentic construction with their AuraLast preservation system, which extends wood life by reducing rot and decay risk. Strong choice for traditional homes throughout McKinney's older neighborhoods.",
       },
     ],
 
     faq: [
       {
-        question: 'Do wood windows require a lot of maintenance?',
-        answer: 'Yes, solid wood windows require regular maintenance. Exterior surfaces need repainting or refinishing every 3-5 years in McKinney\&apos;s climate to prevent moisture damage and UV degradation. However, many homeowners find this maintenance rewarding.',
+        question: 'How much maintenance do wood windows really require in McKinney?',
+        answer: "Wood windows need exterior repainting or refinishing every 3 to 5 years in the McKinney climate to prevent moisture damage and UV degradation. Interior surfaces require minimal maintenance beyond occasional cleaning. For homeowners who don't want exterior maintenance, aluminum-clad wood is a sensible alternative that preserves the wood interior while eliminating the painting cycle.",
       },
       {
-        question: 'How long do wood windows last?',
-        answer: 'With proper maintenance, quality wood windows last 50-100 years or more. They can be refinished repeatedly, allowing homeowners to refresh appearance without replacement. Many McKinney homes feature original wood windows from the 1920s-1940s.',
+        question: 'How long do wood windows last in North Texas?',
+        answer: "With proper maintenance, quality wood windows last 50 to 100 years. The windows can be refinished repeatedly without replacement, and many of McKinney's historic homes still have original wood windows from the early 1900s that continue to function with periodic refinishing.",
       },
       {
-        question: 'Are wood windows energy efficient?',
-        answer: 'Yes, wood windows are naturally energy efficient. Wood\&apos;s cellular structure provides excellent insulation, achieving U-factors of 0.25-0.30. Combined with modern glass, wood windows reduce energy costs significantly.',
+        question: 'Are wood windows energy efficient enough for the Texas climate?',
+        answer: "Yes. Modern wood windows with Low-E2 or Low-E3 glass and argon fill achieve U-factor numbers comparable to premium vinyl or fiberglass. Wood's natural insulating properties combined with modern glass packages produce ENERGY STAR-qualified configurations for the southern climate zone.",
       },
       {
-        question: 'Are wood windows required for historic homes?',
-        answer: 'Many McKinney historic districts require wood windows to maintain period authenticity. Even when not mandated, wood windows are essential for authentic historic preservation and maintaining property value in historic neighborhoods.',
+        question: 'Are wood windows required in historic McKinney districts?',
+        answer: "Some restorations in McKinney's historic neighborhoods are subject to architectural review where wood windows or convincing wood-look replacements are expected to maintain period character. Even when not technically required, wood windows are usually the right choice for authentic preservation of these properties.",
       },
       {
-        question: 'Can wood windows be painted?',
-        answer: 'Absolutely. Wood windows accept any exterior or interior paint or stain. Many homeowners change colors periodically to refresh appearance, taking advantage of wood\&apos;s ability to be refinished repeatedly throughout its long service life.',
+        question: 'Can I paint or stain wood windows myself?',
+        answer: "Yes, wood windows accept any quality exterior or interior paint or stain. Many of the brands we install ship with a factory primer or sealer that prepares the wood for field finishing. We can also order pre-finished factory-painted or stained units if you'd rather not handle finishing yourself.",
       },
       {
-        question: 'How much do wood windows cost with installation?',
-        answer: 'Wood window costs with installation vary by style and features. Everything is priced including installation. Pricing starts at around $850 for small vinyl windows and goes up to $3500 per window depending on frame material. We do not sell windows without installation.',
+        question: 'How much do solid wood windows cost with installation?',
+        answer: "Wood window costs vary substantially by species, configuration, and finish package. Everything we sell is priced including installation. Premium wood and aluminum-clad wood units typically run toward the upper end of our pricing range, up to roughly $3,500 per window for top-tier custom configurations. We do not sell windows without installation.",
       },
     ],
   }

@@ -75,36 +75,90 @@ export default function CasementWindowsPage() {
         <div className={styles.container}>
           <div className={styles.contentGrid}>
             <div className={styles.content}>
-              <h2>The Most Energy-Efficient Window Style</h2>
+              <h2>The Most Energy-Efficient Window Style for McKinney Homes</h2>
               <p>
-                Casement windows consistently rank among the most energy-efficient window styles available. 
-                Unlike sliding or hung windows where sashes must have some clearance to move, casement 
-                windows press firmly against the frame when closed, creating a compression seal that 
-                virtually eliminates air infiltration.
+                Casement windows consistently test among the most energy-efficient window styles you can buy, and the
+                physics behind that ranking is simple. A double-hung window has a meeting rail in the middle and
+                tracks on the sides, both of which are friction-fit details that allow some air to pass when the
+                wind hits a wall hard. A casement, by contrast, is hinged at one side and swings outward like a door,
+                and when you crank it closed the sash compresses tightly against bulb-style weatherstripping all the
+                way around the frame. The result is a near-complete air seal at every closed perimeter, which is
+                exactly what you want during a North Texas summer when the AC is fighting to hold setpoint.
               </p>
               <p>
-                This tight seal makes casement windows the ideal choice for McKinney homeowners focused 
-                on reducing energy costs. Combined with Low-E glass and argon gas fills from Andersen, 
-                Pella, JELD-WEN, or Marvin, casement windows deliver exceptional thermal performance.
+                That seal is also why casements are a frequent recommendation for the more exposed elevations of
+                McKinney homes: west-facing rooms in Stonebridge Ranch, second-story bedrooms in Trinity Falls, and
+                anywhere along a Craig Ranch elevation that takes wind-driven rain during severe storm season. Pair
+                a quality casement with Low-E2 or Low-E3 glass and argon fill from Andersen, Pella, Marvin, or
+                JELD-WEN and you get measurable cooling-load reductions and a noticeable drop in air infiltration on
+                day one.
               </p>
 
-              <h3>Capture Every Breeze</h3>
+              <h3>How Casements Capture McKinney&apos;s Breezes</h3>
               <p>
-                Because casement windows open fully and swing outward like a door, they can catch side 
-                breezes that sliding or hung windows might miss. Position them to direct airflow into your 
-                McKinney home for natural cooling during pleasant weather.
+                A casement is unique among common window styles because it opens fully and projects outward into the
+                airflow. That means the open sash itself acts like a small scoop, redirecting side breezes into the
+                home. Position a pair of casements correctly on opposing walls and you can pull cross-flow ventilation
+                through a room that a sliding or double-hung window would never catch. For McKinney homeowners who
+                want to enjoy the pleasant spring and fall weather without running the AC, this is a real advantage.
               </p>
 
-              <h3>Clean, Modern Aesthetic</h3>
+              <h3>Clean, Modern Aesthetic for Today&apos;s McKinney Architecture</h3>
               <p>
-                With no meeting rail to obstruct your view, casement windows offer a cleaner sightline 
-                than traditional hung windows. This makes them particularly popular for modern and 
-                contemporary McKinney homes.
+                Without a meeting rail crossing the middle of the glass, casements offer a cleaner, more contemporary
+                sightline than a double-hung. That makes them a natural fit for the modern and transitional homes
+                going up in Tucker Hill, Adriatica Village, and the newer Trinity Falls subdivisions. We also use
+                casements in pairs flanking a fixed picture window to combine a clean view with operable ventilation
+                in the same opening. This is a popular configuration in great rooms and primary suites throughout
+                McKinney.
+              </p>
+
+              <h3>Premium Casement Brands We Install</h3>
+              <p>
+                <strong>Andersen 400 Series Casement:</strong> Andersen&apos;s flagship casement uses Fibrex composite
+                framing for excellent dimensional stability and low long-term maintenance. The Easy-Operating
+                hardware system delivers smooth crank action even on larger units.
+              </p>
+              <p>
+                <strong>Pella Reserve Traditional Casement:</strong> Pella&apos;s premium wood casement with optional
+                aluminum cladding, ideal for the higher-end custom homes near McKinney Country Club and in Tucker
+                Hill. Available with extensive divided-lite patterns and color customization.
+              </p>
+              <p>
+                <strong>Marvin Signature Ultimate Casement:</strong> Marvin&apos;s top-tier casement combines an
+                aluminum-clad exterior with a true wood interior. Multiple interior species, factory finishes, and
+                hardware lines make this a frequent specification for custom builds.
+              </p>
+              <p>
+                <strong>JELD-WEN Premium Vinyl Casement:</strong> A strong value option for builder-grade
+                replacements in Eldorado, Mallard Lakes, and Provine Farms. Fusion-welded frame and Low-E options
+                cover most performance needs at a manageable price.
+              </p>
+
+              <h3>Casement Hardware and Long-Term Operation</h3>
+              <p>
+                The crank-operator and multi-point lock are the moving parts that distinguish a casement from
+                simpler styles, and they need to be specified well to perform long term. The brands we install all
+                use stainless or corrosion-resistant hardware rated for tens of thousands of operating cycles. We
+                lubricate and adjust the operators on installation day and again at the end-of-job walkthrough,
+                and we&apos;ll come back to fine-tune the multi-point engagement if anything settles after the seasons
+                change.
+              </p>
+
+              <h3>Where Casements Fit in McKinney Homes</h3>
+              <p>
+                Casements work especially well over kitchen sinks, in bathrooms where ease of operation matters, in
+                bedrooms where homeowners want maximum airflow, and on second floors where reaching across to crank
+                a window is easier than lifting a heavy sash. We also use casements as egress windows in bedrooms
+                where the local code requires a specific clear-opening dimension, because a casement&apos;s full-swing
+                operation usually clears that minimum more easily than a comparable double-hung.
               </p>
 
               <h2>Ready for Your Free Estimate?</h2>
               <p>
-                Contact us today to explore casement window options for your McKinney home.
+                Contact us today to explore casement window options for your McKinney home. We&apos;ll measure on site,
+                walk you through the brand and glass options that make sense for your elevations, and send a
+                detailed written estimate.
               </p>
             </div>
 

@@ -75,35 +75,91 @@ export default function PictureWindowsPage() {
         <div className={styles.container}>
           <div className={styles.contentGrid}>
             <div className={styles.content}>
-              <h2>Bring the Outside In</h2>
+              <h2>Picture Windows: View, Light, and Maximum Performance</h2>
               <p>
-                Picture windows are all about the view. With no operating hardware or mullions to break 
-                up the glass, these fixed windows provide an unobstructed connection to your outdoor 
-                surroundings. They&apos;re the ideal choice when you want to maximize light and views in 
-                your McKinney home.
+                A picture window is a fixed, non-operating window engineered to do one thing well: deliver
+                uninterrupted glass. There&apos;s no sash, no operator, no meeting rail, and no track. The whole
+                opening is glass, framed by the slimmest profile the manufacturer offers. For McKinney homeowners
+                with a great-room view of a backyard pool, a Stonebridge Ranch fairway, a wooded lot in Trinity
+                Falls, or just a treed neighborhood street, a picture window is the design move that actually
+                captures what you&apos;re looking at.
               </p>
               <p>
-                Because picture windows don&apos;t open, they offer superior air-tightness and energy 
-                efficiency. There are no moving parts to maintain and no weatherstripping to wear out 
-                over time.
-              </p>
-
-              <h3>Design Flexibility</h3>
-              <p>
-                Picture windows can be manufactured in virtually any size and shape. Whether you want a 
-                dramatic floor-to-ceiling installation or a modest accent window, Andersen, Pella, 
-                JELD-WEN, and Marvin can deliver.
+                Picture windows also test as the most energy-efficient window category available. With no operating
+                seams to seal and no hardware to wear, the air infiltration number is essentially zero. That makes
+                them a strong choice for the largest pieces of glass on your home, where any air leak would be
+                multiplied by the size of the opening. Pair a picture window with a high-performance Low-E glass
+                package and a properly insulated frame, and you have a window that beats almost anything else in
+                the wall thermally.
               </p>
 
-              <h3>Perfect Combinations</h3>
+              <h3>Where Picture Windows Belong in McKinney Homes</h3>
               <p>
-                Combine picture windows with flanking casement or awning windows to add ventilation 
-                capability while maintaining the grand visual impact of a large central window.
+                The most common application is a great room facing the backyard, often with a 60- to 96-inch tall
+                picture window centered on a wall and flanked by operable casements or awnings for ventilation.
+                Master suites and primary bedrooms in larger homes often use a picture window to capture a view of
+                the back property without sacrificing wall space to operable units. Two-story foyers in custom
+                homes around McKinney Country Club or in Tucker Hill frequently use stacked picture windows to
+                pull daylight deep into the entry.
+              </p>
+
+              <h3>Composition: Picture Plus Operable</h3>
+              <p>
+                A picture window almost always works best as part of a composition, not as a standalone unit. The
+                classic move is a fixed center flanked by two operable casements, mulled together as one factory
+                assembly. This gives you the unbroken view across the center plus operable ventilation at the ends.
+                Another common composition is a picture window above with an operable awning below, which produces
+                a tall vertical glazing band while still letting the homeowner open the lower section for fresh air.
+                We design these compositions during the consultation so the proportions match your room and the
+                exterior elevation.
+              </p>
+
+              <h3>Premium Picture Window Brands We Install</h3>
+              <p>
+                <strong>Andersen 400 Series Picture Windows:</strong> Andersen&apos;s composite Fibrex frame combined
+                with their Low-E4 SmartSun glass package. A frequent specification in McKinney custom and high-end
+                tract replacements.
+              </p>
+              <p>
+                <strong>Pella Reserve Traditional Fixed:</strong> Premium wood with optional aluminum cladding,
+                ideal where the picture window needs to match adjacent wood double-hungs or casements in a custom
+                home.
+              </p>
+              <p>
+                <strong>Marvin Signature Ultimate Picture:</strong> Marvin&apos;s top-of-the-line aluminum-clad wood
+                fixed window. Available in extra-large units that other manufacturers can&apos;t match, which makes
+                them the right pick for dramatic two-story compositions.
+              </p>
+              <p>
+                <strong>JELD-WEN Premium Vinyl Picture:</strong> Solid value pick for builder-grade replacements
+                where a picture window needs to match adjacent vinyl windows on the same elevation.
+              </p>
+
+              <h3>Glass Choices That Matter Most on Picture Windows</h3>
+              <p>
+                Because the entire opening is glass, the glass package matters more on a picture window than on any
+                other style. We typically spec Low-E2 or Low-E3 coatings on most McKinney installations, with
+                solar-control packages on west-facing or south-facing applications where solar gain would otherwise
+                be a problem. For homeowners particularly concerned about UV damage to interior furniture, hardwood
+                floors, or art, we offer high-performance Low-E coatings that block well above 80% of UV without
+                visibly tinting the glass. Laminated glass is available where sound dampening or impact resistance
+                matters.
+              </p>
+
+              <h3>Installation Considerations for Large Glass</h3>
+              <p>
+                A large picture window unit can weigh several hundred pounds, which means proper rough-opening prep
+                and structural support are critical. Our crews handle the lift carefully, ensure the header above
+                the opening is correctly sized for the load, and shim the unit so the frame stays perfectly square
+                during sealant cure. We also detail the head and sill flashings carefully because a larger opening
+                produces more water shed during a severe storm. Most picture window installations close in a single
+                day per opening, including trim and cleanup.
               </p>
 
               <h2>Ready for Your Free Estimate?</h2>
               <p>
-                Contact us today to explore picture window options for your McKinney home.
+                Contact us today to explore picture window options for your McKinney home. We&apos;ll measure on site,
+                propose a composition that fits your room, and send a detailed written estimate.
               </p>
             </div>
 

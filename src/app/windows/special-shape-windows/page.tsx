@@ -75,37 +75,93 @@ export default function SpecialShapeWindowsPage() {
         <div className={styles.container}>
           <div className={styles.contentGrid}>
             <div className={styles.content}>
-              <h2>Unique Character for Your Home</h2>
+              <h2>Architectural Character Through Custom Window Shapes</h2>
               <p>
-                Special shape windows are the finishing touch that sets your McKinney home apart. Whether 
-                you&apos;re replacing existing architectural windows or adding new accent pieces, these custom 
-                windows make a statement that rectangular windows simply can&apos;t match.
+                Special-shape windows are non-rectangular units engineered to fit specific architectural openings:
+                arched transoms above an entry door, half-rounds at the top of a stairwell, octagons in a guest
+                bath, trapezoidal panels following a vaulted ceiling, or true circles set into a stucco gable. They
+                don&apos;t come off the shelf. Every special-shape window is built to the specific opening it&apos;s going
+                into, with frame profiles and grille patterns that match the rest of the elevation.
+              </p>
+              <p>
+                In McKinney we see special shapes most often in the custom homes around McKinney Country Club, in
+                the Mediterranean and Tuscan-influenced architecture in Tucker Hill and Adriatica Village, in the
+                two-story foyers of Stonebridge Ranch and Trinity Falls, and in the historic homes of Old East
+                McKinney where original arched and round-top windows need period-appropriate replacements. These
+                aren&apos;t accent details; they&apos;re defining elements of the home&apos;s exterior, and replacing them
+                correctly matters.
               </p>
 
-              <h3>Popular Special Shapes</h3>
+              <h3>The Most Common Special Shapes in McKinney</h3>
               <p>
-                <strong>Arched Windows:</strong> Add elegant curves above doors, standard windows, or as 
-                standalone accents. Available in half-round, quarter-round, and elliptical configurations.
+                <strong>Arches:</strong> Half-rounds, quarter-rounds, and elliptical arches are the most common
+                special shapes we install. A half-round above a window or door restores the curved silhouette that
+                often defines the front elevation of a Mediterranean or transitional home. Elliptical arches are a
+                common feature in two-story foyers where a graceful curved transom needs to scale to the room.
               </p>
               <p>
-                <strong>Circles and Ovals:</strong> Perfect for gable ends, bathrooms, and wherever you 
-                want to make a bold architectural statement.
+                <strong>Circles and Ovals:</strong> Round windows are dramatic accents at gable peaks, in
+                stairwells, and in primary suites. We install full circles, half-circles, and ovals in both fixed
+                and operating configurations.
               </p>
               <p>
-                <strong>Geometric Shapes:</strong> Trapezoids, pentagons, triangles, and octagons add 
-                interest to entryways, stairwells, and contemporary designs.
+                <strong>Geometric Shapes:</strong> Trapezoids and rake-top units follow vaulted ceilings, which is
+                common in great rooms with cathedral lines. Octagons, hexagons, and triangles add interest to
+                bathrooms, breakfast nooks, and contemporary designs.
+              </p>
+              <p>
+                <strong>Custom Mulled Compositions:</strong> Many McKinney homes pair a rectangular center window
+                with a special-shape transom above (a fan light or arched transom) as a single mulled assembly.
+                These are factory-built as integrated units so the joint between the rectangle and the shape is
+                clean and weather-tight.
               </p>
 
-              <h3>Custom Manufacturing</h3>
+              <h3>Premium Brands and Custom Capabilities</h3>
               <p>
-                Every special shape window is made to order. Andersen, Pella, JELD-WEN, and Marvin all 
-                offer extensive custom capabilities, ensuring we can match virtually any shape your 
-                McKinney home requires.
+                <strong>Marvin Signature Ultimate Custom Shapes:</strong> Marvin&apos;s custom shape capabilities are
+                the most extensive in the industry, with the ability to match almost any historic or
+                architecturally specified geometry. The frame profiles, divided-lite patterns, and finishes are
+                all customizable.
+              </p>
+              <p>
+                <strong>Pella Reserve Traditional Custom:</strong> Pella offers extensive special-shape capabilities
+                in their Reserve line, with wood interiors and aluminum-clad exteriors that match adjacent
+                rectangular units in the same composition.
+              </p>
+              <p>
+                <strong>Andersen E-Series Custom:</strong> Andersen&apos;s top-tier line offers near-unlimited shape and
+                color customization, ideal for high-end McKinney custom homes.
+              </p>
+              <p>
+                <strong>JELD-WEN Custom Wood and Vinyl:</strong> JELD-WEN offers strong special-shape capabilities
+                in both wood and vinyl, which makes them a versatile pick across price points.
+              </p>
+
+              <h3>Field Measurement and Factory Coordination</h3>
+              <p>
+                A special-shape window is far less forgiving than a rectangle. A standard double-hung that&apos;s 1/4
+                inch off can usually be shimmed and trimmed into the opening. A half-round that&apos;s 1/4 inch off
+                will look obviously wrong, because the eye picks up curve discrepancies immediately. We measure
+                special shapes with care: full radius templates, multiple field check points, and direct
+                coordination with the manufacturer&apos;s custom department on more complex orders. This is also why
+                special-shape lead times tend to be longer than standard windows, typically four to eight weeks
+                from order placement.
+              </p>
+
+              <h3>Glass and Performance on Special Shapes</h3>
+              <p>
+                Special-shape windows are usually fixed (non-operating) because the geometry doesn&apos;t accommodate a
+                conventional sash mechanism. That actually works in your favor for energy performance, because a
+                fixed unit seals tighter than any operable style. We pair these windows with the same Low-E glass
+                packages and argon fills as the rest of the elevation, so the special-shape elements perform
+                consistently with the standard windows around them.
               </p>
 
               <h2>Ready for Your Free Estimate?</h2>
               <p>
-                Contact us today to discuss custom special shape windows for your home.
+                Contact us today to discuss custom special-shape windows for your home. We&apos;ll measure the
+                opening, coordinate with the manufacturer&apos;s custom department, and send a detailed written
+                estimate that reflects the lead time and specifications honestly.
               </p>
             </div>
 

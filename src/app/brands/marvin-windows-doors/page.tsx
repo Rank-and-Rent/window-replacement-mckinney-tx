@@ -95,38 +95,91 @@ export default function MarvinPage() {
         <div className={styles.container}>
           <div className={styles.contentGrid}>
             <div className={styles.content}>
-              <h2>For Homes That Demand the Best</h2>
+              <h2>Marvin: Family-Owned Custom Window Manufacturing Since 1912</h2>
               <p>
-                When standard won&apos;t do, Marvin delivers. Every Marvin window and door is built to order 
-                in their Minnesota facilities, allowing virtually unlimited customization in sizes, shapes, 
-                finishes, and hardware. For McKinney homeowners seeking luxury and distinction, Marvin 
-                is the clear choice.
+                Marvin has been family-owned since the company was founded in Warroad, Minnesota in 1912, and that
+                continuity shows up in the way the products are built. Every Marvin window and door is made to
+                order at the company&apos;s Minnesota facilities, with custom sizing, shape, finish, and hardware
+                specified per project rather than pulled from inventory. The result is a window that fits the
+                opening it&apos;s going into rather than forcing the opening to fit the window. For McKinney custom
+                homes in Tucker Hill, Adriatica Village, around McKinney Country Club, and any major remodel
+                where the original architectural intent matters, Marvin is one of the most-recommended brands on
+                our project board.
+              </p>
+              <p>
+                We are a factory-certified Marvin installer, which means our crews handle Marvin&apos;s engineering and
+                installation specifications correctly and qualify your installation for full factory warranty
+                coverage. Marvin&apos;s lead times tend to be longer than mass-production lines because each unit is
+                built to order, and we coordinate the order placement and project schedule so the install lines up
+                cleanly with the rest of your project.
               </p>
 
-              <h3>Product Collections</h3>
-              <p><strong>Marvin Signature:</strong> The ultimate in custom windows and doors with 
-              traditional and modern design options and the widest range of customization.</p>
-              <p><strong>Marvin Elevate:</strong> Premium fiberglass exteriors with warm wood interiors, 
-              combining beauty with exceptional durability.</p>
-              <p><strong>Marvin Essential:</strong> Affordable fiberglass windows with clean, contemporary 
-              lines and excellent energy performance.</p>
-
-              <h3>Custom Capabilities</h3>
+              <h3>Marvin Product Lines We Install in McKinney</h3>
               <p>
-                Marvin can produce windows and doors in virtually any size and shape. Historic reproductions, 
-                oversized units, and one-of-a-kind designs are all possible. If you can imagine it, 
-                Marvin can build it.
+                <strong>Marvin Signature Ultimate:</strong> Marvin&apos;s flagship line, true wood interior with
+                aluminum-clad exterior, near-unlimited custom shapes and grille patterns, multiple wood species,
+                and an extensive factory finish program. The most-installed Marvin line in our McKinney custom
+                home portfolio.
+              </p>
+              <p>
+                <strong>Marvin Signature Modern:</strong> The contemporary version of the Signature line, with
+                slimmer profiles, larger glass areas, and a more minimalist aesthetic. Frequent specification on
+                modern and transitional homes in Tucker Hill, Adriatica, and the contemporary new-build sections
+                of Stonebridge Ranch.
+              </p>
+              <p>
+                <strong>Marvin Elevate:</strong> Pultruded fiberglass exterior with a wood interior, delivering
+                long-term durability outside and traditional warmth inside. Strong upper-mid-range pick for
+                McKinney remodels where the homeowner wants Marvin quality without the full Signature price.
+              </p>
+              <p>
+                <strong>Marvin Essential:</strong> All-fiberglass line aimed at builder-grade upgrades and value-
+                tier specifications. Clean lines, strong performance, and a manageable price point.
+              </p>
+
+              <h3>Custom Capabilities That Justify the Price Point</h3>
+              <p>
+                Marvin&apos;s custom department can produce windows and doors in essentially any size, shape, divided-
+                lite pattern, and finish. We&apos;ve coordinated Marvin orders for half-rounds matching original 1920s
+                Old East McKinney homes, oversized casements for great rooms in custom Stonebridge Ranch homes,
+                multi-slide patio doors with custom hardware in Tucker Hill, and historically accurate divided-
+                lite reproductions for serious restoration projects. If a window can be drawn, Marvin can typically
+                build it.
+              </p>
+
+              <h3>Aluminum Cladding and Long-Term Performance</h3>
+              <p>
+                The aluminum cladding on Marvin&apos;s clad wood lines is extruded into precise architectural profiles,
+                factory-finished in any of Marvin&apos;s extensive standard or custom colors, and bonded mechanically
+                to the wood frame. The cladding eliminates the exterior repainting cycle that limits the
+                practicality of solid wood in the McKinney climate, and the factory finish carries long warranties
+                against fading and chalking. Combined with high-performance Low-E glass packages, Marvin&apos;s clad
+                wood lines deliver thermal performance and exterior durability that rival or exceed any other
+                premium-tier product.
+              </p>
+
+              <h3>Marvin Doors</h3>
+              <p>
+                Marvin&apos;s door programs include Signature Ultimate hinged and sliding patio doors, multi-slide
+                glass walls in homes that support them, and custom-built entry doors in mahogany, knotty alder,
+                and other premium species with multi-point locking systems. The door designs use the same
+                aluminum cladding, finishes, and grille patterns as the matching windows, which lets the entire
+                envelope read as one architectural language.
               </p>
 
               <h3>Warranty Coverage</h3>
               <p>
-                Marvin offers comprehensive warranty coverage appropriate for their premium products, 
-                including protection against manufacturing defects and glass seal failure.
+                Marvin&apos;s warranty coverage on Signature and Elevate lines is extensive: 20 years on the insulating
+                glass against seal failure, 10 to 20 years on the frame and finish depending on the line, and
+                lifetime coverage on certain hardware components. We honor these warranties locally in McKinney
+                rather than referring customers to a national customer service line.
               </p>
 
               <h2>Ready for Your Free Estimate?</h2>
               <p>
-                Contact us today to explore Marvin windows and doors for your McKinney home.
+                Contact us today to explore Marvin windows and doors for your McKinney home. We&apos;ll measure on
+                site, coordinate with Marvin&apos;s custom department on any specialty work, and send a detailed
+                written estimate that reflects the lead time honestly.
               </p>
             </div>
 

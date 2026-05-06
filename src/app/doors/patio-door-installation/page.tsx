@@ -77,36 +77,81 @@ export default function PatioDoorPage() {
         <div className={styles.container}>
           <div className={styles.contentGrid}>
             <div className={styles.content}>
-              <h2>Embrace Indoor-Outdoor Living</h2>
+              <h2>Patio Doors and the Rear Elevation of a McKinney Home</h2>
               <p>
-                McKinney&apos;s beautiful weather makes outdoor living spaces essential. The right patio door 
-                creates a seamless connection between your indoor rooms and your deck, patio, or backyard 
-                oasis.
+                In most McKinney homes, the patio door is the largest and most important opening on the rear of
+                the house. It controls how the indoor living space connects to the backyard, sets the
+                architectural tone of the rear elevation, and accounts for a meaningful portion of the home&apos;s
+                total glass area. Original builder-grade patio doors from 1990s and 2000s construction are now
+                approaching or past the end of their service life, with predictable problems: failed glass seals,
+                worn rollers or hinges, latches that no longer engage cleanly, and weather sealing that no longer
+                holds out wind-driven rain. Replacement is a high-leverage upgrade, both for daily use and for
+                the visual presentation of the back of the house.
+              </p>
+              <p>
+                We install patio doors throughout McKinney in three primary configurations: sliding patio doors
+                (the most common builder-grade replacement), hinged French-style patio doors (more architectural
+                presence), and multi-slide or folding glass walls (high-end indoor-outdoor connections in custom
+                homes). Each has different strengths and suits different home styles.
               </p>
 
               <h3>Sliding Patio Doors</h3>
               <p>
-                The classic choice for patio access, sliding doors operate on smooth tracks without 
-                requiring swing clearance. They&apos;re ideal for spaces where furniture placement or foot 
-                traffic patterns make hinged doors impractical.
+                Sliders are the most common patio door style in McKinney because they fit standard rough openings
+                from the original builder, they don&apos;t require swing clearance inside or outside, and they&apos;re the
+                most economical premium upgrade. Two-panel XO/OX sliders cover most builder-grade openings.
+                Three-panel OXO configurations work in great rooms and primary suites where the homeowner wants
+                operating panels at both ends. Modern premium sliders use stainless rollers, multi-point locking,
+                and Low-E2 or Low-E3 glass that performs far better than the original builder-grade unit.
               </p>
 
-              <h3>Hinged Patio Doors</h3>
+              <h3>Hinged French-Style Patio Doors</h3>
               <p>
-                For a more traditional look, hinged patio doors swing open like standard doors. Single 
-                and double configurations are available, with options for inswing or outswing operation.
+                Hinged patio doors (French-style pairs) swing fully open and clear the entire rough opening,
+                producing a more continuous indoor-outdoor transition. They&apos;re a popular replacement for
+                aging sliders in McKinney homes where the owner wants more architectural presence on the rear
+                elevation. Hinged patio doors typically have an active and inactive leaf with multi-point locks
+                on the active side, divided-lite or full-glass panels, and weatherstripping designed for
+                exterior use. Frame materials range from vinyl through fiberglass through clad wood; we match
+                to the home&apos;s overall finish program.
               </p>
 
-              <h3>Multi-Slide and Pocket Doors</h3>
+              <h3>Multi-Slide and Folding Glass Walls</h3>
               <p>
-                For the ultimate in indoor-outdoor connection, consider multi-panel sliding systems that 
-                stack or pocket completely out of the way, creating wide openings that blur the line 
-                between inside and outside.
+                For high-end McKinney custom homes where the rear elevation is part of the architectural
+                statement, multi-slide and folding glass wall systems open up to 80% of the wall to outdoor
+                living. Marvin Signature Modern multi-slide and Andersen folding wall systems let the homeowner
+                stack panels to one side or fold them accordion-style, creating openings up to 30 feet wide on
+                a single floor. These are significant projects involving structural engineering, header
+                replacement, and careful threshold detailing, but the result is genuinely transformative on the
+                right home.
+              </p>
+
+              <h3>Energy Performance for the Rear of the Home</h3>
+              <p>
+                The patio door is often the largest single piece of glass in the rear elevation, which means its
+                glass package drives a lot of the rear of the home&apos;s thermal performance. We typically spec Low-E2
+                or Low-E3 packages on McKinney patio doors, with solar-control coatings on west-facing patios
+                where afternoon sun is the dominant performance issue. Argon fill is standard. Laminated impact-
+                resistant glass is available for severe storm exposure, particularly on patios that face
+                prevailing storm direction.
+              </p>
+
+              <h3>Hardware, Security, and Long-Term Operation</h3>
+              <p>
+                Modern premium patio doors use multi-point locking systems that engage at multiple positions
+                along the active panel, distributing force across the frame and dramatically improving security
+                over older single-deadbolt configurations. Foot bolts at the bottom rail provide an additional
+                layer when the door is fully closed. Hardware finishes match the rest of the home&apos;s exterior
+                fixtures: satin nickel, matte black, oil-rubbed bronze, or whatever the homeowner&apos;s palette
+                calls for. We adjust hinges, rollers, and locks during installation so the door operates
+                smoothly through years of use.
               </p>
 
               <h2>Ready for Your Free Estimate?</h2>
               <p>
-                Contact us today to explore patio door options for your McKinney home.
+                Contact us today to explore patio door options for your McKinney home. We&apos;ll measure on site,
+                walk through configurations and brand options, and send a detailed written estimate.
               </p>
             </div>
 

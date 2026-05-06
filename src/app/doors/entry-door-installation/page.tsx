@@ -77,41 +77,92 @@ export default function EntryDoorPage() {
         <div className={styles.container}>
           <div className={styles.contentGrid}>
             <div className={styles.content}>
-              <h2>Make a Lasting First Impression</h2>
+              <h2>Your Front Door Sets the Tone for the Entire Home</h2>
               <p>
-                Your entry door sets the tone for your entire home. A beautiful, well-crafted front door 
-                welcomes guests, provides security, and adds significant curb appeal to your McKinney property.
+                The entry door is one of the most heavily used components of your house, and in McKinney&apos;s
+                climate it&apos;s also one of the most weather-stressed. A south- or west-facing front door takes
+                hours of direct Texas sun every summer afternoon, hot enough to soften factory finishes and warp
+                builder-grade steel. The same door faces freezing temperatures during winter cold fronts, severe
+                storm-driven rain in spring, and the everyday wear of family use. Most original builder-grade
+                steel entry doors in McKinney homes start showing real problems by year ten: rust at the bottom
+                rail, sun-faded finish, weatherstripping that no longer compresses tightly, and a visible gap at
+                the threshold during cold snaps. Replacement is a high-leverage upgrade.
               </p>
               <p>
-                Our entry doors come in a wide variety of styles, from classic panel designs to contemporary 
-                flush doors, with options in fiberglass, steel, and wood. Each material offers unique 
-                benefits for Texas homes.
-              </p>
-
-              <h3>Material Options</h3>
-              <p>
-                <strong>Fiberglass:</strong> The most popular choice for Texas homes, fiberglass entry doors 
-                resist warping, cracking, and rotting while offering excellent insulation and low maintenance.
-              </p>
-              <p>
-                <strong>Steel:</strong> Maximum security at an accessible price point. Modern steel doors 
-                feature foam cores for improved insulation and factory finishes that resist rust.
-              </p>
-              <p>
-                <strong>Wood:</strong> Unmatched warmth and character for homeowners who want the authentic 
-                beauty of natural wood. Available with protective finishes for Texas climate durability.
+                We replace entry doors throughout McKinney with premium fiberglass, true wood, and engineered
+                composite products from Andersen, Pella, JELD-WEN, and Marvin. The result is a door that performs
+                better thermally, looks better from the curb, and dramatically improves the security profile of
+                the home with multi-point locking systems and reinforced strike plates.
               </p>
 
-              <h3>Security Features</h3>
+              <h3>Material Options for McKinney Front Doors</h3>
               <p>
-                Today&apos;s entry doors incorporate advanced security features including multi-point locking 
-                systems, reinforced strike plates, and impact-resistant glass options. We&apos;ll help you 
-                choose the right combination for your McKinney home.
+                <strong>Fiberglass:</strong> The most-installed entry door material in McKinney, and for good
+                reason. Fiberglass doesn&apos;t warp, doesn&apos;t rust, holds factory finishes well in Texas sun, and
+                accepts wood-grain textures convincing enough to look like real stained wood from the curb. We
+                install fiberglass smooth-skin doors for transitional and contemporary homes, and fiberglass
+                mahogany-grain or oak-grain doors for traditional homes throughout Stonebridge Ranch, Trinity
+                Falls, and the master-planned communities.
+              </p>
+              <p>
+                <strong>Wood:</strong> True solid wood is the right choice for high-end custom homes and historic
+                restorations in Old East McKinney where the original door was wood and the architectural intent
+                calls for wood. Mahogany, knotty alder, and Douglas fir are common species, often with carved
+                panels, divided-lite glass inserts, and custom hardware. Wood doors require periodic finishing
+                maintenance, especially on south- and west-facing elevations, but the resulting look is
+                impossible to fully replicate with synthetics.
+              </p>
+              <p>
+                <strong>Steel:</strong> Modern steel entry doors with foam-insulated cores offer maximum security
+                at an accessible price point. Factory finishes have improved significantly over the original
+                builder-grade steel doors of the 1990s and 2000s, and current models hold up well to Texas
+                conditions when properly specified.
+              </p>
+
+              <h3>Security Features We Recommend</h3>
+              <p>
+                Modern entry doors incorporate security features that older doors simply don&apos;t have. Multi-point
+                locking systems engage at the head, foot, and middle of the door, distributing force across the
+                jamb so a kicked door is far harder to breach. Reinforced strike plates with three-inch screws
+                anchor into framing rather than the trim. Impact-resistant glass options on doors with sidelights
+                or transoms eliminate the easy break-in path that simple tempered glass provides. We walk you
+                through which features actually move the needle for your McKinney home and your specific concerns.
+              </p>
+
+              <h3>Energy Performance and Weather Sealing</h3>
+              <p>
+                A well-installed premium entry door produces a dramatically better thermal envelope than a
+                builder-grade unit. Foam-insulated cores deliver R-values well above what older steel-only doors
+                achieved. Compression weatherstripping at the head and jamb, plus a properly adjusted threshold
+                with sweep at the bottom, eliminate the drafts that homeowners often feel during winter cold
+                fronts. For McKinney homes that have noticed cold air pouring under the front door during a
+                January freeze, the upgrade pays back in comfort immediately.
+              </p>
+
+              <h3>Glass, Sidelights, and Transoms</h3>
+              <p>
+                Most McKinney entry door upgrades include some glass component: a half-light, three-quarter
+                light, or full-light pattern in the door itself, plus sidelights flanking the door and sometimes
+                a transom above. We coordinate these as a single integrated assembly so the divided-lite patterns,
+                hardware, and finish color match across the whole opening. Privacy glass, decorative leaded
+                glass, and impact-resistant laminated options are all available depending on the design intent.
+              </p>
+
+              <h3>Hardware and Finishing Details</h3>
+              <p>
+                Entry door hardware sets the finishing tone: lever, knob, or thumb-latch handle in finishes from
+                satin nickel to matte black to oil-rubbed bronze, paired with deadbolts and (often) decorative
+                door knockers, kick plates, and house numbers. We help select hardware that matches the rest of
+                the home&apos;s fixtures and the architectural style of the elevation. For McKinney custom homes
+                where the existing interior fixtures define a finish palette, the entry door hardware should
+                tie in cleanly.
               </p>
 
               <h2>Ready for Your Free Estimate?</h2>
               <p>
-                Contact us today to explore entry door options for your McKinney home.
+                Contact us today to explore entry door options for your McKinney home. We&apos;ll measure on site,
+                walk through material and design options, and send a detailed written estimate with no high-
+                pressure sales follow-up.
               </p>
             </div>
 

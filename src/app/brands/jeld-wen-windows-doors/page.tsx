@@ -95,36 +95,90 @@ export default function JeldWenPage() {
         <div className={styles.container}>
           <div className={styles.contentGrid}>
             <div className={styles.content}>
-              <h2>Premium Quality, Accessible Price</h2>
+              <h2>JELD-WEN: Quality Across the Full Price Spectrum</h2>
               <p>
-                Since 1960, JELD-WEN has grown to become one of the world&apos;s largest window and door 
-                manufacturers. Their focus on quality craftsmanship and efficient production means 
-                McKinney homeowners can enjoy premium features without premium price tags.
+                JELD-WEN was founded in 1960 and has grown into one of the largest window and door manufacturers in
+                the world, with manufacturing plants across North America and a product range that covers
+                essentially every residential category. The company&apos;s scale lets them deliver consistent quality
+                across a wider price range than most competitors, which means we can specify JELD-WEN on a budget-
+                conscious McKinney builder-grade replacement and on a high-end custom build with equal confidence.
+                For McKinney homeowners trying to balance budget against performance, JELD-WEN is often the brand
+                that hits the right combination.
+              </p>
+              <p>
+                We are factory-certified JELD-WEN installers and have completed hundreds of projects across
+                JELD-WEN&apos;s product range in McKinney. Our crews follow JELD-WEN&apos;s installation specifications,
+                which qualifies the installation for full factory warranty coverage and ensures the long-term
+                performance the manufacturer designed in.
               </p>
 
-              <h3>Products We Install</h3>
-              <p><strong>Windows:</strong> Premium Vinyl, Siteline Wood, W-2500 Wood, and Custom Wood 
-              windows in all standard styles and custom configurations.</p>
-              <p><strong>Doors:</strong> Entry doors, patio doors, and interior doors in fiberglass, 
-              steel, and wood with extensive design options.</p>
-
-              <h3>AuraLast Wood Technology</h3>
+              <h3>JELD-WEN Product Lines We Install</h3>
               <p>
-                JELD-WEN&apos;s exclusive AuraLast pine treatment provides superior protection against water 
-                damage and wood decay--critical for Texas&apos;s humid climate. The protection extends 
-                throughout the wood, not just on the surface.
+                <strong>JELD-WEN Premium Vinyl:</strong> Fusion-welded multi-chambered vinyl with strong glass
+                packages and extensive size and style options. The most common JELD-WEN spec across McKinney
+                builder-grade replacements in master-planned communities.
+              </p>
+              <p>
+                <strong>JELD-WEN MezzoMax Aluminum:</strong> Thermally broken aluminum line aimed at contemporary
+                designs. A fit for modern McKinney homes in Tucker Hill, Adriatica, and the contemporary
+                replacement segment.
+              </p>
+              <p>
+                <strong>JELD-WEN Siteline Wood and Clad Wood:</strong> Wood interior with aluminum or vinyl clad
+                exterior, ideal for mid-to-upper range remodels and new builds where wood interior matters.
+              </p>
+              <p>
+                <strong>JELD-WEN W-2500 Wood:</strong> Premium clad wood with extensive customization, an option
+                for serious McKinney remodels in Old East McKinney historic homes and custom builds elsewhere in
+                the city.
+              </p>
+              <p>
+                <strong>JELD-WEN Custom Wood:</strong> Built-to-order solid wood and clad wood for projects with
+                specific historical or architectural requirements that need full custom fabrication.
+              </p>
+
+              <h3>AuraLast Wood Treatment for Texas Conditions</h3>
+              <p>
+                AuraLast is JELD-WEN&apos;s exclusive pine treatment, designed to protect against water damage, decay,
+                and termite intrusion. Unlike surface-treated wood that loses protection if the finish wears, the
+                AuraLast process penetrates the entire piece of wood with the protective formulation, which
+                extends realistic service life meaningfully in humid environments. For McKinney&apos;s climate, where
+                humidity peaks during summer and exterior wood faces serious UV exposure, AuraLast is a
+                meaningful technical advantage on JELD-WEN&apos;s wood lines.
+              </p>
+
+              <h3>Door Programs</h3>
+              <p>
+                JELD-WEN&apos;s door portfolio is one of the deepest in the industry. Their fiberglass entry doors are
+                some of the best-selling residential entry doors in the country. We install JELD-WEN fiberglass
+                entries with multi-point locking systems, sliding patio doors and French doors, storm doors with
+                retractable screens, and Custom Wood entry doors for high-end McKinney specifications. The doors
+                use the same construction philosophy as the windows: consistent quality across the price
+                spectrum, with premium options available where the project supports them.
+              </p>
+
+              <h3>InsulShield-Equivalent Glass and Energy Performance</h3>
+              <p>
+                JELD-WEN&apos;s glass program offers Low-E coatings tuned for solar control, dual Low-E packages for
+                west- and south-facing applications, argon and krypton fills depending on the line, and warm-edge
+                spacer technology that improves perimeter performance. Premium JELD-WEN configurations meet ENERGY
+                STAR requirements for the southern climate zone and produce measurable cooling-load reductions on
+                McKinney homes.
               </p>
 
               <h3>Warranty Coverage</h3>
               <p>
-                JELD-WEN offers a comprehensive 20-year warranty on most products, demonstrating their 
-                confidence in product durability. Glass seal failure, hardware defects, and material 
-                flaws are all covered.
+                JELD-WEN offers comprehensive 20-year warranty coverage on most product lines, including
+                protection against glass seal failure, hardware defects, and material flaws. Some premium lines
+                carry limited lifetime warranties on specific components. We coordinate warranty service locally in
+                McKinney rather than referring customers to a national customer service line.
               </p>
 
               <h2>Ready for Your Free Estimate?</h2>
               <p>
-                Contact us today to explore JELD-WEN windows and doors for your McKinney home.
+                Contact us today to explore JELD-WEN windows and doors for your McKinney home. We&apos;ll measure on
+                site, walk through line and feature options that make sense for your budget and your home, and
+                send a detailed written estimate.
               </p>
             </div>
 

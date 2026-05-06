@@ -60,27 +60,66 @@ export default function VinylWindowsPage() {
         <div className={styles.container}>
           <div className={styles.contentGrid}>
             <div className={styles.mainContent}>
-              <h2>Why Choose Vinyl Windows?</h2>
+              <h2>Vinyl Windows in McKinney: Performance and Value</h2>
               <p>
-                McKinney&apos;s rapid growth and family-friendly atmosphere make vinyl windows an ideal choice for homeowners seeking quality, low-maintenance solutions. As one of North Texas&apos; fastest-growing communities, McKinney attracts families and professionals who appreciate vinyl windows&apos; combination of modern efficiency and lasting durability.
+                Vinyl is the most-installed replacement window material in McKinney by a significant margin, and
+                that market position is earned. Modern vinyl windows from premium manufacturers deliver strong
+                thermal performance, ENERGY STAR-qualified glass packages, low long-term maintenance, and a price
+                point well below wood, fiberglass, or aluminum-clad wood. For McKinney homeowners replacing
+                builder-grade windows in Stonebridge Ranch, Eldorado, Trinity Falls, Provine Farms, and the rest
+                of the city&apos;s established subdivisions, vinyl is usually the most rational choice on a dollars-
+                per-window basis.
               </p>
               <p>
-                Whether in established neighborhoods near downtown or new developments around Lake Lavon, vinyl windows provide the energy efficiency, minimal upkeep, and beautiful aesthetics that McKinney homeowners value. With the area&apos;s mix of traditional and contemporary homes, vinyl windows offer versatile styling that complements McKinney&apos;s architectural diversity.
+                The vinyl product category has matured considerably since the early generations of the 1980s and
+                90s. Today&apos;s premium lines from Andersen, Pella, JELD-WEN, and Marvin use multi-chambered
+                fusion-welded frames, UV-stabilized formulations that resist yellowing and chalking, factory-baked
+                color finishes that hold up in Texas sun, and high-performance Low-E glass packages that meet
+                ENERGY STAR requirements for the southern climate zone. The performance gap between premium vinyl
+                and premium fiberglass is much narrower than it used to be, which is why vinyl continues to take
+                share at every price point.
               </p>
 
-              <h3>Key Benefits</h3>
+              <h3>Why Vinyl Performs Well in the McKinney Climate</h3>
+              <p>
+                Premium vinyl windows are engineered with multi-chambered frame profiles, which means the cross-
+                section of the frame contains internal air pockets that act as thermal barriers. Combined with
+                Low-E2 or Low-E3 coatings tuned for Texas-style solar gain, argon fill between the panes, and
+                warm-edge spacers, premium vinyl produces U-factor numbers in the 0.27-0.30 range that satisfy
+                ENERGY STAR requirements for the southern climate zone. For McKinney homeowners replacing original
+                single-pane glass or first-generation dual-pane vinyl, the cooling-load reduction during peak
+                summer is usually obvious within the first month.
+              </p>
+
+              <h3>Key Benefits in McKinney</h3>
               <ul>
-                <li>Low maintenance - never needs painting or staining</li>
-                <li>Superior energy efficiency with multi-chambered frames</li>
-                <li>Resists McKinney humidity and moisture</li>
-                <li>20-25 year manufacturer warranties</li>
-                <li>Available in all window styles and sizes</li>
-                <li>ENERGY STAR certified models available</li>
+                <li>Low long-term maintenance with no exterior repainting</li>
+                <li>Multi-chambered frames for strong thermal insulation</li>
+                <li>Resistant to North Texas humidity and moisture</li>
+                <li>20-25 year manufacturer warranties standard</li>
+                <li>Available in every standard window style and size</li>
+                <li>ENERGY STAR-qualified configurations available</li>
+                <li>Factory color finishes including bronze, beige, black, and wood-grain</li>
+                <li>Strong dollar-per-window value across most McKinney neighborhoods</li>
               </ul>
 
-              <h3>Perfect for McKinney Homes</h3>
+              <h3>Where Vinyl Fits Best in McKinney Homes</h3>
               <p>
-                Vinyl windows excel in McKinney&apos;s North Texas climate, handling hot summers and cool winters with exceptional efficiency. The multi-chambered construction creates superior thermal barriers that reduce heating and cooling costs by 25-35%. Low-E coatings and argon gas fills optimize performance for McKinney&apos;s climate, keeping homes comfortable year-round.
+                Vinyl is at its best on standard rectangular openings in modest- to mid-size McKinney homes,
+                particularly in master-planned communities where the existing windows are already vinyl. It&apos;s
+                also a strong pick for full-home replacements where the homeowner needs to keep total cost
+                manageable across 15 to 25 windows, and for rental properties where ROI matters. Vinyl is generally
+                not the right answer for very large openings (where fiberglass or aluminum perform structurally
+                better), historic homes in Old East McKinney where the wider sightlines clash with period
+                character, or high-end custom builds where wood or wood-clad framing is part of the design language.
+              </p>
+
+              <h3>Premium Vinyl Lines We Install</h3>
+              <p>
+                We work with Pella 250 and 350 Series, JELD-WEN Premium Vinyl, Andersen 100 Series Fibrex
+                composite (technically a step beyond pure vinyl), and select Marvin lines depending on the
+                project. All offer ENERGY STAR-qualified configurations, fusion-welded frame construction, and
+                long manufacturer warranties on frame, glass, and hardware components.
               </p>
             </div>
 

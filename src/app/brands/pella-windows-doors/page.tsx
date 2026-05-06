@@ -95,35 +95,96 @@ export default function PellaPage() {
         <div className={styles.container}>
           <div className={styles.contentGrid}>
             <div className={styles.content}>
-              <h2>Innovation That Makes Life Easier</h2>
+              <h2>Pella in McKinney: A Century of Window Innovation</h2>
               <p>
-                Pella has built their reputation on developing features that make windows and doors 
-                better for everyday life. Their between-the-glass blinds stay dust-free and protected 
-                from damage, while their inView screens are 50% more transparent than standard screens.
+                Pella Corporation has been making windows since 1925, and the company has built its reputation on
+                product features that solve real homeowner problems. Between-the-glass blinds eliminate the dust
+                and damage of free-hanging blinds. InView retractable screens are nearly invisible when not in
+                use. Hidden screens, Rolscreen retractable screens, and integrated grille options give Pella one
+                of the deepest feature sets in the residential window industry. For McKinney homeowners who care
+                about the day-to-day usability of their windows, not just the technical performance specs, Pella
+                often offers the best fit.
+              </p>
+              <p>
+                We are factory-certified Pella installers, which means our crews have completed the manufacturer&apos;s
+                installation training, follow Pella specifications on every job, and qualify your installation for
+                the full factory warranty. Pella&apos;s product range spans everything from value-tier vinyl to top-of-
+                the-line Reserve Traditional clad wood, so we can bring Pella into essentially any McKinney
+                replacement project regardless of budget or architectural style.
               </p>
 
-              <h3>Products We Install</h3>
-              <p><strong>Windows:</strong> 150 Series, 250 Series, Lifestyle Series, and Reserve Series 
-              in all standard styles plus custom shapes and sizes.</p>
-              <p><strong>Doors:</strong> Entry doors, patio doors, storm doors, and multi-slide systems 
-              in wood, fiberglass, and vinyl.</p>
-
-              <h3>InsulShield Glass Technology</h3>
+              <h3>Pella Product Lines We Install</h3>
               <p>
-                Pella&apos;s proprietary InsulShield glass packages offer multiple levels of energy 
-                performance. The advanced Low-E coatings reduce UV transmission by up to 84%, 
-                protecting your furniture and flooring from fading.
+                <strong>Pella 150 Series:</strong> Entry-level vinyl, a fit for value-conscious McKinney
+                replacements where budget matters most. Reliable performance with InsulShield Low-E options.
+              </p>
+              <p>
+                <strong>Pella 250 Series:</strong> Mid-range vinyl with broader color and grille options. A
+                workhorse for McKinney builder-grade upgrades in Stonebridge Ranch, Eldorado, and similar
+                neighborhoods.
+              </p>
+              <p>
+                <strong>Pella 350 Series:</strong> Premium vinyl with Pella&apos;s top-tier InsulShield glass packages
+                and reinforced hardware. Strong long-term value pick for full-home replacements.
+              </p>
+              <p>
+                <strong>Pella Lifestyle Series:</strong> Wood-construction window with extensive customization,
+                aimed at mid-to-upper-range remodels where wood interior matters but full Reserve specification
+                isn&apos;t needed.
+              </p>
+              <p>
+                <strong>Pella Impervia:</strong> Fiberglass line built on Pella&apos;s Duracast pultruded composite.
+                Excellent strength, dimensional stability, and impact resistance.
+              </p>
+              <p>
+                <strong>Pella Reserve Traditional and Contemporary:</strong> Pella&apos;s flagship clad wood lines, with
+                near-unlimited customization for high-end McKinney custom homes and serious historic restorations.
+              </p>
+
+              <h3>InsulShield Glass and Performance in Texas Sun</h3>
+              <p>
+                Pella&apos;s InsulShield glass program offers multiple Low-E coating tiers tuned for different climate
+                priorities. For McKinney homes, we typically recommend InsulShield Advanced Low-E or Triple-Pane
+                on west- and south-facing elevations where solar heat gain is the dominant performance issue, and
+                standard Low-E on north and east where the SHGC isn&apos;t as critical. InsulShield Advanced reduces UV
+                transmission by up to 84%, which translates directly into less furniture fading and less hardwood
+                floor damage in rooms with significant west-facing exposure.
+              </p>
+
+              <h3>Pella&apos;s Signature Features</h3>
+              <p>
+                The features that distinguish Pella from competitors are mostly about daily livability. Between-
+                the-glass blinds and shades sit inside the insulating glass unit where they never accumulate dust
+                and never get damaged. Pella&apos;s InView retractable screens disappear when not in use, restoring
+                clear views without removing the screen physically. Hidden screens on Lifestyle and Reserve lines
+                achieve the same effect through a different mechanism. For McKinney homeowners who&apos;ve been
+                frustrated with traditional fly screens that block views and accumulate damage, these are
+                meaningful upgrades.
+              </p>
+
+              <h3>Pella Door Programs</h3>
+              <p>
+                Pella&apos;s door lineup includes Architect Series and Reserve Traditional fiberglass and wood entry
+                doors, sliding patio doors and multi-slide systems on all premium lines, French door pairs, and
+                storm doors with Rolscreen retractable screens. Many of the door programs use the same construction
+                methods and color palettes as the windows, which lets the entire envelope match in finish and
+                grille pattern.
               </p>
 
               <h3>Warranty Coverage</h3>
               <p>
-                Pella offers limited lifetime warranties on many products, covering everything from 
-                glass seal failure to hardware defects. Your investment is protected for years to come.
+                Pella offers limited lifetime warranties on many of their premium lines, covering frame integrity,
+                glass seal failure, and hardware defects. The exact terms vary by product line and installation
+                date, and we walk you through what your specific warranty covers as part of the consultation. We
+                handle warranty service locally in McKinney rather than referring customers to a national customer
+                service line.
               </p>
 
               <h2>Ready for Your Free Estimate?</h2>
               <p>
-                Contact us today to explore Pella windows and doors for your McKinney home.
+                Contact us today to explore Pella windows and doors for your McKinney home. We&apos;ll measure on site,
+                walk you through line and feature options that make sense for your home, and send a detailed
+                written estimate.
               </p>
             </div>
 

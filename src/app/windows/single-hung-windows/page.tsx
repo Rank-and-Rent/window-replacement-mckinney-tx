@@ -77,37 +77,91 @@ export default function SingleHungWindowsPage() {
             <div className={styles.content}>
               <h2>The Smart Choice for <em>Value-Conscious Homeowners</em></h2>
               <p>
-                Single-hung windows offer the classic look and feel of traditional windows at a more 
-                accessible price point. With a fixed upper sash and an operable lower sash that slides 
-                vertically, these windows provide reliable ventilation for McKinney homes while keeping 
-                costs manageable.
+                Single-hung windows pair the classic look of a traditional double-hung with a simpler, lower-cost
+                mechanism: a fixed upper sash and an operable lower sash. From the street, most McKinney homeowners
+                cannot tell the difference between a single-hung and a double-hung once the windows are installed.
+                Functionally, you give up the ability to open the top sash, which costs you a small amount of
+                ventilation flexibility and the ability to tilt-in the upper sash for cleaning. In exchange, you get
+                a window that costs less per opening, has fewer moving parts, and tends to seal slightly tighter
+                because there&apos;s no operating meeting rail at the top.
               </p>
               <p>
-                The simpler mechanism means fewer moving parts, which translates to excellent long-term 
-                durability and lower maintenance requirements. For homeowners who want quality windows 
-                without breaking the budget, single-hung windows from Andersen, Pella, JELD-WEN, and 
-                Marvin deliver exceptional value.
-              </p>
-
-              <h3>Energy Efficiency Without Compromise</h3>
-              <p>
-                Don&apos;t let the economical price fool you--modern single-hung windows from our premium 
-                brands feature the same advanced glass packages and weatherstripping systems as their 
-                double-hung counterparts. Low-E coatings, argon gas fills, and warm-edge spacer 
-                technology all work together to keep your McKinney home comfortable year-round.
+                For McKinney homeowners replacing an entire home full of windows, choosing single-hungs over
+                double-hungs on the rooms where you don&apos;t actually open the top can free up budget for better glass
+                packages, premium hardware, or simply a tighter total project cost. We install single-hungs from
+                Andersen, Pella, JELD-WEN, and Marvin in essentially every McKinney neighborhood, and they hold up
+                well in the North Texas climate when properly specified.
               </p>
 
-              <h3>Perfect Applications</h3>
+              <h3>Where Single-Hungs Make the Most Sense</h3>
               <p>
-                Single-hung windows are ideal for bedrooms, living rooms, and any area where you don&apos;t 
-                need to clean windows from inside. They&apos;re particularly popular for ground-floor 
-                installations where exterior cleaning is straightforward.
+                Single-hungs are ideal for ground-floor rooms where exterior cleaning is straightforward, for
+                bedrooms and home offices where occupants rarely operate the upper sash anyway, and for second-floor
+                rooms in homes where you have safe exterior access (a screened porch, a low-pitch roof landing, or
+                a balcony). They&apos;re also a sensible choice for bathrooms and laundry rooms, where ventilation needs
+                are simple and budget often matters more than top-tier flexibility. We frequently spec single-hungs
+                in builder-grade replacement projects in Eldorado, Provine Farms, and Mallard Lakes where homeowners
+                need to replace many windows at once and want to keep the per-window cost reasonable.
+              </p>
+
+              <h3>Energy Efficiency in McKinney&apos;s Climate</h3>
+              <p>
+                A modern single-hung from Andersen, Pella, JELD-WEN, or Marvin is built around the same Low-E glass
+                packages, argon fills, warm-edge spacers, and compression weatherstripping as the equivalent
+                double-hung. In some cases the air infiltration numbers are actually slightly better on a single-hung
+                because there&apos;s no operating top sash to seal. For McKinney&apos;s long, hot summers, that translates
+                into measurable cooling-load reductions on west- and south-facing elevations, especially when paired
+                with a Low-E3 or solar-control glass package on the more exposed rooms.
+              </p>
+
+              <h3>Premium Brands We Install</h3>
+              <p>
+                <strong>Andersen 100 Series Single-Hung:</strong> Andersen&apos;s entry into the value segment uses their
+                Fibrex composite frame for low maintenance and excellent dimensional stability. We recommend the
+                100 Series for McKinney homeowners who want Andersen quality at a single-hung price point.
+              </p>
+              <p>
+                <strong>Pella 250 Series Single-Hung:</strong> Pella&apos;s vinyl single-hung is a strong value pick across
+                most McKinney builder-grade replacements. Their InsulShield Low-E glass options handle Texas-style
+                solar gain well, and the fusion-welded frame holds up to seasonal temperature swings.
+              </p>
+              <p>
+                <strong>JELD-WEN Premium Vinyl Single-Hung:</strong> JELD-WEN&apos;s lineup includes single-hungs with
+                their ScreenMaximizer hidden screen system that increases visible glass meaningfully. A solid choice
+                for high-window-count replacements in Provine Farms, Eldorado, and Mallard Lakes.
+              </p>
+              <p>
+                <strong>Marvin Elevate Single-Hung:</strong> Marvin&apos;s fiberglass-exterior, wood-interior single-hung
+                gives you the warmth of a true wood interior at a price point well below their full-wood Signature
+                Ultimate line. Strong performance in the McKinney climate and a long-term-friendly maintenance
+                profile.
+              </p>
+
+              <h3>Installation Notes for McKinney Homes</h3>
+              <p>
+                We install single-hungs the same way we install premium double-hungs: full measure on site, level
+                shimming, low-expansion foam, properly detailed flashing at head, jamb, and sill, and a final
+                operational check on every unit. The single-hung mechanism has fewer wear points, which usually
+                translates into a longer service interval before any hardware adjustment is needed. Our crews
+                complete most McKinney single-hung installations in a day or two depending on window count, and we
+                clean up thoroughly before we leave.
+              </p>
+
+              <h3>How Single-Hungs Hold Up Long Term</h3>
+              <p>
+                A premium single-hung in McKinney&apos;s climate should easily clear 25 years of service before any
+                significant maintenance is required, and properly specified vinyl, fiberglass, or composite frames
+                routinely outlast that. Glass seal life depends on the manufacturer; the brands we work with all
+                back their insulating glass with 20-year limited warranties, and we honor those warranties locally
+                rather than shipping you back to a national customer service line. If a balance fails or a hardware
+                piece needs adjustment after install, we come back out and fix it.
               </p>
 
               <h2>Ready for Your Free Estimate?</h2>
               <p>
-                Contact us today to learn more about single-hung window options for your McKinney home. 
-                Our experts will help you find the perfect balance of quality and value.
+                Contact us today to learn more about single-hung window options for your McKinney home. We&apos;ll measure
+                on site, walk you through the line and glass options that make sense, and send a detailed written
+                estimate without any high-pressure follow-up.
               </p>
             </div>
 

@@ -75,35 +75,94 @@ export default function BayBowWindowsPage() {
         <div className={styles.container}>
           <div className={styles.contentGrid}>
             <div className={styles.content}>
-              <h2>Architectural Drama for Your Home</h2>
+              <h2>Architectural Drama for Your McKinney Home</h2>
               <p>
-                Bay and bow windows project outward from your home&apos;s exterior wall, creating additional 
-                interior space while adding dramatic curb appeal. These multi-panel configurations are 
-                among the most transformative window upgrades you can make.
+                A bay or bow window projects outward from the wall plane, which is what gives it the dramatic
+                exterior shape and the bonus interior real estate. Unlike a flat picture window or a standard
+                double-hung that sits flush with the wall, a bay or bow physically extends the room into the
+                outside, creating a small alcove inside and a defined architectural feature outside. For McKinney
+                homeowners, this is one of the most transformative window upgrades available, both visually and
+                functionally.
+              </p>
+              <p>
+                We see bays and bows most often in McKinney living rooms, primary bedrooms, formal dining areas,
+                and breakfast nooks. They&apos;re a popular feature in the older homes around Old East McKinney where
+                a Victorian or craftsman bay restores period character, and in custom builds throughout
+                Stonebridge Ranch, Tucker Hill, and Adriatica where a bow window in a great room becomes a
+                defining design element of the elevation.
               </p>
 
               <h3>Bay vs. Bow: Understanding the Difference</h3>
               <p>
-                <strong>Bay Windows:</strong> Typically feature three panels--a large center picture window 
-                flanked by two angled side panels (usually casement or double-hung windows). The angled 
-                construction creates a defined projection with clean architectural lines.
+                <strong>Bay Windows:</strong> A traditional bay is a three-panel composition: a large fixed center
+                window flanked by two angled side units, typically casements or double-hungs that operate for
+                ventilation. The side panels meet the center at a 30- or 45-degree angle, which produces a
+                defined faceted projection. Bays are excellent for rooms where you want a clear architectural
+                statement and operable ventilation on either side.
               </p>
               <p>
-                <strong>Bow Windows:</strong> Feature four or more panels arranged in a gentle curve. The 
-                result is a more subtle, rounded projection that works beautifully in living rooms, 
-                master bedrooms, and formal dining areas.
+                <strong>Bow Windows:</strong> A bow is a curved composition of four, five, or six panels arranged
+                in a gentle arc. The result is a softer, rounder projection without the angular faceting of a bay.
+                Bow windows tend to read as more elegant and traditional, and they work beautifully in formal
+                living rooms and primary suites. They typically include a mix of fixed and operable panels for
+                ventilation.
               </p>
 
-              <h3>Create a Cozy Nook</h3>
+              <h3>Creating Bonus Interior Space</h3>
               <p>
-                The interior space created by bay and bow windows is perfect for a window seat, breakfast 
-                nook, or display area. Many McKinney homeowners add built-in seating or shelving to 
-                maximize this bonus space.
+                The interior space created by a bay or bow window is part of what makes the upgrade so popular.
+                The projection adds anywhere from one to three feet of bonus room depth at the window, which is
+                enough for a built-in window seat, a breakfast nook with banquette seating, a reading chair, or a
+                display surface for plants and decor. McKinney homeowners frequently pair their bay or bow
+                installation with built-in cabinetry or seating to fully integrate the new feature into the room.
+              </p>
+
+              <h3>Premium Bay and Bow Brands We Install</h3>
+              <p>
+                <strong>Andersen 400 Series Bay and Bow:</strong> Andersen offers extensive bay and bow
+                configurations using their Fibrex composite framing for excellent thermal performance and minimal
+                long-term maintenance. The 400 Series includes integrated head-and-seat boards as part of the
+                factory package.
+              </p>
+              <p>
+                <strong>Pella Reserve Traditional Bay and Bow:</strong> Premium wood with optional aluminum
+                cladding, ideal for the older homes in Old East McKinney where a true wood interior with extensive
+                divided-lite patterns matters.
+              </p>
+              <p>
+                <strong>Marvin Signature Ultimate Bay and Bow:</strong> Marvin&apos;s top-tier bay and bow with
+                aluminum-clad exterior and true wood interior. Custom mulled assemblies, multiple finishes, and
+                hardware lines available for high-end specifications.
+              </p>
+              <p>
+                <strong>JELD-WEN Premium Vinyl Bay and Bow:</strong> Solid value pick where the homeowner wants
+                the architectural impact of a bay or bow without the premium wood price point.
+              </p>
+
+              <h3>Structural and Installation Considerations</h3>
+              <p>
+                A bay or bow window is more involved to install than a flat replacement because the projection
+                has to be properly supported. Most bays and bows are supported by either a steel cable kit
+                anchored back into the wall framing, exterior knee braces (corbels) on the elevation, or a built
+                base that ties into the foundation or rim joist. We evaluate the existing wall and roof structure
+                during our site visit to determine the right support method, which keeps the unit level and
+                square long-term. Most bay and bow installations also include a small roof cap above the
+                projection, which we coordinate with shingles or metal flashing as needed.
+              </p>
+
+              <h3>Energy Performance and McKinney&apos;s Climate</h3>
+              <p>
+                Because a bay or bow projects outward, it has more exterior surface area exposed to weather than a
+                flat window. We address this with insulated head and seat boards as part of the factory package,
+                proper insulation in the projection cavity, and high-performance Low-E2 or Low-E3 glass on every
+                panel. Done correctly, a modern bay or bow performs comparably to a flat installation in U-factor
+                and air infiltration testing, despite the larger exposed surface area.
               </p>
 
               <h2>Ready for Your Free Estimate?</h2>
               <p>
-                Contact us today to explore bay and bow window options for your McKinney home.
+                Contact us today to explore bay and bow window options for your McKinney home. We&apos;ll measure on
+                site, review structural support options, and send a detailed written estimate.
               </p>
             </div>
 

@@ -60,28 +60,66 @@ export default function WoodCladWindowsPage() {
         <div className={styles.container}>
           <div className={styles.contentGrid}>
             <div className={styles.mainContent}>
-              <h2>Why Choose Wood Clad Windows?</h2>
+              <h2>Wood Clad Windows: Wood Inside, Aluminum Outside</h2>
               <p>
-                Wood clad windows offer the perfect solution for McKinney homeowners who want the authentic beauty and warmth of wood on the interior with the durability and low maintenance of modern materials on the exterior. This innovative design combines traditional craftsmanship with contemporary performance, making it ideal for both historic and new construction in McKinney.
+                Wood clad windows are a hybrid construction: genuine solid wood on the room side, factory-applied
+                aluminum or vinyl cladding on the exterior. The point of the design is to give homeowners the look
+                and feel of a real wood window from inside the home, without the multi-year exterior repainting
+                cycle that limits the practicality of full solid wood in the McKinney climate. For high-end custom
+                builds in Tucker Hill, Adriatica Village, and the McKinney Country Club area, and for any home
+                where the homeowner wants a wood interior but can&apos;t commit to ongoing exterior maintenance, wood
+                clad is usually the right answer.
               </p>
               <p>
-                The interior wood surface provides the natural warmth and character that only real wood can offer, while the exterior cladding protects against McKinney&apos;s weather, humidity, and UV exposure. This means you get the aesthetic benefits of wood without the exterior maintenance requirements.
+                A wood clad window starts with a solid wood interior frame, typically pine, Douglas fir, mahogany,
+                or another premium species depending on the line. The exterior of that wood frame is then wrapped
+                in factory-applied aluminum or vinyl cladding that bonds permanently to the wood, creating a
+                continuous weather barrier. The cladding is mechanically formed and sealed at the corners so water
+                cannot reach the wood, which solves the single biggest maintenance issue with traditional solid
+                wood: rot at the bottom rail and corners from prolonged moisture exposure.
               </p>
 
-              <h3>Key Benefits</h3>
+              <h3>Why Wood Clad Wins in the McKinney Climate</h3>
+              <p>
+                Solid wood windows on a south- or west-facing McKinney elevation will need exterior repainting
+                every three to five years to keep up with Texas UV and summer heat exposure. That commitment is
+                fine for some homeowners and not realistic for others. Wood clad eliminates the cycle entirely; the
+                factory finish on the aluminum cladding typically carries a 20-year warranty against fading and
+                chalking, with no field maintenance required during that window. For McKinney homeowners who want
+                the look of wood without the painting routine, wood clad is the right call.
+              </p>
+
+              <h3>Aluminum vs. Vinyl Cladding</h3>
+              <p>
+                Aluminum cladding is the higher-performance choice and the one we recommend for most McKinney
+                installations. The aluminum is extruded into a precise profile, factory-finished in the homeowner&apos;s
+                chosen color, and bonded to the wood with mechanical and adhesive details that prevent water
+                intrusion. Aluminum holds the factory color longer than vinyl in Texas sun, accepts a wider range
+                of custom colors, and produces sharper architectural lines. Vinyl cladding is less expensive but
+                has a more limited color range and tends to expand and contract more in seasonal temperature
+                swings. Marvin Signature Ultimate and Pella Reserve Traditional both use aluminum exclusively.
+              </p>
+
+              <h3>Key Benefits in McKinney</h3>
               <ul>
-                <li>Authentic wood interior beauty</li>
-                <li>Weather-resistant exterior protection</li>
-                <li>Traditional appeal with modern performance</li>
-                <li>Low exterior maintenance</li>
-                <li>Superior insulation properties</li>
-                <li>Customizable interior finishes</li>
-                <li>Perfect for historic and traditional homes</li>
+                <li>Genuine wood interior for authentic appearance</li>
+                <li>Factory-applied aluminum or vinyl exterior cladding</li>
+                <li>No exterior repainting cycle required</li>
+                <li>Strong U-factor and air infiltration performance</li>
+                <li>Multiple wood species available</li>
+                <li>Extensive custom color program on cladding</li>
+                <li>30-40 year service life with proper installation</li>
+                <li>Premium look and feel inside and out</li>
               </ul>
 
-              <h3>Perfect for Traditional McKinney Homes</h3>
+              <h3>Where Wood Clad Belongs</h3>
               <p>
-                Wood clad windows are ideal for McKinney&apos;s historic downtown homes and traditional neighborhoods where authentic wood aesthetics are valued. The interior wood surface complements period architecture while the protective exterior cladding ensures your windows withstand North Texas weather for decades without constant maintenance.
+                We see wood clad most often in three contexts: custom builds where the architect specified wood
+                interiors but the homeowner doesn&apos;t want long-term exterior maintenance (covers most high-end work
+                in Tucker Hill, Adriatica, and the country club area); major remodels where the existing wood
+                windows are at end of life and the homeowner wants to replicate the original look without the
+                original maintenance burden; and new-build phases where the framing is in place to accept full-
+                frame wood clad units sized to the architectural intent.
               </p>
             </div>
 

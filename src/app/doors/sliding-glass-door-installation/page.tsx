@@ -77,37 +77,83 @@ export default function SlidingGlassDoorPage() {
         <div className={styles.container}>
           <div className={styles.contentGrid}>
             <div className={styles.content}>
-              <h2>The Perfect Patio Access Solution</h2>
+              <h2>Sliding Glass Doors and Modern McKinney Outdoor Living</h2>
               <p>
-                Sliding glass doors remain one of the most popular choices for patio access in McKinney 
-                homes. Their horizontal operation requires no swing clearance, making them ideal for 
-                spaces where furniture or foot traffic patterns make hinged doors impractical.
+                A sliding glass door is the architectural seam between the inside of your home and the patio,
+                pool, or backyard living area on the other side. In McKinney, where outdoor living is part of
+                the lifestyle for most of the year, the sliding glass door is one of the most-used and most-
+                visible components of the rear elevation. The original builder-grade sliders that came with
+                most McKinney homes from the 1990s and early 2000s are now well past their service life, and
+                the symptoms are predictable: rollers that drag, latches that no longer engage cleanly, glass
+                that fogs from failed seals, and a meaningful air leak around the perimeter on cold winter
+                mornings. Replacement is a high-leverage upgrade.
+              </p>
+              <p>
+                We replace sliding glass doors throughout McKinney with premium products from Andersen, Pella,
+                Marvin, and JELD-WEN, sized to the existing opening and engineered to perform far better than
+                the original. The result is a door that operates smoothly with two fingers, seals tightly when
+                latched, and looks like a defining design element of the rear elevation rather than a worn-out
+                opening someone clearly intended to replace eventually.
               </p>
 
-              <h3>Modern Track Systems</h3>
+              <h3>Configurations That Work for McKinney Homes</h3>
               <p>
-                Today&apos;s sliding glass doors feature precision-engineered track systems that make 
-                operation smooth and effortless. Multi-point locking systems provide security without 
-                compromising ease of use.
+                Sliding glass doors come in several configurations. The most common is a two-panel XO or OX, with
+                one fixed panel and one operating panel; the X marks the operating side. Three-panel OXO sliders
+                have a fixed center with operating panels on each end, common in great rooms and master suites
+                where the homeowner wants the option of opening either or both ends. Four-panel configurations
+                exist for very wide openings, often paired with stacking or pocket designs. Marvin and Andersen
+                also offer multi-slide systems where multiple panels stack to one side, opening up to 80% of the
+                wall to outdoor living. We help match configuration to room layout, prevailing wind direction,
+                and ventilation goals.
               </p>
 
-              <h3>Energy Efficiency</h3>
+              <h3>Modern Track Systems and Smooth Operation</h3>
               <p>
-                Premium sliding glass doors from Andersen, Pella, JELD-WEN, and Marvin feature Low-E 
-                glass and quality weatherstripping to minimize heat transfer and reduce energy costs 
-                in your McKinney home.
+                Premium sliding glass doors use stainless or zinc-plated rollers on adjustable mounting brackets,
+                running on extruded aluminum or stainless steel tracks engineered to resist debris accumulation
+                and wear. The result is a door that operates with two fingers even on full 8-foot panels,
+                including over hundreds of cycles. We adjust roller height during installation to ensure the
+                door tracks cleanly and the multi-point lock engages without binding, and we go over the
+                cleaning routine that keeps the track operating cleanly long-term.
               </p>
 
-              <h3>Configuration Options</h3>
+              <h3>Energy Performance and Glass Packages</h3>
               <p>
-                Two-panel, three-panel, and four-panel configurations are available to fit openings of 
-                various widths. Some models offer panels that slide in opposite directions for wider 
-                access openings.
+                Sliding glass doors typically have larger glass area than any other opening in the wall, which
+                means glass package selection drives most of the door&apos;s thermal performance. We spec Low-E2 or
+                Low-E3 packages on most McKinney installations, with solar-control coatings on west- and south-
+                facing patios where summer heat gain is the limiting factor. Argon fill is standard, and
+                laminated impact-resistant glass is available for severe storm exposure. Properly specified
+                premium sliding glass doors achieve U-factor numbers in the 0.30-0.35 range that satisfy ENERGY
+                STAR requirements for the southern climate zone.
+              </p>
+
+              <h3>Hardware and Security</h3>
+              <p>
+                Modern sliding glass door hardware has evolved substantially. We install multi-point locking
+                systems that engage at the head, foot, and middle of the operating panel, distributing force
+                across the frame so the door is far harder to force open from outside. Reinforced aluminum or
+                steel reinforcement at the latch position adds to the security profile. Foot bolts at the bottom
+                rail provide additional locking when the door is fully closed. For McKinney homeowners who&apos;ve
+                been concerned about the security of an aging slider, this is a meaningful upgrade.
+              </p>
+
+              <h3>Frame Material Choices</h3>
+              <p>
+                Premium sliding glass doors come in vinyl, fiberglass, aluminum, and clad wood frames. Vinyl is
+                the most common pick for builder-grade replacements and works well at standard sizes. Fiberglass
+                handles larger openings better because of its dimensional stability. Aluminum offers the slimmest
+                sightlines for contemporary architecture in Tucker Hill and Adriatica Village. Clad wood (Marvin
+                Signature Ultimate, Pella Reserve) is the right pick for high-end custom homes where the door
+                interior matters as much as the exterior. We help match frame material to the home&apos;s style and
+                the homeowner&apos;s long-term plans.
               </p>
 
               <h2>Ready for Your Free Estimate?</h2>
               <p>
-                Contact us today to explore sliding glass door options for your McKinney home.
+                Contact us today to explore sliding glass door options for your McKinney home. We&apos;ll measure on
+                site, walk through configuration and hardware options, and send a detailed written estimate.
               </p>
             </div>
 

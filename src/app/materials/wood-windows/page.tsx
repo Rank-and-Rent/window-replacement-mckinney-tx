@@ -60,28 +60,64 @@ export default function WoodWindowsPage() {
         <div className={styles.container}>
           <div className={styles.contentGrid}>
             <div className={styles.mainContent}>
-              <h2>Why Choose Wood Windows?</h2>
+              <h2>Solid Wood Windows: A Specific High-End Choice</h2>
               <p>
-                Wood windows offer unmatched natural beauty and superior insulation properties, making them the premium choice for McKinney homeowners who value traditional craftsmanship and authentic materials. With their timeless character and exceptional thermal performance, wood windows provide the perfect combination of aesthetics and efficiency.
+                Solid wood windows occupy a specific high-end niche in the McKinney replacement market. They are
+                the right answer for two distinct kinds of homes: the historic Victorian, craftsman, and bungalow
+                homes of Old East McKinney where period authenticity matters as much as performance, and the
+                high-end custom builds in Tucker Hill, Adriatica Village, and around McKinney Country Club where
+                wood is part of the original design language. Wood is a deliberate choice with real maintenance
+                trade-offs, and we&apos;ll help you decide whether it&apos;s the right call for your home.
               </p>
               <p>
-                Natural wood provides superior insulation compared to other materials, helping maintain comfortable temperatures in McKinney homes year-round. The material&apos;s natural insulating properties reduce energy costs while providing the authentic warmth and character that only real wood can offer.
+                What sets wood apart is the look and feel of the actual material. The grain of mahogany, the warm
+                tone of stained pine, the way oak takes a finish, the way cherry darkens over decades; these are
+                properties of the actual material that vinyl wood-grain laminates and fiberglass paint can only
+                approximate. For homes where the architectural integrity of the elevation depends on real wood,
+                replacing with anything else is a visible compromise from the curb.
               </p>
 
-              <h3>Key Benefits</h3>
+              <h3>Wood&apos;s Thermal Performance</h3>
+              <p>
+                Wood is naturally insulating because of its cellular structure, which contains millions of tiny
+                air pockets that resist heat transfer. Combined with Low-E2 or Low-E3 glass and argon fill, modern
+                wood windows produce U-factor numbers in the 0.25 to 0.30 range, which puts them in the same
+                performance band as premium vinyl, fiberglass, or aluminum-clad wood. Wood interior surfaces also
+                feel slightly warmer to the touch during cold snaps than metal-framed windows, which contributes
+                to the warm, traditional feel of the room.
+              </p>
+
+              <h3>Maintenance Reality You Should Know</h3>
+              <p>
+                Wood windows require ongoing exterior maintenance, and we&apos;ll be straightforward about it.
+                Exterior surfaces need to be repainted or refinished every 3 to 5 years to prevent moisture
+                intrusion and UV degradation, particularly on south- and west-facing McKinney elevations where
+                Texas sun is most intense. For homeowners who don&apos;t want this maintenance commitment, we typically
+                recommend wood-clad lines (Pella Reserve Traditional or Marvin Signature Ultimate) instead of full
+                solid wood.
+              </p>
+
+              <h3>Key Benefits in McKinney</h3>
               <ul>
-                <li>Natural beauty and warmth</li>
-                <li>Superior insulation properties</li>
-                <li>Timeless character and craftsmanship</li>
-                <li>Customizable finishes and stains</li>
-                <li>Excellent energy efficiency</li>
-                <li>Perfect for historic and custom homes</li>
-                <li>Long-lasting with proper maintenance</li>
+                <li>Authentic solid wood character</li>
+                <li>Multiple species available (pine, fir, mahogany, oak, cherry)</li>
+                <li>Strong natural thermal insulation</li>
+                <li>Time-tested traditional joinery</li>
+                <li>Refinishable indefinitely</li>
+                <li>Period-correct for historic Old East McKinney homes</li>
+                <li>Custom divided-lite patterns for architectural authenticity</li>
+                <li>50-100 year potential service life with proper maintenance</li>
               </ul>
 
-              <h3>Perfect for Discerning McKinney Homeowners</h3>
+              <h3>Where Wood Belongs in McKinney</h3>
               <p>
-                Wood windows are ideal for McKinney homeowners who appreciate traditional craftsmanship and natural materials. Whether restoring a historic downtown home or building a custom luxury residence, wood windows provide the authentic beauty and superior performance that discerning homeowners expect. With proper care and maintenance, wood windows can last for generations, making them a true investment in your home&apos;s character and value.
+                The clearest application is the historic homes of Old East McKinney, particularly the Victorian
+                and craftsman properties along Church Street, Tucker Street, and the surrounding blocks. Wood is
+                also a frequent specification in the custom-built estates near McKinney Country Club where the
+                original architect chose wood as part of the design intent. New high-end custom homes in Tucker
+                Hill and Adriatica Village often include wood windows as a defining material on at least the front
+                elevation. For builder-grade replacements in master-planned communities, vinyl, fiberglass, or
+                Andersen Fibrex composite usually deliver better value at the price point.
               </p>
             </div>
 

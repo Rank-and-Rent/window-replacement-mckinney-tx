@@ -60,27 +60,66 @@ export default function AluminumWindowsPage() {
         <div className={styles.container}>
           <div className={styles.contentGrid}>
             <div className={styles.mainContent}>
-              <h2>Why Choose Aluminum Windows?</h2>
+              <h2>Aluminum Windows in McKinney: A Defined Niche</h2>
               <p>
-                Aluminum windows offer exceptional durability and strength, making them an excellent choice for McKinney homeowners seeking modern, low-maintenance solutions. With their sleek contemporary styling and advanced thermal efficiency, aluminum windows provide the perfect combination of form and function for North Texas homes.
+                Aluminum windows occupy a specific niche in the McKinney replacement market: they&apos;re the right
+                answer for contemporary architecture, large openings that need narrow sightlines, and homeowners
+                who want a window with a defined modern look. Modern residential aluminum windows are nothing like
+                the leaky, conductive single-pane aluminum that defined the 1970s. Today&apos;s aluminum windows
+                incorporate engineered thermal breaks, multi-cavity extrusions, and high-performance Low-E glass
+                packages that produce thermal performance comparable to quality vinyl, while preserving the
+                strength and minimalism that aluminum is known for.
               </p>
               <p>
-                Modern aluminum windows feature thermal breaks that dramatically improve energy efficiency compared to older aluminum designs. This makes them ideal for McKinney&apos;s climate, where hot summers and cool winters demand superior insulation performance.
+                A thermal break is a non-conductive polymer (polyurethane or polyamide) inserted between the inside
+                and outside aluminum extrusions. It prevents the metal frame from conducting heat directly from
+                outside to inside, which is the single biggest improvement in residential aluminum window
+                technology in the last 30 years. With a properly engineered thermal break, an aluminum window
+                achieves U-factor values comparable to vinyl. For McKinney&apos;s hot summers, this is the difference
+                between a window that radiates heat into the room all afternoon and one that holds a comfortable
+                interior surface temperature.
               </p>
 
-              <h3>Key Benefits</h3>
+              <h3>Where Aluminum Belongs in McKinney</h3>
+              <p>
+                Aluminum is at its best on contemporary and modern architecture: clean-lined homes in Tucker Hill,
+                contemporary new builds in Trinity Falls, transitional designs along the Stonebridge Ranch
+                fairways, and any home where the design intent calls for narrow sightlines that step back from
+                the view. Aluminum is also the right answer for very large openings (over 8 feet on a side) where
+                vinyl can begin to deflect under load. By contrast, aluminum is usually not the first choice for
+                traditional Victorian or craftsman homes in Old East McKinney, where the wider sightlines of wood
+                or wood-clad windows match the home&apos;s original character better.
+              </p>
+
+              <h3>Key Benefits in McKinney</h3>
               <ul>
-                <li>Exceptional durability and strength</li>
-                <li>Sleek, modern contemporary design</li>
-                <li>Impact resistant for Texas weather</li>
-                <li>Low maintenance - never needs painting</li>
-                <li>Thermal break technology for energy efficiency</li>
-                <li>Perfect for large openings and commercial applications</li>
+                <li>Slim sightlines that maximize glass area</li>
+                <li>Structural strength suitable for very large openings</li>
+                <li>Impact-resistant for severe storm season exposure</li>
+                <li>Factory powder-coat finishes in nearly any color</li>
+                <li>Low long-term maintenance (factory finish, periodic refinishing)</li>
+                <li>Thermal break engineering for vinyl-comparable U-factor</li>
+                <li>40+ year frame service life</li>
+                <li>100% recyclable at end of life</li>
               </ul>
 
-              <h3>Perfect for Modern McKinney Homes</h3>
+              <h3>Glass Packages and Long-Term Performance</h3>
               <p>
-                Aluminum windows excel in contemporary McKinney homes, offering sleek profiles and expansive glass areas that maximize natural light. The material&apos;s strength allows for larger window openings without compromising structural integrity, perfect for modern architectural designs popular in new McKinney developments.
+                Modern thermally-broken aluminum windows pair with the same Low-E glass packages, argon fills, and
+                warm-edge spacers as any other premium framing material. We typically spec Low-E2 or Low-E3
+                coatings on McKinney installations, with solar-control packages on west- and south-facing
+                elevations where solar gain is the dominant performance issue. Frame service life regularly
+                exceeds 40 years; the factory finish typically goes 8 to 12 years before any cosmetic refinishing
+                is needed, with the frames themselves never rusting, rotting, or warping in McKinney humidity.
+              </p>
+
+              <h3>Color and Customization</h3>
+              <p>
+                Aluminum&apos;s big aesthetic advantage is its color program. The frames accept extensive factory
+                powder-coat finishes including matte black, anodized bronze, satin nickel, custom colors matched to
+                an architectural palette, and metallic finishes that are essentially impossible to replicate in
+                vinyl or fiberglass. For McKinney custom homes where the windows are intended to be a defining
+                exterior design element, aluminum&apos;s color flexibility is one of its strongest selling points.
               </p>
             </div>
 

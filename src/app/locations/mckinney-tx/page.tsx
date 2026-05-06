@@ -33,7 +33,7 @@ export default function McKinneyPage() {
             <div className={styles.heroText}>
               <span className={styles.sectionLabel}>Service Area</span>
               <h1>Window Replacement in <em>McKinney, TX</em></h1>
-              <p>As the heart of our service area, McKinney homeowners have trusted Window Replacements of McKinney for over 15 years. We&apos;re proud to serve our hometown with premium window and door installations from the industry&apos;s most respected brands.</p>
+              <p>McKinney is our hometown, and after more than fifteen years installing windows and doors here, we know its streets, its weather, and its homes as well as anyone. From the wraparound porches of Old East McKinney to the new builds rising along Trinity Falls Parkway, we deliver factory-certified replacements engineered for North Texas summers, severe-weather seasons, and the occasional ice event that homeowners still remember from Winter Storm Uri.</p>
             </div>
             <div className={styles.heroImage}>
               <img
@@ -50,51 +50,96 @@ export default function McKinneyPage() {
         <div className={styles.container}>
           <div className={styles.contentGrid}>
             <div className={styles.mainContent}>
-              <h2>McKinney&apos;s Trusted Window Experts</h2>
+              <h2>McKinney&apos;s Trusted Window and Door Specialists</h2>
               <p>
-                McKinney is more than just our service area—it&apos;s our home. From the historic downtown 
-                square to the newest developments in Stonebridge Ranch and Trinity Falls, we understand 
-                the unique needs of McKinney homes and the families who live in them.
+                McKinney is more than a service area for us; it&apos;s the city we live in, raise our families in,
+                and stake our reputation on. Within minutes of leaving the shop we can be at a Victorian on Church
+                Street, a transitional new build in Stonebridge Ranch, a custom estate near McKinney Country Club,
+                or a tract home off Eldorado Parkway. That kind of proximity translates directly into faster site
+                visits, tighter scheduling around weather, and accountable warranty service when you need us back.
               </p>
               <p>
-                Our team of factory-certified installers specializes in replacing windows and doors 
-                throughout McKinney&apos;s diverse neighborhoods. Whether you have a charming Craftsman 
-                in the historic district or a modern home in Craig Ranch, we have the expertise to 
-                enhance your home&apos;s beauty, comfort, and energy efficiency.
+                Every replacement we install is sized, ordered, and fit specifically for the opening it goes into.
+                We don&apos;t carry generic stock windows in a warehouse and force them into your home. We measure on
+                site, factor in original framing quirks, and place factory orders with Andersen, Pella, Marvin, or
+                JELD-WEN to match the exact look and performance you&apos;re after. The result is windows that fit
+                cleanly the first time and doors that swing true season after season.
+              </p>
+
+              <h3>Neighborhoods We Serve Across McKinney</h3>
+              <p>
+                Our crews work the entire 75069, 75070, 75071, and 75072 ZIP code area, including but not limited
+                to Stonebridge Ranch, Craig Ranch, Trinity Falls, Tucker Hill, Adriatica Village, Avalon, Mallard
+                Lakes, Wynn Ridge, Provine Farms, Wilmeth Ridge, Cumberland Crossing, Eldorado, the Town &amp; Country
+                area near McKinney Country Club, and the Historic Downtown McKinney district. Each of these
+                neighborhoods has its own personality and its own typical replacement profile, and we adjust our
+                approach accordingly.
+              </p>
+              <ul>
+                <li>Historic Downtown McKinney &amp; Old East McKinney</li>
+                <li>Stonebridge Ranch and Adriatica Village</li>
+                <li>Craig Ranch and the TPC Craig Ranch corridor</li>
+                <li>Trinity Falls and the U.S. 75 north growth area</li>
+                <li>Eldorado, Eldorado Heights, and Provine Farms</li>
+                <li>Tucker Hill, Avalon, and Wynn Ridge</li>
+                <li>McKinney Country Club / Town &amp; Country</li>
+                <li>Mallard Lakes, Wilmeth Ridge, and Cumberland Crossing</li>
+                <li>Westridge and the Custer Road corridor</li>
+              </ul>
+
+              <h3>How McKinney&apos;s Climate Drives Our Recommendations</h3>
+              <p>
+                The Collin County climate puts windows under serious stress. Summer afternoons routinely push past
+                100&deg;F with intense UV exposure, and west-facing rooms often run six to eight degrees warmer than
+                the rest of the home before we replace single-pane or failed dual-pane glass. Spring brings the
+                severe storm season that drives hail and straight-line wind through the region, and most McKinney
+                homeowners have at least one memory of a freeze event that taxed their existing windows. We spec
+                Low-E2 or Low-E3 coatings, argon fills, and impact-rated glass packages where they make sense, and
+                we don&apos;t oversell anything that won&apos;t pay back in comfort or efficiency on your block.
+              </p>
+
+              <h3>Working With McKinney&apos;s Diverse Housing Stock</h3>
+              <p>
+                The housing mix here is unusually broad. Old East McKinney still has true Victorians and craftsman
+                bungalows from the early 1900s, and those homes deserve wood or wood-clad replacements that respect
+                the original sightlines, sash proportions, and brick mould profiles. Master-planned communities like
+                Stonebridge Ranch and Trinity Falls lean toward fiberglass, vinyl, or Andersen&apos;s Fibrex composite
+                for builder-spec sizes that need to come up to modern energy standards without architectural
+                changes. Custom estates near the country club often pair Marvin Signature Ultimate or Pella
+                Reserve casements and double-hungs with mahogany or fiberglass entry doors. We&apos;ve worked all of
+                these segments and we don&apos;t cross-prescribe between them.
+              </p>
+
+              <h3>Permits, HOAs, and Local Building Code</h3>
+              <p>
+                Window and door replacement in McKinney typically requires a permit through the City of McKinney
+                Building Inspections department, especially when the opening size, header, or egress changes. Many
+                of the master-planned communities also have active architectural control committees that approve
+                exterior changes, frame colors, and divided-lite patterns. We pull permits, file ACC applications,
+                and coordinate inspections so the project closes cleanly. If you&apos;re in a deed-restricted area like
+                Stonebridge Ranch or Tucker Hill, we&apos;ll handle the paperwork the way the committee expects to see
+                it from a contractor that&apos;s done it dozens of times.
+              </p>
+
+              <h3>Energy, Utilities, and Long-Term Value in McKinney</h3>
+              <p>
+                With Oncor delivering electricity to most of McKinney and CoServ Gas covering many of the
+                surrounding parcels, energy efficiency is a real economic question, not a marketing line. ENERGY
+                STAR-qualified windows in our climate zone routinely pay back in lower cooling load on south- and
+                west-facing elevations, and a properly sealed entry door eliminates the drafts homeowners feel
+                during cold fronts. We&apos;ll walk you through which packages move the needle in McKinney specifically,
+                so you&apos;re not buying triple-pane glass for a north-facing wall that doesn&apos;t need it.
               </p>
 
               <h3>Why McKinney Homeowners Choose Us</h3>
               <ul>
-                <li>Local ownership with 15+ years serving McKinney</li>
-                <li>Factory-certified installers for Andersen, Pella, JELD-WEN, and Marvin</li>
-                <li>Quick response times—we&apos;re right here in McKinney</li>
-                <li>Deep understanding of local building requirements</li>
-                <li>Relationships with local HOAs throughout McKinney neighborhoods</li>
+                <li>Locally owned and operated, headquartered right here in McKinney</li>
+                <li>Factory-certified for Andersen, Pella, JELD-WEN, and Marvin</li>
+                <li>Same-week quotes and rapid warranty response across the city</li>
+                <li>Familiarity with McKinney HOAs and the city permit process</li>
+                <li>Itemized, written estimates with no high-pressure tactics</li>
+                <li>Lifetime workmanship warranty backed by our local crews</li>
               </ul>
-
-              <h3>Neighborhoods We Serve in McKinney</h3>
-              <p>
-                Our installation teams work throughout all McKinney neighborhoods, including:
-              </p>
-              <ul>
-                <li>Stonebridge Ranch</li>
-                <li>Craig Ranch</li>
-                <li>Trinity Falls</li>
-                <li>Historic Downtown McKinney</li>
-                <li>Eldorado & Eldorado Heights</li>
-                <li>Tucker Hill</li>
-                <li>Adriatica Village</li>
-                <li>Westridge</li>
-                <li>And every neighborhood in between</li>
-              </ul>
-
-              <h3>Understanding McKinney&apos;s Window Needs</h3>
-              <p>
-                North Texas weather presents unique challenges for windows. From scorching summer heat 
-                to occasional severe storms, your windows need to perform in demanding conditions. 
-                Our premium window and door products are specifically selected for their ability to 
-                handle our climate while keeping your home comfortable and your energy bills manageable.
-              </p>
             </div>
 
             {/* Sidebar */}

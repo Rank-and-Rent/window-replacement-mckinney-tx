@@ -77,36 +77,84 @@ export default function FrenchDoorPage() {
         <div className={styles.container}>
           <div className={styles.contentGrid}>
             <div className={styles.content}>
-              <h2>Classic Beauty That Never Goes Out of Style</h2>
+              <h2>French Doors: Classic Style That Works for Modern McKinney Homes</h2>
               <p>
-                French doors have graced elegant homes for centuries, and their appeal remains as strong 
-                as ever. The glass-paneled double door configuration creates a sense of openness and 
-                grandeur that single doors simply cannot match.
+                A French door is a hinged double-door pair, typically with multiple glass panels (the divided
+                lights or grilles) running the full height of each door, designed to swing inward or outward as
+                a paired unit. The style has been used in residential architecture for centuries, and it remains
+                one of the most flexible patio and interior door configurations available. For McKinney homeowners
+                who want the look of traditional architecture, the airflow of fully-opening doors, and a finished
+                appearance that holds up at resale, French doors deliver in a way that sliders and bi-fold systems
+                don&apos;t fully match.
+              </p>
+              <p>
+                We install French doors throughout McKinney as both interior and exterior units, with frame
+                materials and glass packages selected to suit the application. The exterior version is the more
+                common project: replacing an aging slider with a French door pair on a backyard patio, or
+                adding French doors as an opening to a screened porch or rear deck. Interior French doors are a
+                regular feature in McKinney custom homes, separating formal dining from kitchen, primary suite
+                from primary bath, or a study from the rest of the open plan.
               </p>
 
-              <h3>Interior French Doors</h3>
+              <h3>Interior French Doors in McKinney Homes</h3>
               <p>
-                Create elegant transitions between living spaces, home offices, or dining rooms. Interior 
-                French doors allow light to flow between rooms while providing privacy when needed.
+                Interior French doors provide a graceful transition between rooms while preserving the open
+                feel of a contemporary floor plan. They&apos;re the right pick for separating a home office or study
+                from the main living areas (the doors close for privacy on calls and conferences), for finishing
+                off a primary suite where the bedroom and bath connect, and for creating a defined formal
+                dining room when the floor plan otherwise would have flowed continuously. Interior French
+                doors are typically wood or fiberglass with clear or frosted glass panels, sized to standard
+                interior door dimensions or custom-built for unusual openings.
               </p>
 
-              <h3>Exterior French Doors</h3>
+              <h3>Exterior French Doors and Outdoor Living</h3>
               <p>
-                Perfect for patios, balconies, and garden access. Exterior French doors from Andersen, 
-                Pella, JELD-WEN, and Marvin feature enhanced weatherstripping and security hardware for 
-                Texas conditions.
+                Exterior French doors are a popular replacement for original sliding glass doors in McKinney
+                homes where the homeowner wants a more architectural feel on the rear elevation. Unlike a slider
+                that has at least one fixed panel and a track running across the floor, French doors swing fully
+                open to clear the entire rough opening, which means the indoor-outdoor transition feels more
+                continuous and the doors themselves present better aesthetically. Premium exterior French doors
+                from Andersen, Pella, Marvin, and JELD-WEN use multi-point locking systems, weather-stripping
+                designed for severe-storm exposure, and Low-E glass packages tuned for solar control.
               </p>
 
-              <h3>Glass Options</h3>
+              <h3>Glass and Grille Options</h3>
               <p>
-                Choose from clear, frosted, or decorative glass patterns. Grille options range from 
-                traditional divided lights to contemporary full-glass panels. Low-E coatings provide 
-                energy efficiency without sacrificing views.
+                French doors are defined visually by their glass treatment. Traditional divided-lite patterns
+                (3-lite, 6-lite, 10-lite, 15-lite) replicate the historic French door aesthetic and work well
+                in transitional and traditional McKinney architecture. Single-pane full-glass French doors offer
+                a more contemporary look, popular in modern homes in Tucker Hill and Adriatica. Frosted, etched,
+                or laminated privacy glass is available for interior applications where light transmission
+                matters but visual privacy does too. Low-E coatings and argon fill are standard on exterior
+                applications.
+              </p>
+
+              <h3>Hardware and Operation</h3>
+              <p>
+                French doors typically have an active leaf and a stationary leaf. The active leaf has the lever
+                or knob handle and operates daily; the stationary leaf is held in place by flush bolts at the
+                head and foot, and is opened only when the homeowner wants the full opening cleared (entertaining,
+                furniture moves, etc). For exterior French doors, multi-point locking systems on the active leaf
+                engage at the head, foot, and middle of the door, distributing force and dramatically improving
+                security over a single-deadbolt configuration. Hardware finishes match interior or exterior
+                fixtures: satin nickel, matte black, oil-rubbed bronze, or whatever ties cleanly into the rest of
+                the home.
+              </p>
+
+              <h3>Installation Considerations for McKinney Homes</h3>
+              <p>
+                French door rough openings are larger than most other door types, and the exterior framing has to
+                be properly detailed for weather. Our crews handle full-frame replacement when the original
+                opening was a slider with different dimensions, including framing modifications, header
+                adjustments, and exterior trim integration. We detail the head flashing carefully because the
+                wider opening produces more water shed during a severe storm, and we shim the units precisely so
+                the active leaf swings free without binding against the inactive leaf or the stop.
               </p>
 
               <h2>Ready for Your Free Estimate?</h2>
               <p>
-                Contact us today to explore French door options for your McKinney home.
+                Contact us today to explore French door options for your McKinney home. We&apos;ll measure on site,
+                walk through configuration and glass options, and send a detailed written estimate.
               </p>
             </div>
 
