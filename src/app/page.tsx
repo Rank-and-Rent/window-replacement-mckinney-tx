@@ -37,45 +37,45 @@ export default function Home() {
 
   return (
     <>
-      {/* Hero Section */}
-      <section className={styles.hero}>
-        {/* Brand Logos Banner - positioned below fixed header */}
-        <div className={styles.heroBrandsBanner}>
-          <div className={styles.heroBrandsContainer}>
-            <div className={styles.heroBrandsRow}>
-              <span className={styles.heroBrandsLabel}>Trusted Brands:</span>
-              <a href="/brands" className={styles.heroBrandLink}>
-                <img
-                  src="/andersen-windows-and-doors-mckinney-tx-logo.png"
-                  alt="Andersen Windows & Doors"
-                  className={styles.heroBrandLogo}
-                />
-              </a>
-              <a href="/brands" className={styles.heroBrandLink}>
-                <img
-                  src="/pella-windows-and-doors-mckinney-tx-logo.png"
-                  alt="Pella Windows & Doors"
-                  className={styles.heroBrandLogo}
-                />
-              </a>
-              <a href="/brands" className={styles.heroBrandLink}>
-                <img
-                  src="/jeld-wen-windows-and-doors-mckinney-tx-logo.png"
-                  alt="Jeld-Wen Windows & Doors"
-                  className={styles.heroBrandLogo}
-                />
-              </a>
-              <a href="/brands" className={styles.heroBrandLink}>
-                <img
-                  src="/marvin-windows-and-doors-mckinney-tx-logo.png"
-                  alt="Marvin Windows & Doors"
-                  className={styles.heroBrandLogo}
-                />
-              </a>
-            </div>
+      {/* Brand Logos Banner - first section so it sits under the fixed header */}
+      <section className={styles.heroBrandsBanner}>
+        <div className={styles.heroBrandsContainer}>
+          <div className={styles.heroBrandsRow}>
+            <span className={styles.heroBrandsLabel}>Trusted Brands:</span>
+            <a href="/brands" className={styles.heroBrandLink}>
+              <img
+                src="/andersen-windows-and-doors-mckinney-tx-logo.png"
+                alt="Andersen Windows & Doors"
+                className={styles.heroBrandLogo}
+              />
+            </a>
+            <a href="/brands" className={styles.heroBrandLink}>
+              <img
+                src="/pella-windows-and-doors-mckinney-tx-logo.png"
+                alt="Pella Windows & Doors"
+                className={styles.heroBrandLogo}
+              />
+            </a>
+            <a href="/brands" className={styles.heroBrandLink}>
+              <img
+                src="/jeld-wen-windows-and-doors-mckinney-tx-logo.png"
+                alt="Jeld-Wen Windows & Doors"
+                className={styles.heroBrandLogo}
+              />
+            </a>
+            <a href="/brands" className={styles.heroBrandLink}>
+              <img
+                src="/marvin-windows-and-doors-mckinney-tx-logo.png"
+                alt="Marvin Windows & Doors"
+                className={styles.heroBrandLogo}
+              />
+            </a>
           </div>
         </div>
+      </section>
 
+      {/* Hero Section */}
+      <section className={styles.hero}>
         <div className={styles.container}>
           <div className={styles.heroGrid}>
             <div className={styles.heroLeft}>
@@ -85,6 +85,10 @@ export default function Home() {
                 America&apos;s most trusted window brands. Transform your home with
                 energy-efficient windows backed by lifetime warranties and expert installation.
               </p>
+              <div className={styles.heroCta}>
+                <Link href="/contact" className="btn-primary large">Get Your Free Estimate</Link>
+                <Link href="/windows" className="btn-secondary large">Explore Window Styles</Link>
+              </div>
               <div className={styles.heroTrust}>
                 <div className={styles.trustItem}>
                   <span className={styles.trustNumber}>15+</span>
@@ -103,9 +107,16 @@ export default function Home() {
               </div>
             </div>
             <div className={styles.heroRight}>
-              <div className={styles.heroCta}>
-                <Link href="/contact" className="btn-primary large">Get Your Free Estimate</Link>
-                <Link href="/windows" className="btn-secondary large">Explore Window Styles</Link>
+              <div className={styles.heroImageWrap}>
+                <img
+                  src="/locations/window-replacement-mckinney-tx-1.png"
+                  alt="Premium replacement windows installed on a McKinney, TX home"
+                  className={styles.heroImage}
+                />
+                <div className={styles.heroImageBadge}>
+                  <span className={styles.heroImageBadgeNumber}>15+</span>
+                  <span className={styles.heroImageBadgeLabel}>Years Serving<br />McKinney</span>
+                </div>
               </div>
             </div>
           </div>
